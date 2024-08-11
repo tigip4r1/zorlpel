@@ -14,6 +14,8 @@ jobs:
         with:
           python-version: '3.10' 
       - run: |
+          chmod +x update-add.sh
+          ./update-add.sh
           python my_file.py
           git config user.name github-actions
           git config user.email github-actions@github.com
