@@ -17,6 +17,7 @@ jobs:
           chmod +x update-add.sh
           ./update-add.sh
           python my_file.py
+          python ip.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
