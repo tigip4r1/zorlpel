@@ -11,4 +11,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10' 
-      - run: python my_file.py
+      - run: |
+          python my_file.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "crongenerated"
+          git push
