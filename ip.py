@@ -110,16 +110,18 @@ removal_files = list(map(lambda x: os.path.join(cwd, 'remove', x), filenames))
 removal_links = []
 
 
-
+# Doing the same removal two different ways since each one misses links for some reason
+# Method 1
 for file_name in removal_files:
 	with (open(file_name, 'r')) as f:
 		found_links = filter(lambda x: x.startswith('http'), f.read().splitlines())
 		removal_links.extend(found_links)
-		#for key,group in it.groupby(f, lambda line: line.startswith('')):
-			#removal_links.append(''.join(list(group)).strip())
-		#for key,group in it.groupby(f, lambda line: line.startswith('http') or line.startswith('#EXTVLCOPT')):
-			#if key:
-				#removal_links.append(''.join(list(group)).strip())
+
+# Method 2
+for file_name in removal_files:
+	with (open(file_name, 'r')) as f:
+		for key,group in it.groupby(f, lambda line: line.startswith('http')):
+			removal_links.append(''.join(list(group)).strip())
 
 
 for file_name in addition_files:
