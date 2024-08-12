@@ -114,10 +114,8 @@ removal_links = []
 # Method 1
 for file_name in removal_files:
 	with (open(file_name, 'r')) as f:
-		#found_links = filter(lambda x: x.startswith('http'), f.read().splitlines())
-		#removal_links.extend(found_links)
-		found_links = filter(lambda x: x.strip().startswith('http'), f.read().splitlines())
-		removal_links.extend(map(lambda x: x.strip(), found_links))
+		found_links = filter(lambda x: x.startswith('http'), f.read().splitlines())
+		removal_links.extend(found_links)
 
 # Method 2
 '''for file_name in removal_files:
@@ -146,7 +144,7 @@ for file_name in addition_files:
 				#	skip_item = True
 
 				for text_line in list(group):
-					if text_line.strip() in '#EXTM3U' or text_line.strip() in removal_links:
+					if text_line.strip() in '#EXTM3U' or text_line in removal_links:
 						skip_item = True
 					
 				if temp_string.strip() in link_category_replacements:
