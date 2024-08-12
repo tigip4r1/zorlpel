@@ -114,8 +114,10 @@ removal_links = []
 # Method 1
 for file_name in removal_files:
 	with (open(file_name, 'r')) as f:
-		found_links = filter(lambda x: x.startswith('http'), f.read().splitlines())
-		removal_links.extend(found_links)
+		#found_links = filter(lambda x: x.startswith('http'), f.read().splitlines())
+		#removal_links.extend(found_links)
+		found_links = filter(lambda x: x.strip().startswith('http'), f.read().splitlines())
+		removal_links.extend(map(lambda x: x.strip(), found_links))
 
 # Method 2
 '''for file_name in removal_files:
