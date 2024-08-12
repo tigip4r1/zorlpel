@@ -71,17 +71,17 @@ file_name_changes = {
 	'ca.m3u': {
 		'prefix': '(CA) ',
 
-		'suffix': ' (ENG)'
+		'suffix': ''
 	},
 	'sv.m3u': {
 		'prefix': '(SV) ',
 
-		'suffix': ' (ESP)'
+		'suffix': ''
 	},
 	'eng.m3u': {
-		'prefix': '(ENG) ',
+		'prefix': '',
 
-		'suffix': ''
+		'suffix': ' (ENGLISH)'
 	},
 	'spa.m3u': {
 		'prefix': '(SPA) ',
