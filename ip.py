@@ -118,11 +118,15 @@ for file_name in removal_files:
 		removal_links.extend(found_links)
 
 # Method 2
-for file_name in removal_files:
+'''for file_name in removal_files:
 	with (open(file_name, 'r')) as f:
 		for key,group in it.groupby(f, lambda line: line.startswith('http')):
 			removal_links.append(''.join(list(group)).strip())
+'''
 
+with open('removal-list.txt', "w") as txt_file:
+	for line in removal_links:
+		txt_file.write("".join(line))
 
 for file_name in addition_files:
 	current_file_base = os.path.basename(file_name)
