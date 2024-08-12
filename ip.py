@@ -176,7 +176,8 @@ for file_name in addition_files:
 					category_name = regex_result.group()
 					# replaces the first occurence of the title if its in the replacement dictionary
 					if category_name in category_replacements:
-						processed_string = re.sub(category_name, category_replacements[category_name], processed_string, 1)
+						#processed_string = re.sub(category_name, category_replacements[category_name], processed_string, 1)
+						processed_string = re.sub(category_search, category_replacements[category_name], processed_string, 1)
 				current_string = processed_string
 
 		if current_string not in all_strings and not skip_item:
