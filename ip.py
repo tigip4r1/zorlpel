@@ -143,7 +143,7 @@ for file_name in addition_files:
 				#if temp_string.strip() in removal_links:
 				#	skip_item = True
 
-				for text_line in list(group):
+				for text_line in temp_string.split("\n"):
 					if text_line.strip() in '#EXTM3U' or text_line in removal_links:
 						skip_item = True
 					
