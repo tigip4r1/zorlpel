@@ -134,13 +134,19 @@ for file_name in addition_files:
 		category_name = ''
 		for key,group in it.groupby(f, lambda line: line.startswith('#EXTINF')):
 			# if it doesn't begin with the #EXTINF, it should continue adding to the string
+			
 			if not key:
 				temp_string = ''.join(list(group))
 
-				if temp_string.strip() in '#EXTM3U':
-					skip_item = True
-				if temp_string.strip() in removal_links:
-					skip_item = True
+				#if temp_string.strip() in '#EXTM3U':
+				#	skip_item = True
+				#if temp_string.strip() in removal_links:
+				#	skip_item = True
+
+				for text_line in list(group):
+					if text_line.strip() in '#EXTM3U' or text_line.strip() in removal_links:
+						skip_item = True
+					
 				if temp_string.strip() in link_category_replacements:
 					temp_string = re.sub(category_name, link_category_replacements[temp_string.strip()], current_string, 1)
 
