@@ -95,7 +95,7 @@ file_name_changes = {
 
 # Regex for searching
 name_search = r"(?<=\",)(.*?)(?=\n)" # Regex used for finding the channel names from the m3u file
-category_search = r"(?<=group-title=\")(.*)(?=\")" # Regex used for finding the category name for a channel
+category_search = r"(?<=group-title=\")(.*?)(?=\")" # Regex used for finding the category name for a channel
 
 # Internal variables
 current_string = ''
