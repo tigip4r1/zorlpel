@@ -113,11 +113,13 @@ removal_links = []
 
 for file_name in removal_files:
 	with (open(file_name, 'r')) as f:
+		found_links = filter(lambda x: x.startswith('http') or x.startswith('#EXTVLCOPT'), f.read().splitlines())
+		removal_links.extend(found_links)
 		#for key,group in it.groupby(f, lambda line: line.startswith('')):
 			#removal_links.append(''.join(list(group)).strip())
-		for key,group in it.groupby(f, lambda line: line.startswith('http') or line.startswith('#EXTVLCOPT')):
-			if key:
-				removal_links.append(''.join(list(group)).strip())
+		#for key,group in it.groupby(f, lambda line: line.startswith('http') or line.startswith('#EXTVLCOPT')):
+			#if key:
+				#removal_links.append(''.join(list(group)).strip())
 
 
 for file_name in addition_files:
