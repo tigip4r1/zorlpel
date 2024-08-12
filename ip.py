@@ -126,7 +126,7 @@ for file_name in removal_files:
 
 with open('removal-list.txt', "w") as txt_file:
 	for line in removal_links:
-		txt_file.write("".join(line))
+		txt_file.write("".join(line) + "\n")
 
 for file_name in addition_files:
 	current_file_base = os.path.basename(file_name)
