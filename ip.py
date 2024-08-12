@@ -113,9 +113,11 @@ removal_links = []
 
 for file_name in removal_files:
 	with (open(file_name, 'r')) as f:
-		for key,group in it.groupby(f, lambda line: line.startswith('http')):
-			if key:
-				removal_links.append(''.join(list(group)).strip())
+		for key,group in it.groupby(f, lambda line: line.startswith('')):
+			removal_links.append(''.join(list(group)).strip())
+		#for key,group in it.groupby(f, lambda line: line.startswith('http')):
+			#if key:
+				#removal_links.append(''.join(list(group)).strip())
 
 
 for file_name in addition_files:
@@ -132,7 +134,7 @@ for file_name in addition_files:
 				if temp_string.strip() in removal_links:
 					skip_item = True
 				if temp_string.strip() in link_category_replacements:
-					current_string = re.sub(category_name, link_category_replacements[temp_string.strip()], current_string, 1)
+					temp_string = re.sub(category_name, link_category_replacements[temp_string.strip()], current_string, 1)
 
 				current_string+= temp_string
 				
