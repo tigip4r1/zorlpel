@@ -1,0 +1,34 @@
+// Script used and pasted in https://www.isitiptv.com/online-iptv-player/watch.php
+//https://clappr.github.io/classes/Playback.html#method_isPlaying
+//https://github.com/clappr/clappr/issues/411
+var channels = document.getElementsByClassName("channel");
+var count = -1;
+var errorChannels = []
+var channelTimeout = null;
+
+function nextChannel() {
+    clearTimeout(channelTimeout)
+    count++;
+    if (count >= channels.length) {
+        console.log(errorChannels.join("\n"));
+        console.log("Finished checking channels");
+        return;
+    }
+    channels[count].click();
+    channelTimeout = setTimeout(function() { errorChannels.push(channels[count].innerText); errorChannels.push(player._options.source); nextChannel();}, 60000);
+}
+
+player.on(Clappr.Events.PLAYER_PLAY, () => { 
+    console.log("Play Success");
+    console.log(channels[count].innerText, player._options.source);
+    nextChannel();
+})
+player.on(Clappr.Events.PLAYER_ERROR, () => { 
+    errorChannels.push(channels[count].innerText);
+    errorChannels.push(player._options.source);
+
+    console.log("Play Fail");
+    console.log(channels[count].innerText, player._options.source);
+    nextChannel();
+})
+nextChannel();
