@@ -3,7 +3,9 @@
 name: test flow
 
 on:
-  workflow_dispatch
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
 
 jobs:
   rundascript:
