@@ -62,6 +62,8 @@ http://45.181.122.13:8000/play/019
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",(SV) Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrbitaFM.sv" tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="~Misc",(SV) Órbita FM (720p)
+https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
 #EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" group-title="Animation",(SV) Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",(SV) Platzi TV (1080p)
@@ -76,6 +78,8 @@ https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Tevex.cl" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Business",(SV) Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="Sports",(SV) Tigo Sports TV El Salvador (720p) [Geo-blocked]
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 #EXTINF:-1 tvg-id="TVCRET.sv" tvg-logo="https://i.imgur.com/ChonoKb.png" group-title="Religious",(SV) TV CRET (1080p)
 https://radiocret.net:8082/hls/tvcret.m3u8
 #EXTINF:-1 tvg-id="TVDaja.do" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="~Misc",(SV) TV Daja (1080p)
@@ -4573,6 +4577,8 @@ https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="OrangeTV.us" tvg-logo="https://i.imgur.com/ANfTXIe.png" group-title="Legislative",(SPA) Orange County Orange TV (Orange County FL) (720p)
 https://otv3.ocfl.net/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrbitaFM.sv" tvg-logo="https://i.imgur.com/KTgTjQi.png" group-title="~Misc",(SPA) Órbita FM (720p)
+https://fl1003.bozztv.com/ssh101/OrbitaFM953/index.m3u8
 #EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="Music",(SPA) Oxigeno TV (360p) [Not 24/7]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PCTChannel27.us" tvg-logo="https://i.imgur.com/b0ufMkd.png" group-title="General",(SPA) Pacific Coast TV HMB Coastside Channel 27 (720p)
@@ -5128,6 +5134,8 @@ https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqj
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThemaTelevision.cl" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="~Misc",(SPA) Thema Televisión (La Serena) (720p) [Not 24/7]
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="Sports",(SPA) Tigo Sports TV El Salvador (720p) [Geo-blocked]
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 #EXTINF:-1 tvg-id="TLEstrella.bo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tl-estrella-bo.png" group-title="~Misc",(SPA) TL Estrella (720p) [Not 24/7]
 https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
 #EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="~Misc",(SPA) Tlaxcala Televisión (360p) [Not 24/7]
@@ -5436,6 +5444,9 @@ https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
 #EXTINF:-1 tvg-id="XpressoJovenRadio.cr" tvg-logo="https://i.imgur.com/o7MCfuA.jpg" group-title="Music",(SPA) Xpresso Joven Radio (720p)
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="~Misc",(SPA) XTOTV (1280p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
+http://190.104.15.135/0.ts
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",(SPA) Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
