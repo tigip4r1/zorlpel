@@ -165,8 +165,8 @@ https://lnc-waga.tubi.video/index.m3u8
 https://lnc-kmsp.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="KRIVDT1.us" tvg-name="FOX 26 Houston TX (KRIV) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="Noticias",FOX 26 Houston TX (KRIV) (720p) (ENGLISH)
 https://lnc-kriv.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel (144p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Noticias",Fox News Channel (144p) (ENGLISH)
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Noticias",Fox News Channel (ENGLISH)
+https://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="FOX News Now (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Noticias",FOX News Now (720p) (ENGLISH)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-name="Free Speech TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="Noticias",Free Speech TV (720p) (ENGLISH)
@@ -211,10 +211,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796
 #EXTINF:-1 tvg-id="Newsmax2 (ENGLISH).us" tvg-name="Newsmax2 (ENGLISH)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png" group-title="Noticias",Newsmax2 (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5104-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b86b942-5804-4df4-a9a2-24f45aaeb974
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="Noticias",Newsmax TV [Geo-blocked] (ENGLISH)
-https://newsmax.codeautoplaycdn2.workers.dev/
-#EXTINF:-1 tvg-id="NewsNation (ENGLISH)East.us" tvg-name="NewsNation (ENGLISH)" tvg-logo="https://i.imgur.com/jfWF7h3.png" group-title="Noticias",NewsNation (ENGLISH)
-https://news.codeautoplayserver1.workers.dev/?codeby=nd&channel=newsnation
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="Noticias",Newsmax TV (720p) (ENGLISH)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NewsNet.us" tvg-name="NewsNet (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="Noticias",NewsNet (720p) (ENGLISH)
 https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="KCKSLD2.us" tvg-name="NewsNet (KCKS-LD2) (480p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/woMg1xI.png" group-title="Noticias",NewsNet (KCKS-LD2) (480p) [Not 24/7] (ENGLISH)
@@ -1231,48 +1229,52 @@ https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="CKNOFM.ca" tvg-name="(CA) Now TV 102.3FM Edmonton (CKNO-FM)" tvg-logo="https://i.imgur.com/sF2g7KE.png" group-title="Música",(CA) Now TV 102.3FM Edmonton (CKNO-FM)
 https://videostream.jpbgdigital.com/NOWTV.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="(CA) Stingray Classic Rock" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Música",(CA) Stingray Classic Rock
-https://jmp2.uk/SamsungTVPlus/USBD35000180U.m3u8
-#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-name="(CA) Stingray DJAZZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Música",(CA) Stingray DJAZZ
-https://jmp2.uk/SamsungTVPlus/USBD3500025GS.m3u8
-#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="(CA) Stingray Easy Listening" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Música",(CA) Stingray Easy Listening
-https://jmp2.uk/SamsungTVPlus/USBD3500011J3.m3u8
-#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="(CA) Stingray Flashback 70s" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Música",(CA) Stingray Flashback 70s
-https://jmp2.uk/SamsungTVPlus/USBD3500008IJ.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-name="(CA) Stingray Greatest Hits" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Música",(CA) Stingray Greatest Hits
-https://jmp2.uk/SamsungTVPlus/USBD3500022DN.m3u8
-#EXTINF:-1 tvg-id="StingrayHipHop.ca" tvg-name="(CA) Stingray Hip Hop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Música",(CA) Stingray Hip Hop
-https://jmp2.uk/SamsungTVPlus/USBD3500010MT.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-name="(CA) Qello Concerts by Stingray (1080p)" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Música",(CA) Qello Concerts by Stingray (1080p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="(CA) Stingray Classic Rock (1080p)" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Música",(CA) Stingray Classic Rock (1080p)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="(CA) Stingray Classica (1080p)" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Música",(CA) Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-name="(CA) Stingray CMusic (1080p)" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Música",(CA) Stingray CMusic (1080p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-name="(CA) Stingray DJAZZ (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Música",(CA) Stingray DJAZZ (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-name="(CA) Stingray Easy Listening (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Música",(CA) Stingray Easy Listening (1080p)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-name="(CA) Stingray Flashback 70s (1080p)" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Música",(CA) Stingray Flashback 70s (1080p)
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-name="(CA) Stingray Greatest Hits (1080p)" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Música",(CA) Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-name="(CA) Stingray Hit List (1080p)" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="Música",(CA) Stingray Hit List (1080p)
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-name="(CA) Stingray Holiday Hits (1080p)" tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="Música",(CA) Stingray Holiday Hits (1080p)
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="(CA) Stingray Hot Country" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="Música",(CA) Stingray Hot Country
-https://jmp2.uk/SamsungTVPlus/USBD3300021KV.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-name="(CA) Stingray Hot Country (1080p)" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="Música",(CA) Stingray Hot Country (1080p)
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-name="(CA) Stingray Karaoke (1080p)" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Música",(CA) Stingray Karaoke (1080p)
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-name="(CA) Stingray Nothin' But 90s" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Música",(CA) Stingray Nothin' But 90s
-https://jmp2.uk/SamsungTVPlus/USBD35000149S.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="(CA) Stingray Naturescape (1080p)" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Música",(CA) Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-name="(CA) Stingray Nothin' But 90s (1080p)" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="Música",(CA) Stingray Nothin' But 90s (1080p)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-name="(CA) Stingray Pop Adult (1080p)" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Música",(CA) Stingray Pop Adult (1080p)
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRememberthe80s.ca" tvg-name="(CA) Stingray Remember the 80s" tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="Música",(CA) Stingray Remember the 80s
-https://jmp2.uk/SamsungTVPlus/USBD3300022QK.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-name="(CA) Stingray Remember the 80s (1080p)" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Música",(CA) Stingray Remember the 80s (1080p)
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-name="(CA) Stingray Rock Alternative (1080p)" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Música",(CA) Stingray Rock Alternative (1080p)
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-name="(CA) Stingray Romance Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Música",(CA) Stingray Romance Latino
-https://jmp2.uk/SamsungTVPlus/USBD3500017CE.m3u8
-#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-name="(CA) Stingray Smooth Jazz" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Música",(CA) Stingray Smooth Jazz
-https://jmp2.uk/SamsungTVPlus/USBD35000128A.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-name="(CA) Stingray Soul Storm" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="Música",(CA) Stingray Soul Storm
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-name="(CA) Stingray Romance Latino (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Música",(CA) Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-name="(CA) Stingray Smooth Jazz (1080p)" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Música",(CA) Stingray Smooth Jazz (1080p)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-name="(CA) Stingray Soul Storm (1080p)" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="Música",(CA) Stingray Soul Storm (1080p)
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-name="(CA) Stingray The Spa (1080p)" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="Música",(CA) Stingray The Spa (1080p)
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-name="(CA) Stingray Today's K-Pop" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="Música",(CA) Stingray Today's K-Pop
-https://jmp2.uk/SamsungTVPlus/USBD3500016NH.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-name="(CA) Stingray Today's Latin Pop" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Música",(CA) Stingray Today's Latin Pop
-https://jmp2.uk/SamsungTVPlus/USBD3500009Y3.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-name="(CA) Stingray Today's KPOP (1080p)" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="Música",(CA) Stingray Today's KPOP (1080p)
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-name="(CA) Stingray Today's Latin Pop (1080p)" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Música",(CA) Stingray Today's Latin Pop (1080p)
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-name="(CA) Stingray Urban Beat (1080p)" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Música",(CA) Stingray Urban Beat (1080p)
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us" tvg-name="30A Music Channel (ENGLISH)" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Música",30A Music Channel (ENGLISH)
@@ -1411,6 +1413,8 @@ https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.ar" tvg-name="(SPA) Global TV (1080p)" tvg-logo="https://i.imgur.com/z6srIMD.png" group-title="Música",(SPA) Global TV (1080p)
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-1 tvg-id="HITTV.es" tvg-name="(SPA) Hit Tv" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" group-title="Música",(SPA) Hit Tv
+http://185.189.225.149/HitTV/index.m3u8
 #EXTINF:-1 tvg-id="HuilaTV.co" tvg-name="(SPA) Huila TV (720p)" tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="Música",(SPA) Huila TV (720p)
 https://plataformavideo.com:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-id="IQChannel.cr" tvg-name="(SPA) IQ Channel (720p)" tvg-logo="https://i.imgur.com/hwuaomt.png" group-title="Música",(SPA) IQ Channel (720p)
@@ -1533,6 +1537,8 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="XpressoJovenRadio.cr" tvg-name="(SPA) Xpresso Joven Radio (720p)" tvg-logo="https://i.imgur.com/o7MCfuA.jpg" group-title="Música",(SPA) Xpresso Joven Radio (720p)
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZonaMusicTV.cr" tvg-name="(SPA) Zona Music TV (1080p)" tvg-logo="https://i.imgur.com/TJ5l9iI.png" group-title="Música",(SPA) Zona Music TV (1080p)
+https://acceso.radiosportstv.online:3022/stream/play.m3u8
 #EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-name="30A Ridiculous TV (720p) (ENGLISH)" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Comedia",30A Ridiculous TV (720p) (ENGLISH)
 https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-id="AFV.us" tvg-name="AFV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedia",AFV (720p) (ENGLISH)
@@ -2359,6 +2365,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.gt" tvg-name="(SPA) Tigo Sports (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="Deportes",(SPA) Tigo Sports (Guatemala)
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+#EXTINF:-1 tvg-id="TurfMovil.cl" tvg-name="(SPA) Turf Movil (720p)" tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="Deportes",(SPA) Turf Movil (720p)
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 #EXTINF:-1 tvg-id="VinxTV.es" tvg-name="(SPA) Vinx TV (1080p)" tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="Deportes",(SPA) Vinx TV (1080p)
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 #EXTINF:-1 tvg-id="WAPADT2.pr" tvg-name="(SPA) WAPA-DT2 (WAPA Deportes) (1080p)" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="Deportes",(SPA) WAPA-DT2 (WAPA Deportes) (1080p)
@@ -2761,6 +2769,8 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="101tvAntequera.es" tvg-name="(SPA) 101tv Antequera" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="General",(SPA) 101tv Antequera
 #EXTVLCOPT:http-referrer=https://www.101tv.es/antequera/
+#EXTINF:-1 tvg-id="101tvAxarquia.es" tvg-name="(SPA) 101tv Axarquia (480p)" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="General",(SPA) 101tv Axarquia (480p)
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
 #EXTINF:-1 tvg-id="APlusGuate.gt" tvg-name="(SPA) A+ Guate (720p)" tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="General",(SPA) A+ Guate (720p)
 https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-name="(SPA) ABC-TV Paraguay (720p)" tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="General",(SPA) ABC-TV Paraguay (720p)
@@ -4731,6 +4741,8 @@ https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR=
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="(SPA) Trece Paraguay (1080p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png" group-title="~Misc",(SPA) Trece Paraguay (1080p) [Not 24/7]
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="(SPA) TUDN México (540p)" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="~Misc",(SPA) TUDN México (540p)
+http://190.61.102.67:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="TumpisTV.pe" tvg-name="(SPA) Tumpis TV (720p)" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="~Misc",(SPA) Tumpis TV (720p)
 https://servilive.com:3531/stream/play.m3u8
 #EXTINF:-1 tvg-id="TVCopan.hn" tvg-name="(SPA) TV Copán (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/JiPmRFr.png" group-title="~Misc",(SPA) TV Copán (720p) [Not 24/7]
