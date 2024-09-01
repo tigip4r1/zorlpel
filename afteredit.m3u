@@ -1247,6 +1247,8 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
 #EXTINF:-1 tvg-id="(SPA) ZAZ.mx" tvg-name="(SPA) ZAZ" tvg-logo="https://i.imgur.com/CMMEIq3_d.jpg" group-title="Entretenimiento",(SPA) ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-name="(SV) EnerGeek Radio (1080p)" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Música",(SV) EnerGeek Radio (1080p)
+https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 #EXTINF:-1 tvg-id="FMTV.uk" tvg-name="(SV) Frecuencia Musical TV [Not 24/7]" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Música",(SV) Frecuencia Musical TV [Not 24/7]
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="CKNOFM.ca" tvg-name="(CA) Now TV 102.3FM Edmonton (CKNO-FM)" tvg-logo="https://i.imgur.com/sF2g7KE.png" group-title="Música",(CA) Now TV 102.3FM Edmonton (CKNO-FM)
@@ -2237,8 +2239,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="ANIMESTATION.ar" tvg-name="(SV) ANIMESTATION (Argentina) (720p)" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Animation",(SV) ANIMESTATION (Argentina) (720p)
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-name="(SV) EnerGeek (720p) [Not 24/7]" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",(SV) EnerGeek (720p) [Not 24/7]
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-id="FanpopTV.cl" tvg-name="(SV) Fanpop TV" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Animation",(SV) Fanpop TV
-https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-name="(SV) MAX Anime (720p)" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",(SV) MAX Anime (720p)
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-name="(SV) Pandamax Channel (1080p)" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" group-title="Animation",(SV) Pandamax Channel (1080p)
@@ -2639,6 +2643,8 @@ https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-id="CerritosTV3.us" tvg-name="Cerritos TV3 (360p) (ENGLISH)" tvg-logo="https://i.imgur.com/huCBOIy.png" group-title="General",Cerritos TV3 (360p) (ENGLISH)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="Channel 3 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General",Channel 3 (720p) (ENGLISH)
+https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ScottsdaleChannel11.us" tvg-name="Channel 11 (Scottsdale AZ) (ENGLISH)" tvg-logo="https://i.imgur.com/lfE6Q9i.png" group-title="General",Channel 11 (Scottsdale AZ) (ENGLISH)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 #EXTINF:-1 tvg-id="Channel44.au" tvg-name="Channel 44 (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/P2wUGh9.png" group-title="General",Channel 44 (480p) (ENGLISH)
@@ -4095,6 +4101,8 @@ https://lnc-wlex.tubi.video/playlist.m3u8
 https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
 #EXTINF:-1 tvg-id="NBSTV.ug" tvg-name="NBS TV (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/DmM8jH6.png" group-title="~Misc",NBS TV (480p) (ENGLISH)
 https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBS_Live_stream_ze/5-20-hls/live.m3u8
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-name="NBT 2HD (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/IJh6SHb.png" group-title="~Misc",NBT 2HD (720p) (ENGLISH)
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBTWorld.th" tvg-name="NBT World (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/NRO6AtW.png" group-title="~Misc",NBT World (720p) (ENGLISH)
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24X7 (480p) [Not 24/7] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="~Misc",NDTV 24X7 (480p) [Not 24/7] (ENGLISH)
@@ -4115,6 +4123,8 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
 #EXTINF:-1 tvg-id="Olelo55.us" tvg-name="Olelo Community Media Channel 55 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/0qe2R8b.png" group-title="~Misc",Olelo Community Media Channel 55 (720p) (ENGLISH)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
+#EXTINF:-1 tvg-id="One31.th" tvg-name="ONE 31 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/VY9OdOu.png" group-title="~Misc",ONE 31 (1080p) (ENGLISH)
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 #EXTINF:-1 tvg-id="OpcionTV.us" tvg-name="Opción TV (540p) (ENGLISH)" tvg-logo="https://i.imgur.com/ojTinM2.png" group-title="~Misc",Opción TV (540p) (ENGLISH)
 https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="PalmBeachesTV.us" tvg-name="Palm Beaches TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/kBol4Pf.png" group-title="~Misc",Palm Beaches TV (720p) (ENGLISH)
@@ -4219,6 +4229,8 @@ https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="TimesTV.mw" tvg-name="Times TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/R1OtRpV.png" group-title="~Misc",Times TV (720p) (ENGLISH)
 https://live-par-2-abr-ln-cdn.livepush.io/live_abr_cdn/emDg2JTY15-px4dj/index.m3u8
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/N7HCtbe.png" group-title="~Misc",TNN 16 (720p) (ENGLISH)
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Trigger (ENGLISH).za" tvg-name="Trigger (ENGLISH)" tvg-logo="https://i.imgur.com/TrlrcWf.png" group-title="~Misc",Trigger (ENGLISH)
 https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="~Misc",TRT Belgesel (720p) (ENGLISH)
