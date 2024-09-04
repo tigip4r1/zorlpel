@@ -109,6 +109,8 @@ https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
 https://lnc-kcci.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WLKYDT1.us" tvg-name="CBS 32 Louisville KY (WLKY) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Noticias",CBS 32 Louisville KY (WLKY) (720p) (ENGLISH)
 https://lnc-wlky.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News 24/7 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="Noticias",CBS News 24/7 (ENGLISH)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-name="CBS News Baltimore (ENGLISH)" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="Noticias",CBS News Baltimore (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f75919718aed0007250d7a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2c064a9-4fea-47dd-bfe1-339df4edb223
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-name="CBS News Bay Area (ENGLISH)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" group-title="Noticias",CBS News Bay Area (ENGLISH)
@@ -1447,6 +1449,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
 #EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/6N0qITv.png" group-title="Música",VIP TV (720p) (ENGLISH)
 https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
+#EXTINF:-1 tvg-id="WVCULP.us" tvg-name="WVCU-LP Concord University Radio The Cure 97.7 (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG" group-title="Música",WVCU-LP Concord University Radio The Cure 97.7 (1080p) (ENGLISH)
+https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-id="XPTV1.es" tvg-name="XPTV1 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/Ty7GkoN.png" group-title="Música",XPTV1 (720p) (ENGLISH)
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-id="YoMTV.us" tvg-name="Yo! MTV (ENGLISH)" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="Música",Yo! MTV (ENGLISH)
@@ -1914,7 +1918,7 @@ https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN United States (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN United States (720p) (ENGLISH)
 https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FaithTV.za" tvg-name="Faith TV (576p) (ENGLISH)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Religious",Faith TV (576p) (ENGLISH)
-https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
+https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Firstlight.nz" tvg-name="Firstlight (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/gtDROeT.png" group-title="Religious",Firstlight (576p) (ENGLISH)
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FlameTV.ng" tvg-name="Flame TV (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/ORKcnzr.png" group-title="Religious",Flame TV (576p) (ENGLISH)
@@ -2657,6 +2661,8 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iTV.it" tvg-name="A2i TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/YlDFir7.jpg" group-title="General",A2i TV (1080p) (ENGLISH)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2Z (ENGLISH).ph" tvg-name="A2Z (ENGLISH)" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General",A2Z (ENGLISH)
+https://tv-noyzkie.serv00.net/streams/A2Z.m3u8
 #EXTINF:-1 tvg-id="AccessHumboldt.us" tvg-name="Access Humboldt (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/tJl43uM.png" group-title="General",Access Humboldt (1080p) (ENGLISH)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/66dfbe35ca1a418c87e3cf18ca46bd57/index.m3u8
 #EXTINF:-1 tvg-id="AMP1.us" tvg-name="Access Media Productions Channel (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/3ZhrthD.png" group-title="General",Access Media Productions Channel (720p) (ENGLISH)
@@ -2701,8 +2707,8 @@ https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="C31Melbourne.au" tvg-name="C31 Melbourne (240p) (ENGLISH)" tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="General",C31 Melbourne (240p) (ENGLISH)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="CapeTownTV.za" tvg-name="Cape Town TV (ENGLISH)" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="General",Cape Town TV (ENGLISH)
-https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="CapeTownTV.za" tvg-name="Cape Town TV (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="General",Cape Town TV (576p) (ENGLISH)
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CAPSChannel6.us" tvg-name="CAPS Media Channel 6 (Ventura CA) (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/by9Q5Ea.png" group-title="General",CAPS Media Channel 6 (Ventura CA) (480p) (ENGLISH)
 https://reflect-stream6-capsmedia.cablecast.tv/live/live.m3u8
 #EXTINF:-1 tvg-id="CAPSChannel15.us" tvg-name="CAPS Media Channel 15 (Ventura CA) (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/by9Q5Ea.png" group-title="General",CAPS Media Channel 15 (Ventura CA) (480p) (ENGLISH)
@@ -2848,7 +2854,7 @@ https://anystrument.com:5443/LiveApp/streams/DfywyaY3DcWf1709948634332.m3u8
 #EXTINF:-1 tvg-id="TV3.ws" tvg-name="TV3 (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/VT2Tqmr.png" group-title="General",TV3 (720p) [Not 24/7] (ENGLISH)
 https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
 #EXTINF:-1 tvg-id="TVBRICSAfrica.za" tvg-name="TV BRICS Africa (1080p) (ENGLISH)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="General",TV BRICS Africa (1080p) (ENGLISH)
-https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/chunklist.m3u8
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSEnglish.in" tvg-name="TV BRICS English (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/8rKNuS6.png" group-title="General",TV BRICS English (1080p) (ENGLISH)
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSSelectNetwork.us" tvg-name="TVS Select Network (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="General",TVS Select Network (720p) (ENGLISH)
@@ -3513,8 +3519,6 @@ https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b384020cb1a1000880dee9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799151-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=51514d9d-db13-4653-aa11-b64c6d4665cc
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(CA) Catfish" tvg-logo="" group-title="~Misc",(CA) Catfish
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a2a23a0d700008a6ed7b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799152-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d33cda72-eef1-4ec7-8127-8301aff1d921
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(CA) CBS News 24/7" tvg-logo="" group-title="~Misc",(CA) CBS News 24/7
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6350fdd266e9ea0007bedec5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799153-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15376bcb-2b34-4530-a2f7-c528a8eb2aa3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(CA) Cheaters" tvg-logo="" group-title="~Misc",(CA) Cheaters
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6582f7d612d5ee00089a663d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799154-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0c16eba-1daa-4dd1-9854-b271c81bb5e8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(CA) Cheers" tvg-logo="" group-title="~Misc",(CA) Cheers
@@ -3902,7 +3906,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(CA) Yu-Gi-Oh!" tvg-logo="" group-title="~Misc",(CA) Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f87c73085b8c0008fc8e95/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7cc5a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5865c45c-42a3-4279-b47e-87d38f6e0cb4
 #EXTINF:-1 tvg-id="1KZNTV.za" tvg-name="1KZN TV (576p) (ENGLISH)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="~Misc",1KZN TV (576p) (ENGLISH)
-https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KIIOLD4.us" tvg-name="AABC TV (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="~Misc",AABC TV (480p) (ENGLISH)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 #EXTINF:-1 tvg-id="WMARDT1.us" tvg-name="ABC 2 Baltimore MD (WMAR) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png" group-title="~Misc",ABC 2 Baltimore MD (WMAR) (720p) (ENGLISH)
@@ -4283,11 +4287,11 @@ https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/liv
 https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ROVTV.za" tvg-name="ROV TV (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/sbeuEYY.png" group-title="~Misc",ROV TV (576p) (ENGLISH)
 https://webstreaming.viewmedia.tv/web_012/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SABC1.za" tvg-name="SABC 1 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="~Misc",SABC 1 (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="SABC1.za" tvg-name="SABC 1 (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="~Misc",SABC 1 (720p) [Geo-blocked] (ENGLISH)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="SABC2.za" tvg-name="SABC 2 (ENGLISH)" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="~Misc",SABC 2 (ENGLISH)
+#EXTINF:-1 tvg-id="SABC2.za" tvg-name="SABC 2 [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="~Misc",SABC 2 [Geo-blocked] (ENGLISH)
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="SABC3.za" tvg-name="SABC 3 (ENGLISH)" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="~Misc",SABC 3 (ENGLISH)
+#EXTINF:-1 tvg-id="SABC3.za" tvg-name="SABC 3 [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="~Misc",SABC 3 [Geo-blocked] (ENGLISH)
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SalvationTV.ng" tvg-name="Salvation TV (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/Nb08dfK.png" group-title="~Misc",Salvation TV (576p) (ENGLISH)
 https://webstreaming.viewmedia.tv/web_017/Stream/playlist.m3u8
@@ -4318,7 +4322,7 @@ https://webstreaming.viewmedia.tv/web_038/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-name="Taiwan Plus TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="~Misc",Taiwan Plus TV (1080p) (ENGLISH)
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNAfrica.za" tvg-name="TBN Africa (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="~Misc",TBN Africa (1080p) (ENGLISH)
-https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8
+https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="KTBNDT4.us" tvg-name="TBN Enlace (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/512px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="~Misc",TBN Enlace (ENGLISH)
 https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNPacific.us" tvg-name="TBN Pacific (ENGLISH)" tvg-logo="https://i.imgur.com/yWJTxKk.png" group-title="~Misc",TBN Pacific (ENGLISH)
@@ -4354,7 +4358,7 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueHistory.us" tvg-name="True History (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="~Misc",True History (720p) (ENGLISH)
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TshwaneTV.za" tvg-name="Tshwane TV (576p) (ENGLISH)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="~Misc",Tshwane TV (576p) (ENGLISH)
-https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TSTV.us" tvg-name="TSTV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/IX8uInV.png" group-title="~Misc",TSTV (720p) (ENGLISH)
 https://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/k5Pve1k.png" group-title="~Misc",TV5 HD (720p) (ENGLISH)
@@ -4891,6 +4895,8 @@ https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 http://190.61.102.67:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="TumpisTV.pe" tvg-name="(SPA) Tumpis TV (720p)" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="~Misc",(SPA) Tumpis TV (720p)
 https://servilive.com:3531/stream/play.m3u8
+#EXTINF:-1 tvg-id="TelevisionCanaria.es" tvg-name="(SPA) TV Canaria (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/KtG2gvH.png" group-title="~Misc",(SPA) TV Canaria (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 #EXTINF:-1 tvg-id="TVCopan.hn" tvg-name="(SPA) TV Copán (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/JiPmRFr.png" group-title="~Misc",(SPA) TV Copán (720p) [Not 24/7]
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-name="(SPA) TV Cuatro 4.1 (1080p)" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="~Misc",(SPA) TV Cuatro 4.1 (1080p)
@@ -4979,5 +4985,3 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="(SPA) Zoom (1080p)" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="~Misc",(SPA) Zoom (1080p)
 #EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
-#EXTINF:-1 tvg-id="SowetoTV.za" tvg-name="Soweto TV (576p) (ENGLISH)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="Entertainment;Family",Soweto TV (576p) (ENGLISH)
-https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist.m3u8
