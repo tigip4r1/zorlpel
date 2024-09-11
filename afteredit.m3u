@@ -863,6 +863,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In the kitchen (ENGLISH)" tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="Cocina",In the kitchen (ENGLISH)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-id="JuliaChild.us" tvg-name="Julia Child (ENGLISH)" tvg-logo="https://i.imgur.com/o5EPIyZ.png" group-title="Cocina",Julia Child (ENGLISH)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/606b5ee42b54a100079dd593/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88ac2596-0c05-4abb-a965-5fc31339f864
 #EXTINF:-1 tvg-id="Tastemade (ENGLISH).us" tvg-name="Tastemade (ENGLISH)" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="Cocina",Tastemade (ENGLISH)
 https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cocina",Tastemade Travel (720p) (ENGLISH)
@@ -1583,6 +1585,8 @@ https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JooMusic.pk" tvg-name="JooMusic (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Música",JooMusic (720p) (ENGLISH)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JuiceTV.nz" tvg-name="Juice TV (1080p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/WaaaW0w.png" group-title="Música",Juice TV (1080p) [Not 24/7] (ENGLISH)
+https://juicex.nz/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="Live99FM.bq" tvg-name="Live99FM (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/U43UrQT.png" group-title="Música",Live99FM (1080p) (ENGLISH)
 https://media.streambrothers.com:19360/8022/8022.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop (ENGLISH)" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="Música",MTV Biggest Pop (ENGLISH)
@@ -1801,8 +1805,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61325d18f5166c00081b84e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280710-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0a788361-db81-4dff-80d0-0f1f0f20dfd7
 #EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-name="FilmRise Classic TV on Redbox (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Clásico",FilmRise Classic TV on Redbox (720p) (ENGLISH)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="JuliaChild.us" tvg-name="Julia Child (ENGLISH)" tvg-logo="https://i.imgur.com/o5EPIyZ.png" group-title="Clásico",Julia Child (ENGLISH)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/606b5ee42b54a100079dd593/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88ac2596-0c05-4abb-a965-5fc31339f864
 #EXTINF:-1 tvg-id="LoneStar.us" tvg-name="Lone Star (ENGLISH)" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="Clásico",Lone Star (ENGLISH)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="Matlock (ENGLISH).us" tvg-name="Matlock (ENGLISH)" tvg-logo="https://i.imgur.com/BGFUQsu.png" group-title="Clásico",Matlock (ENGLISH)
@@ -2189,6 +2191,8 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us" tvg-name="It's Supernatural! Network (ISN Network) (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/JWrdL9a.png" group-title="Religious",It's Supernatural! Network (ISN Network) (1080p) (ENGLISH)
 https://isntv.mmdlive.lldns.net/isntv/f79b65204e7141c6a5cc74e63cf0dae5/playlist.m3u8
+#EXTINF:-1 tvg-id="JoshuaTV.pk" tvg-name="Joshua TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/x9xPR2h.png" group-title="Religious",Joshua TV (720p) (ENGLISH)
+https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KICCTV.uk" tvg-name="KICCTV (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/4kU1VNx.png" group-title="Religious",KICCTV (576p) (ENGLISH)
 https://webstreaming.viewmedia.tv/web_020/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KSCEDT1.us" tvg-name="Life! Christian Broadcasting Network (360p) (ENGLISH)" tvg-logo="https://i.imgur.com/FioxUa3.png" group-title="Religious",Life! Christian Broadcasting Network (360p) (ENGLISH)
@@ -4107,8 +4111,6 @@ https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-name="(SPA) Hoynet (360p)" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="~Misc",(SPA) Hoynet (360p)
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="(SPA) Justicia TV (720p)" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="~Misc",(SPA) Justicia TV (720p)
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="KerussoTV.hn" tvg-name="(SPA) Kerusso TV (720p)" tvg-logo="https://i.imgur.com/S79uof0.png" group-title="~Misc",(SPA) Kerusso TV (720p)
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
 #EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-name="(SPA) La Caleta TV (360p)" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="~Misc",(SPA) La Caleta TV (360p)
@@ -4669,10 +4671,6 @@ https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TempleTV.ng" tvg-name="Jesus Temple TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/qy9Mutu.png" group-title="~Misc",Jesus Temple TV (720p) (ENGLISH)
 https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8
-#EXTINF:-1 tvg-id="JoshuaTV.pk" tvg-name="Joshua TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/x9xPR2h.png" group-title="~Misc",Joshua TV (720p) (ENGLISH)
-https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JuiceTV.nz" tvg-name="Juice TV (1080p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/WaaaW0w.png" group-title="~Misc",Juice TV (1080p) [Not 24/7] (ENGLISH)
-https://juicex.nz/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="KAREDT1.us" tvg-name="KARE-DT1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/V73Tkyc.png" group-title="~Misc",KARE-DT1 (1080p) (ENGLISH)
 https://livevideo01.kare11.com/hls/live/2014544/elvs/live.m3u8
 #EXTINF:-1 tvg-id="KBMTDT1.us" tvg-name="KBMT-DT1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/9UodwgJ.png" group-title="~Misc",KBMT-DT1 (1080p) (ENGLISH)
