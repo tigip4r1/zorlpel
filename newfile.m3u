@@ -2798,6 +2798,8 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 #EXTINF:-1 tvg-id="Vision3000.do" tvg-logo="https://i.imgur.com/mogsnzp.png" group-title="General",(SPA) Vision 3000 TV
 https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionLatina.pa" tvg-logo="https://i.imgur.com/TG30lWA.jpg" group-title="Religious",(SPA) Visión Latina (1080p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/c1275185f4a8493a85c63390cfc93dad/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Music",(SPA) Visión Televisión (720p)
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="VisionTV.gt" tvg-logo="https://i.imgur.com/S0JrfIl.png" group-title="~Misc",(SPA) Visión TV (720p)
@@ -2879,7 +2881,7 @@ https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playl
 https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Yunavision.do" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="~Misc",(SPA) Yunavisión (720p)
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
-#EXTINF:-1 tvg-id="ZaracayTV.ec" tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="~Misc",(SPA) Zaracay TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ZaracayTV.ec" tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="General",(SPA) Zaracay TV (1080p) [Not 24/7]
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="(SPA) ZAZ.mx" tvg-logo="https://i.imgur.com/CMMEIq3_d.jpg" group-title="Entertainment",(SPA) ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
@@ -3468,8 +3470,8 @@ https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="CGTV.us" tvg-logo="https://i.imgur.com/hNdQFtK.jpg" group-title="Legislative",Champaign Government Television (CGTV) (Champaign IL) (720p) (ENGLISH)
 https://reflect-champaign.cablecast.tv/live-6/live/live.m3u8
-#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General",Channel 3 (720p) (ENGLISH)
-https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General",Channel 3 (ENGLISH)
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.iq" tvg-logo="https://static.wikia.nocookie.net/haribosky/images/b/bd/Channel_8_Logo_PNG.png/revision/latest?cb=20211023173015" group-title="News",Channel 8 Kurdish (720p) (ENGLISH)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ScottsdaleChannel11.us" tvg-logo="https://i.imgur.com/lfE6Q9i.png" group-title="General",Channel 11 (Scottsdale AZ) (ENGLISH)
@@ -3876,7 +3878,7 @@ https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
 #EXTINF:-1 tvg-id="WTICDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/WTIC_%282020%29.svg/512px-WTIC_%282020%29.svg.png" group-title="~Misc",Fox 61 News Hartford CT (WTIC-TV) (ENGLISH)
 https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (ENGLISH)
-https://stream1.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+http://stream1.cinerama.uz/1252/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p) (ENGLISH)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p) (ENGLISH)
@@ -5527,6 +5529,8 @@ https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
 #EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="Classic",TVS Western Movie (270p) (ENGLISH)
 https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSConsumerDirect (ENGLISH).us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" group-title="Shop",TVSConsumerDirect (ENGLISH)
+https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 tvg-id="U24Television.ug" tvg-logo="https://i.imgur.com/bhDinx7.jpg" group-title="Culture",U24 Television (480p) [Not 24/7] (ENGLISH)
 https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/U24/5-20-hls/live.m3u8
 #EXTINF:-1 tvg-id="UCTV.us" tvg-logo="https://i.imgur.com/ehMz9T5.png" group-title="Education",UCTV University of California (720p) [Not 24/7] (ENGLISH)
@@ -5575,6 +5579,14 @@ https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="VIPTV.aw" tvg-logo="https://i.imgur.com/6N0qITv.png" group-title="Music",VIP TV (720p) (ENGLISH)
 https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
+#EXTINF:-1 tvg-id="VirginMediaFour.ie" tvg-logo="https://i.imgur.com/x4VsyIm.png" group-title="~Misc",Virgin Media Four (1080p) (ENGLISH)
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-logo="https://i.imgur.com/QN0SMt4.png" group-title="~Misc",Virgin Media One (1080p) (ENGLISH)
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
+#EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-logo="https://i.imgur.com/lWkazAS.png" group-title="~Misc",Virgin Media Three (1080p) (ENGLISH)
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+#EXTINF:-1 tvg-id="VirginMediaTwo.ie" tvg-logo="https://i.imgur.com/adtqhBy.png" group-title="~Misc",Virgin Media Two (1080p) (ENGLISH)
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
 #EXTINF:-1 tvg-id="VoATV.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="News",VOA TV Africa (1080p) (ENGLISH)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="Vogue.us" tvg-logo="https://i.imgur.com/2i333B9.jpg" group-title="Lifestyle",Vogue (720p) (ENGLISH)
