@@ -266,7 +266,7 @@ https://lnc-kmsp.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="KRIVDT1.us" tvg-name="FOX 26 Houston TX (KRIV) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="Noticias",FOX 26 Houston TX (KRIV) (720p) (ENGLISH)
 https://lnc-kriv.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Noticias",Fox News Channel (ENGLISH)
-https://stream1.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+http://stream1.cinerama.uz/1252/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="FOX News Now (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Noticias",FOX News Now (720p) (ENGLISH)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-name="Free Speech TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="Noticias",Free Speech TV (720p) (ENGLISH)
@@ -841,6 +841,8 @@ https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="Comercio",TJC (1080p) (ENGLISH)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-id="TVSConsumerDirect (ENGLISH).us" tvg-name="TVSConsumerDirect (ENGLISH)" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" group-title="Comercio",TVSConsumerDirect (ENGLISH)
+https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCocina.es" tvg-name="(SPA) Pluto TV Cocina (720p)" tvg-logo="https://i.imgur.com/LRtfQla.png" group-title="Cocina",(SPA) Pluto TV Cocina (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen (ENGLISH)" tvg-logo="https://i.imgur.com/prMkTsZ.png" group-title="Cocina",America's Test Kitchen (ENGLISH)
@@ -2063,6 +2065,8 @@ https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 https://fl1002.bozztv.com/ssh101/urbancrist2/index.m3u8
 #EXTINF:-1 tvg-id="UrbancristTV.do" tvg-name="(SPA) Urbancrist TV (720p)" tvg-logo="https://i.imgur.com/oHzFwsb.png" group-title="Religious",(SPA) Urbancrist TV (720p)
 https://fl1002.bozztv.com/ssh101/urbancrist/index.m3u8
+#EXTINF:-1 tvg-id="VisionLatina.pa" tvg-name="(SPA) Visión Latina (1080p)" tvg-logo="https://i.imgur.com/TG30lWA.jpg" group-title="Religious",(SPA) Visión Latina (1080p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/c1275185f4a8493a85c63390cfc93dad/playlist.m3u8
 #EXTINF:-1 tvg-id="VozdePoderTelevision.cl" tvg-name="(SPA) Voz de Poder Television (720p)" tvg-logo="https://i.imgur.com/876y75O.png" group-title="Religious",(SPA) Voz de Poder Television (720p)
 https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
 #EXTINF:-1 tvg-id="VTVCanal17.bo" tvg-name="(SPA) VTV Canal 17 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/TUhFzql.png" group-title="Religious",(SPA) VTV Canal 17 (720p) [Not 24/7]
@@ -3327,6 +3331,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremoChannel.do" tvg-name="(SPA) Xtremo Channel (720p)" tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="General",(SPA) Xtremo Channel (720p)
 https://ss9.domint.net:3002/xtr_str/xtremochannel/playlist.m3u8
+#EXTINF:-1 tvg-id="ZaracayTV.ec" tvg-name="(SPA) Zaracay TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="General",(SPA) Zaracay TV (1080p) [Not 24/7]
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-name="(SPA) Zurquí TV (720p)" tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="General",(SPA) Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="A2iTV.it" tvg-name="A2i TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/YlDFir7.jpg" group-title="General",A2i TV (1080p) (ENGLISH)
@@ -3387,8 +3393,8 @@ https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 #EXTINF:-1 tvg-id="CCX1.us" tvg-name="CCX Media North Brooklyn Park MN (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/1hHW3IK.png" group-title="General",CCX Media North Brooklyn Park MN (1080p) (ENGLISH)
 https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
-#EXTINF:-1 tvg-id="Channel3.th" tvg-name="Channel 3 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General",Channel 3 (720p) (ENGLISH)
-https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="Channel 3 (ENGLISH)" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General",Channel 3 (ENGLISH)
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ScottsdaleChannel11.us" tvg-name="Channel 11 (Scottsdale AZ) (ENGLISH)" tvg-logo="https://i.imgur.com/lfE6Q9i.png" group-title="General",Channel 11 (Scottsdale AZ) (ENGLISH)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 #EXTINF:-1 tvg-id="Channel44.au" tvg-name="Channel 44 (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/P2wUGh9.png" group-title="General",Channel 44 (480p) (ENGLISH)
@@ -4505,8 +4511,6 @@ https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
 #EXTINF:-1 tvg-id="Yunavision.do" tvg-name="(SPA) Yunavisión (720p)" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="~Misc",(SPA) Yunavisión (720p)
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
-#EXTINF:-1 tvg-id="ZaracayTV.ec" tvg-name="(SPA) Zaracay TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="~Misc",(SPA) Zaracay TV (1080p) [Not 24/7]
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="Zol106.do" tvg-name="(SPA) Zol106 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/xz4LQoD.png" group-title="~Misc",(SPA) Zol106 (720p) [Not 24/7]
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="(SPA) Zoom (1080p)" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="~Misc",(SPA) Zoom (1080p)
@@ -5049,6 +5053,14 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-name="Univision East (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="~Misc",Univision East (ENGLISH)
 https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8
+#EXTINF:-1 tvg-id="VirginMediaFour.ie" tvg-name="Virgin Media Four (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/x4VsyIm.png" group-title="~Misc",Virgin Media Four (1080p) (ENGLISH)
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+#EXTINF:-1 tvg-id="VirginMediaOne.ie" tvg-name="Virgin Media One (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/QN0SMt4.png" group-title="~Misc",Virgin Media One (1080p) (ENGLISH)
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
+#EXTINF:-1 tvg-id="VirginMediaThree.ie" tvg-name="Virgin Media Three (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/lWkazAS.png" group-title="~Misc",Virgin Media Three (1080p) (ENGLISH)
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+#EXTINF:-1 tvg-id="VirginMediaTwo.ie" tvg-name="Virgin Media Two (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/adtqhBy.png" group-title="~Misc",Virgin Media Two (1080p) (ENGLISH)
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
 #EXTINF:-1 tvg-id="VoxAfrica (ENGLISH).uk" tvg-name="VoxAfrica (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/512px-Voxafrica-1.png" group-title="~Misc",VoxAfrica (ENGLISH)
 http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
 #EXTINF:-1 tvg-id="WanLuoTV.ug" tvg-name="Wan Luo TV (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/4PUUp3E.png" group-title="~Misc",Wan Luo TV (576p) (ENGLISH)
