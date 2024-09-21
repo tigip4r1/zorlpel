@@ -237,6 +237,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638e0f4832494900074481e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b864-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e6f8b32d-be20-4c07-bbb3-1bcf10d89a57
 #EXTINF:-1 tvg-id="CPACEnglish.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="Legislative",(CA) CPAC (720p)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies",(CA) Crave 1 (720p)
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",(CA) Crave 2 (720p)
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="Movies",(CA) Crave 3 (720p)
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Movies",(CA) Crave 4 (720p)
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="~Misc",(CA) Crime Files
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655f2ce5954b020008c8352d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b865-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3595184b-cb04-4d88-b8b6-18f5809ccdac
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="~Misc",(CA) CrimeTime
@@ -1556,8 +1564,8 @@ https://bozztv.com/gusa/gusa-goldentv/index.m3u8
 https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GuatusoTV.cr" tvg-logo="https://www.grupodgrajal.com/images/logoguatusochannel.png" group-title="General",(SPA) Guatuso TV (720p)
 https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
-#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Culture",(SPA) Guaymate TV (360p)
-https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Culture",(SPA) Guaymate TV (1080p) [Not 24/7]
+https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8
 #EXTINF:-1 tvg-id="HainaVision.do" tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="General",(SPA) Haina Vision (720p)
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="Culture",(SPA) Hamaika Telebista (1080p)
@@ -3592,6 +3600,14 @@ https://webstreaming-7.viewmedia.tv/web_097/Stream/playlist.m3u8
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Crackle.us" tvg-logo="https://i.imgur.com/7vIsBfF.png" group-title="Movies",Crackle (XUMO) (1080p) (ENGLISH)
 https://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies",Crave 1 (720p) (ENGLISH)
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",Crave 2 (720p) (ENGLISH)
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="Movies",Crave 3 (720p) (ENGLISH)
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Movies",Crave 4 (720p) (ENGLISH)
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 tvg-id="CreaTVChannel27.us" tvg-logo="https://i.imgur.com/IYuv0RF.png" group-title="General",CreaTV Bay Voice TV Channel 27 (San Jose CA) (720p) (ENGLISH)
 https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8
 #EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-logo="https://i.imgur.com/rvQdzL1.png" group-title="Education",CreaTV Classrooms Channel 28 (San Jose CA) (720p) (ENGLISH)
