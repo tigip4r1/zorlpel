@@ -265,8 +265,6 @@ https://lnc-waga.tubi.video/index.m3u8
 https://lnc-kmsp.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="KRIVDT1.us" tvg-name="FOX 26 Houston TX (KRIV) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="Noticias",FOX 26 Houston TX (KRIV) (720p) (ENGLISH)
 https://lnc-kriv.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Noticias",Fox News Channel (ENGLISH)
-http://stream1.cinerama.uz/1252/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="FOX News Now (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Noticias",FOX News Now (720p) (ENGLISH)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us" tvg-name="Free Speech TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="Noticias",Free Speech TV (720p) (ENGLISH)
@@ -1509,6 +1507,8 @@ https://eu1.servers10.com:8081/8090/index.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="Rumba985FM.do" tvg-name="(SPA) Rumba 98.5 FM (720p)" tvg-logo="https://i.imgur.com/snbcCWi.png" group-title="Música",(SPA) Rumba 98.5 FM (720p)
 https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="(SPA) Salsa Gorda Television (720p)" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Música",(SPA) Salsa Gorda Television (720p)
+https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-name="(SPA) SanjuaneraTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Música",(SPA) SanjuaneraTV (720p) [Not 24/7]
 https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="SolMusica.es" tvg-name="(SPA) Sol Música (720p)" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Música",(SPA) Sol Música (720p)
@@ -2851,6 +2851,8 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVPanama.pa" tvg-name="(SPA) BTV Panamá (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/CiYVtgB.png" group-title="General",(SPA) BTV Panamá (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-name="(SPA) Bum Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="General",(SPA) Bum Televisión (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="C4Television.co" tvg-name="(SPA) C4 Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/hXTRxyh.png" group-title="General",(SPA) C4 Televisión (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8148/index.m3u8
 #EXTINF:-1 tvg-id="CableSurTV.co" tvg-name="(SPA) Cable Sur TV (720p)" tvg-logo="https://i.imgur.com/Rvuyu7R.jpg" group-title="General",(SPA) Cable Sur TV (720p)
@@ -2931,8 +2933,6 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-name="(SPA) Canal U (720p)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="General",(SPA) Canal U (720p)
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-name="(SPA) Canal Visión Dorada (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="General",(SPA) Canal Visión Dorada (720p) [Not 24/7]
-https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="CanangaTV.do" tvg-name="(SPA) Cananga TV (720p)" tvg-logo="https://i.imgur.com/isXlMAh.png" group-title="General",(SPA) Cananga TV (720p)
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="CaprichoTV.ec" tvg-name="(SPA) Capricho TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="General",(SPA) Capricho TV (720p) [Not 24/7]
