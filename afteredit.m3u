@@ -2423,8 +2423,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:-1 tvg-id="AwapaSportsTV.sv" tvg-name="(SV) Awapa Sports TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="Deportes",(SV) Awapa Sports TV (1080p) [Not 24/7]
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="(SV) Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Deportes",(SV) Claro Sports
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="TigoSports.sv" tvg-name="(SV) Tigo Sports TV El Salvador (720p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="Deportes",(SV) Tigo Sports TV El Salvador (720p) [Geo-blocked]
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="(CA) Fight Network (1080p)" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Deportes",(CA) Fight Network (1080p)
@@ -4991,6 +4989,10 @@ https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/liv
 https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ROVTV.za" tvg-name="ROV TV (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/sbeuEYY.png" group-title="~Misc",ROV TV (576p) (ENGLISH)
 https://webstreaming.viewmedia.tv/web_012/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTHKTV33.hk" tvg-name="RTHK TV 33 (港台電視33) (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/2MProun.png" group-title="~Misc",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked] (ENGLISH)
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV34.hk" tvg-name="RTHK TV 34 (港台電視34) (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="~Misc",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked] (ENGLISH)
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:-1 tvg-id="SABC1.za" tvg-name="SABC 1 (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="~Misc",SABC 1 (720p) [Geo-blocked] (ENGLISH)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC2.za" tvg-name="SABC 2 [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="~Misc",SABC 2 [Geo-blocked] (ENGLISH)
@@ -5015,12 +5017,8 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="SkyOpenPlus1.nz" tvg-name="Sky open +1 (576p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/Ig28Cep.png" group-title="~Misc",Sky open +1 (576p) [Geo-blocked] (ENGLISH)
 https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth HD (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/XVUGLxa.png" group-title="~Misc",Sony BBC Earth HD (1080p) (ENGLISH)
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1 tvg-id="SonyCanalEscapePerfecto.us" tvg-name="Sony Canal Escape Perfecto (ENGLISH)" tvg-logo="https://i.imgur.com/ohE9IgP.png" group-title="~Misc",Sony Canal Escape Perfecto (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb095-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e52ea0d7-7d74-4383-8afa-27a135057740
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix (1080p) (ENGLISH)" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="~Misc",Sony Pix (1080p) (ENGLISH)
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-id="Spikeextremo.us" tvg-name="Spike ¡extremo! (ENGLISH)" tvg-logo="https://i.imgur.com/1LX6L6Z.png" group-title="~Misc",Spike ¡extremo! (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb096-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f37a80ae-914d-4428-8a84-590464669724
 #EXTINF:-1 tvg-id="WCIUDT5.us" tvg-name="Story Television (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" group-title="~Misc",Story Television (ENGLISH)
