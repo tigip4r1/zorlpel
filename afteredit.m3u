@@ -2335,6 +2335,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fafef7c2440500071266e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291883-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cee74994-231a-4a51-b141-e2e69c070aee
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel (ENGLISH)" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Niños",Kartoon Channel (ENGLISH)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Kiddiwinks.za" tvg-name="Kiddiwinks (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/tStBWnn.png" group-title="Niños",Kiddiwinks (720p) (ENGLISH)
+https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsMovieClub.us" tvg-name="Kids Movie Club (ENGLISH)" tvg-logo="https://i.imgur.com/avFk0Tt.png" group-title="Niños",Kids Movie Club (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
 #EXTINF:-1 tvg-id="KidsClick.us" tvg-name="KidsClick (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/yg7MHn9.png" group-title="Niños",KidsClick (720p) [Geo-blocked] (ENGLISH)
@@ -2803,6 +2805,8 @@ https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 https://apollo.production-public.tubi.io/live/ac-kbzk.m3u8
 #EXTINF:-1 tvg-id="KCCIDT1.us" tvg-name="CBS 8 Des Moines IA (KCCI) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/6xjshQj.png" group-title="General",CBS 8 Des Moines IA (KCCI) (720p) (ENGLISH)
 https://apollo.production-public.tubi.io/live/ac-kcci.m3u8
+#EXTINF:-1 tvg-id="KHOUDT1.us" tvg-name="CBS 11 Houston TX (KHOU) (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="General",CBS 11 Houston TX (KHOU) (1080p) (ENGLISH)
+https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
 #EXTINF:-1 tvg-id="CCX1.us" tvg-name="CCX Media North Brooklyn Park MN (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/1hHW3IK.png" group-title="General",CCX Media North Brooklyn Park MN (1080p) (ENGLISH)
 https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-id="CerritosTV3.us" tvg-name="Cerritos TV3 (360p) (ENGLISH)" tvg-logo="https://i.imgur.com/huCBOIy.png" group-title="General",Cerritos TV3 (360p) (ENGLISH)
@@ -3729,8 +3733,6 @@ https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
 https://apollo.production-public.tubi.io/live/ac-kpax.m3u8
 #EXTINF:-1 tvg-id="KWTVDT1.us" tvg-name="CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7] (ENGLISH)
 https://live.field59.com/kwtv/kwtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="KHOUDT1.us" tvg-name="CBS 11 Houston TX (KHOU) (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",CBS 11 Houston TX (KHOU) (1080p) (ENGLISH)
-https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
 #EXTINF:-1 tvg-id="KWCHDT1.us" tvg-name="CBS 12 KWCH Weather Channel / Always On Storm Team 12 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",CBS 12 KWCH Weather Channel / Always On Storm Team 12 (ENGLISH)
 https://d2jni005khp8n7.cloudfront.net/out/gray-kwchwx-rtmp-v3/live.m3u8
 #EXTINF:-1 tvg-id="CelebritySceneTV.us" tvg-name="Celebrity Scene TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/n36jriB.png" group-title="~Misc",Celebrity Scene TV (720p) (ENGLISH)
@@ -3795,8 +3797,6 @@ https://pvqybrzodz24-hls-live.5centscdn.com/6164_push_2338_002/3ee2c5e549a41b2a1
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TempleTV.ng" tvg-name="Jesus Temple TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/qy9Mutu.png" group-title="~Misc",Jesus Temple TV (720p) (ENGLISH)
 https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8
-#EXTINF:-1 tvg-id="Kiddiwinks.za" tvg-name="Kiddiwinks (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/tStBWnn.png" group-title="~Misc",Kiddiwinks (720p) (ENGLISH)
-https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
 #EXTINF:-1 tvg-id="KingTV.pk" tvg-name="King TV (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/dujrwRE.png" group-title="~Misc",King TV (720p) [Not 24/7] (ENGLISH)
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="KIRODT1.us" tvg-name="KIRO-DT1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/suvT0TN.png" group-title="~Misc",KIRO-DT1 (1080p) (ENGLISH)
