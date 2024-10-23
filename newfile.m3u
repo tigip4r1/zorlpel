@@ -519,7 +519,7 @@ https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/7345
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNTV.vg" tvg-logo="https://i.imgur.com/uHvE04N.png" group-title="General",CBN TV (720p) (ENGLISH)
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
-#EXTINF:-1 tvg-id="KRTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",CBS 3 Great Falls MT (KRTV) (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="KRTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="General",CBS 3 Great Falls MT (KRTV) (720p) (ENGLISH)
 https://apollo.production-public.tubi.io/live/ac-krtv.m3u8
 #EXTINF:-1 tvg-id="WTKRDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",CBS 3 Norfolk VA (WTKR) (720p) (ENGLISH)
 https://apollo.production-public.tubi.io/live/ac-wtkr.m3u8
@@ -1014,7 +1014,7 @@ https://apollo.production-public.tubi.io/live/ac-wxmi.m3u8
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 #EXTINF:-1 tvg-id="WFXTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="~Misc",Fox 25 Boston (WFXT-TV) [Geo-blocked] (ENGLISH)
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
-#EXTINF:-1 tvg-id="KRIVDT1.us" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="News",FOX 26 Houston TX (KRIV) (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="KRIVDT1.us" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="General",FOX 26 Houston TX (KRIV) (720p) (ENGLISH)
 https://apollo.production-public.tubi.io/live/ac-kriv.m3u8
 #EXTINF:-1 tvg-id="WTXFDT1.us" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="~Misc",FOX 29 Philadelphia PA (WTXF-TV) (720p) (ENGLISH)
 https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8
@@ -1414,15 +1414,15 @@ https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 tvg-id="KQSLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/512px-TLN_2015.png" group-title="Religious",KQSL Channel 8 (720p) (ENGLISH)
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
-#EXTINF:-1 tvg-id="KRCADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/512px-Estrella_TV_2020_Logo.svg.png" group-title="~Misc",KRCA-TV Estrella Los Angeles (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="KRCADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/512px-Estrella_TV_2020_Logo.svg.png" group-title="General",KRCA-TV Estrella Los Angeles (720p) (ENGLISH)
 https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
-#EXTINF:-1 tvg-id="KRCGDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",KRCG-DT1 (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="KRCGDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="General",KRCG-DT1 (720p) (ENGLISH)
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 tvg-id="KRCGDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="~Misc",KRCG-DT2 (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="KRCGDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="Entertainment",KRCG-DT2 (720p) (ENGLISH)
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1 tvg-id="KRDODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="~Misc",KRDO News Colorado Springs CO (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="KRDODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="General",KRDO News Colorado Springs CO (720p) (ENGLISH)
 https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
-#EXTINF:-1 tvg-id="KRISDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="~Misc",KRIS-DT1 (1080p) (ENGLISH)
+#EXTINF:-1 tvg-id="KRISDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",KRIS-DT1 (1080p) (ENGLISH)
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
 #EXTINF:-1 tvg-id="KSDKDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KSDK_5_On_Your_Side_logo.svg/512px-KSDK_5_On_Your_Side_logo.svg.png" group-title="~Misc",KSDK-DT1 (1080p) (ENGLISH)
 https://livevideo01.ksdk.com/hls/live/2014965/elvs/live.m3u8
