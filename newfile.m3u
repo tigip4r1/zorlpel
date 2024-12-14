@@ -1835,9 +1835,11 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="NDTVProfit.in" tvg-logo="https://i.imgur.com/WK4tZ6p.png" group-title="Business",NDTV Profit [Geo-blocked] (ENGLISH)
 https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="General",NET 25 (1080p) [Not 24/7] (ENGLISH)
+https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 #EXTINF:-1 tvg-id="NCTV79.us" tvg-logo="https://i.imgur.com/64sZVF9.jpg" group-title="General",New Canaan Television 79 (NCTV79) (New Canaan CT) (1080p) (ENGLISH)
 https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NewVisionTV.ng" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-vision-tv-ng.png" group-title="~Misc",New Vision TV (360p) (ENGLISH)
+#EXTINF:-1 tvg-id="NewVisionTV.ng" tvg-logo="https://www.lyngsat.com/logo/tv/nn/new-vision-tv-ng.png" group-title="Religious",New Vision TV (360p) (ENGLISH)
 https://webstreaming-2.viewmedia.tv/web_027/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CJONDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="General",Newfoundland Television (480p) (ENGLISH)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
@@ -4822,6 +4824,8 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 #EXTINF:-1 tvg-id="LancelotTV.es" tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="General",(SPA) Lancelot TV (404p)
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:-1 tvg-id="LaOtra.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="General",(SPA) LaOtra (720p)
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="LapachoTVCanal11.ar" tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="General",(SPA) Lapacho TV Canal 11 (720p)
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",(SPA) Las Estrellas (1080p)
@@ -5005,13 +5009,13 @@ https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-id="NCTV.cl" tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="News",(SPA) NCTV (1080p)
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="~Misc",(SPA) Neo TV (432p)
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="General",(SPA) Neo TV (432p)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="~Misc",(SPA) Neox TV (480p)
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="General",(SPA) Neox TV (480p)
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="General",(SPA) NET TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NexxoTV.do" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="~Misc",(SPA) Nexxo TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NexxoTV.do" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="General",(SPA) Nexxo TV (720p) [Not 24/7]
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-id="NGRadioTV.pr" tvg-logo="https://i.imgur.com/KsNI3vQ.jpg" group-title="Religious",(SPA) NG Radio TV (360p)
 https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
@@ -5065,6 +5069,8 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 tvg-id="OndaAlgeciras.es" tvg-logo="https://i.imgur.com/kUhFkVF.png" group-title="~Misc",(SPA) Onda Algeciras TV (576p)
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1 tvg-id="OndaMadrid.es" tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="~Misc",(SPA) Onda Madrid (720p)
+https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="OndaTV.do" tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="General",(SPA) Onda TV (720p)
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaValenciaTV.es" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="Music",(SPA) Onda Valencia (720p)
@@ -5599,6 +5605,8 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="~Misc",(SPA) Telemadrid (720p)
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="TelemadridINT.es" tvg-logo="https://i.imgur.com/2xRKezH.png" group-title="General",(SPA) Telemadrid Internacional (720p)
+https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-id="Telemas.hn" tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="General",(SPA) Telemás (720p)
 https://viewhn.com/telemas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="~Misc",(SPA) Telemax (1080p)
