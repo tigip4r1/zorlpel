@@ -1931,13 +1931,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://videostream.jpbgdigital.com/NOWTV.m3u8
 #EXTINF:-1 tvg-id="NRBTV.us" tvg-logo="https://i.imgur.com/2PL1Au7.png" group-title="Religious",NRB TV (480p) (ENGLISH)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NTDTVEast.us" tvg-logo="https://i.imgur.com/QtFM5Oo.png" group-title="General",NTD TV (New Tang Dynasty Television) (ENGLISH)
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVWest.us" tvg-logo="https://i.imgur.com/Ao48HRT.png" group-title="General",NTD TV West (New Tang Dynasty Television) (ENGLISH)
 https://ntd02.akamaized.net/NTD-West/index.m3u8
 #EXTINF:-1 tvg-id="NTV.na" tvg-logo="https://i.imgur.com/c7jUmGS.jpg" group-title="General",NTV (720p) (ENGLISH)
 https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8
 #EXTINF:-1 tvg-id="KBPXLD3.us" tvg-logo="https://i.imgur.com/wsFie0M.png" group-title="~Misc",Nudu (ENGLISH)
 https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
-#EXTINF:-1 tvg-id="NYXT.us" tvg-logo="https://i.imgur.com/KiIzWmO.jpg" group-title="~Misc",NYXT (1080p) (ENGLISH)
+#EXTINF:-1 tvg-id="NYXT.us" tvg-logo="https://i.imgur.com/KiIzWmO.jpg" group-title="Culture",NYXT (1080p) (ENGLISH)
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
 #EXTINF:-1 tvg-id="OANEncore.us" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="News",OAN Encore (720p) [Geo-blocked] (ENGLISH)
 https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
@@ -3052,6 +3054,8 @@ https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="News",Беларусь 24 (1080p) (ENGLISH)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="General",НВК Саха (1080p) [Not 24/7] (ENGLISH)
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-id="RadaTV.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png" group-title="Legislative",Рада ТВ (1080p) [Not 24/7] (ENGLISH)
 https://ythls.armelin.one/channel/UC5V8mErVFOpcQXEb3y9IMZw.m3u8
 #EXTINF:-1 tvg-id="RTRPlanetaUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General",РТР Планета США (ENGLISH)
@@ -5260,7 +5264,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVNovelasThriller.us" tvg-logo="https://i.imgur.com/WJnHkEm.png" group-title="Movies",(SPA) Pluto TV Novelas Thriller (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=
-#EXTINF:-1 tvg-id="NuestraVision.us" tvg-logo="https://i.imgur.com/X5KFhKO.png" group-title="~Misc",(SPA) Pluto TV Nuestra Vision (720p)
+#EXTINF:-1 tvg-id="NuestraVision.us" tvg-logo="https://i.imgur.com/X5KFhKO.png" group-title="General",(SPA) Pluto TV Nuestra Vision (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e6690befbdf780007f78158&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=920&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVRealitiesESP.us" tvg-logo="https://i.imgur.com/GIt8Sxv.png" group-title="Series",(SPA) Pluto TV Realities ESP (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b4d71754e6a4298d086e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=953&terminate=false&userId=
