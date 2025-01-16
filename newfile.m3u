@@ -2083,11 +2083,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="Outdoor/Travel",Peer TV South Tyrol (1280p) (ENGLISH)
 https://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 tvg-id="PelisyPopcorn.us" tvg-logo="https://i.imgur.com/jP19sGt.png" group-title="~Misc",Pelis y Popcorn (ENGLISH)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Entertainment",People are Awesome (ENGLISH)
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PerryMason.us" tvg-logo="https://i.imgur.com/rHUUAwW.png" group-title="Classic",Perry Mason (ENGLISH)
+#EXTINF:-1 tvg-id="PerryMason.us" tvg-logo="https://i.imgur.com/rHUUAwW.png" group-title="Series",Perry Mason (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6197086891ddd4000739941a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f26-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca24aed8-2923-4a88-ade9-1f918964f008
 #EXTINF:-1 tvg-id="PGATour.us" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",PGA Tour (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
@@ -4453,12 +4451,16 @@ https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8
 https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Paralelo20650AM.mx" tvg-logo="https://i.imgur.com/9SOZ2Sh.png" group-title="News",(SPA) Paralelo 20 650 AM (1080p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/paralelo20/playlist.m3u8
+#EXTINF:-1 tvg-id="PelisyPopcorn.us" tvg-logo="https://i.imgur.com/jP19sGt.png" group-title="Movies",(SPA) Pelis y Popcorn
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 #EXTINF:-1 tvg-id="PenielKY.gt" tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="Religious",(SPA) Peniel Kids & Young (480p)
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 #EXTINF:-1 tvg-id="PenielMusical.gt" tvg-logo="https://i.imgur.com/IFQbGEf.png" group-title="Religious",(SPA) Peniel Musical (480p)
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
 #EXTINF:-1 tvg-id="PenielTVBibliaAbierta.gt" tvg-logo="https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png" group-title="Religious",(SPA) Peniel TV Biblia Abierta (480p)
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+#EXTINF:-1 tvg-id="PersianaLatino.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png" group-title="General",(SPA) Persiana Latino (720p)
+https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PHTV.do" tvg-logo="https://i.imgur.com/KUIRM02.png" group-title="~Misc",(SPA) PHTV (720p) [Not 24/7]
 https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 #EXTINF:-1 tvg-id="(SPA) PHXTV.us" tvg-logo="https://i.imgur.com/RkTKR6x.png" group-title="Legislative",(SPA) PHXTV
