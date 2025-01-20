@@ -4234,6 +4234,9 @@ https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 tvg-id="MakaoTV.do" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="Music",(SPA) Makao TV (360p)
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="Entertainment",(SPA) MakroDigital Television (1080p)
+#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="MalbecPlay.ar" tvg-logo="https://i.ibb.co/Wy3Mz9C/MP.png" group-title="Entertainment",(SPA) Malbec Play (1080p)
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ManaIglesiaOnline.pt" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religious",(SPA) Maná Iglesia Online (1080p) [Not 24/7]
@@ -6009,6 +6012,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df48ba28730900089f8480/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0258-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a92d95d6-dc1d-4fe9-9b4e-e63efabae635
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="~Misc",(CA) South Park: Welcome to Canada!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663115d923e24f000843b49c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2961-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ab119fa-05a9-4969-b1d0-3284a871f460
+#EXTINF:-1 tvg-id="StarChannelInternational.gr" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="Entertainment",(CA) STAR International (720p)
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Music",(CA) Stingray Classic Rock (1080p)
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music",(CA) Stingray Classica (1080p)
