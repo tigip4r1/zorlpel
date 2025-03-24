@@ -71,6 +71,8 @@ https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="General",(SV) Megavisión Canal 21 (720p)
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Music",(SV) MTV Hits Europe
+http://45.88.92.3:80/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="NHKWorldEspanol.jp" tvg-logo="https://i.imgur.com/8dml3im.png" group-title="News",(SV) NHK World News (Spanish Subs) (720p)
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 #EXTINF:-1 tvg-id="(SV) Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",(SV) Novelisima
@@ -2002,8 +2004,6 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="~Misc",(SPA) Starz Encore East
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreWesternsEast.us" tvg-logo="https://i.imgur.com/Eo6yLpN.png" group-title="~Misc",(SPA) Starz Encore Westerns East
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music",(SPA) Stingray Classica (1080p)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="SuMundoTV.do" tvg-logo="https://i.imgur.com/twGGfJr.png" group-title="~Misc",(SPA) Su Mundo TV (1080p)
@@ -2830,6 +2830,8 @@ https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png" group-title="News",ABP News (720p) (ENGLISH)
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 tvg-id="ABSTV.ag" tvg-logo="https://i.imgur.com/DVcYZDL.png" group-title="General",ABS TV (ENGLISH)
+https://tego-cdn2a.sibercdn.com/Live_TV-ABSTV-10/tracks-v3a1/rewind-7200.m3u8?token=e5f61e7be8363eb781b4bdfe591bf917dd529c1a-SjY3NzRTbDZQNnFQVkZaNkZja2RxV3JKc1VBa05zQkdMNStJakRGV0VTTzNrOEVGVUlIQmxta1NLV0o3bzdVdQ-1736094545-1736008145
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (ENGLISH)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AcapulcoShore.us" tvg-logo="https://i.imgur.com/D2jgGOi.png" group-title="Series",Acapulco Shore (ENGLISH)
@@ -3381,6 +3383,8 @@ https://d2jni005khp8n7.cloudfront.net/out/gray-kwchwx-rtmp-v3/live.m3u8
 https://apollo.production-public.tubi.io/live/ac-wlky.m3u8
 #EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="General",CBS East (720p) (ENGLISH)
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/CBS_Europa.png" group-title="Movies",CBS Europa (1080p) (ENGLISH)
+http://185.236.229.62:9981/play/a06i
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7 (720p) (ENGLISH)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="News",CBS News Baltimore (720p) (ENGLISH)
@@ -4351,8 +4355,8 @@ https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1
 https://livevideo01.12newsnow.com/hls/live/2017379/elvs/live.m3u8
 #EXTINF:-1 tvg-id="KBRI8.us" tvg-logo="https://i.imgur.com/r8lLsyh.png" group-title="Legislative",KBRI Brighton Channel 8 (Brighton CO) (720p) (ENGLISH)
 https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/brightonco/G0883_001/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World (720p) (ENGLISH)
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World (Vietnamese Subtitles) (720p) (ENGLISH)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KCAT.us" tvg-logo="https://i.imgur.com/ZAypRkk.png" group-title="Education",KCAT Public Media TV (1080p) (ENGLISH)
 https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="General",KCBS-DT1 (360p) (ENGLISH)
@@ -4628,8 +4632,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/bc1fcf000e4e48a6a490d2af1f6added/p
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/44df7b8e28ec48e89c6dfcb9e779c5ef/playlist.m3u8
 #EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq" tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="Religious",Marjaeyat TV English (1080p) (ENGLISH)
 https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
-#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/512px-Marquee_Sports_Network_Logo.svg.png" group-title="Sports",Marquee Sports Network (540p) (ENGLISH)
-http://fl5.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MartinCountyTV.us" tvg-logo="https://i.imgur.com/7VzlbLp.png" group-title="Legislative",Martin County MCTV (Martin County FL) (720p) (ENGLISH)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
 #EXTINF:-1 tvg-id="Matlock (ENGLISH).us" tvg-logo="https://i.imgur.com/BGFUQsu.png" group-title="Series",Matlock (ENGLISH)
@@ -4773,6 +4775,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
 #EXTINF:-1 tvg-id="MTVGuyana.gy" tvg-logo="https://i.imgur.com/Ky70brA.png" group-title="General",MTV Guyana (1080p) [Not 24/7] (ENGLISH)
 https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Music",MTV Hits Europe (ENGLISH)
+http://45.88.92.3:80/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="MTVHits.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="Music",MTV Hits France (720p) [Not 24/7] (ENGLISH)
 http://190.2.155.162:8080/mtvhit/mpegts
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://i.imgur.com/7LhsQ6v.png" group-title="Music",MTV Live (ENGLISH)
@@ -5413,6 +5417,8 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:-1 tvg-id="TodayRadio.lu" tvg-logo="https://i.imgur.com/O1c6wpt.png" group-title="Music",RTL Today Radio (720p) (ENGLISH)
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#EXTINF:-1 tvg-id="RTMASEAN.my" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="News",RTM ASEAN (ENGLISH)
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="RTNBTV.bi" tvg-logo="https://i.imgur.com/xfR5P9F.png" group-title="General",RTNB TV (360p) [Not 24/7] (ENGLISH)
 http://185.59.221.131:8081/live/rtnb/playlist.m3u8
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Kids",Ryan and Friends (1080p) (ENGLISH)
@@ -5581,8 +5587,6 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="~Misc",Starz Encore East (ENGLISH)
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreWesternsEast.us" tvg-logo="https://i.imgur.com/Eo6yLpN.png" group-title="~Misc",Starz Encore Westerns East (ENGLISH)
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Music",Stingray Classic Rock (1080p) (ENGLISH)
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music",Stingray Classica (1080p) (ENGLISH)
