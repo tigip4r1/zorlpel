@@ -380,6 +380,8 @@ https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 tvg-id="BNBDigital.pe" tvg-logo="https://i.imgur.com/MgEN1F8.png" group-title="General",(SPA) BNB Digital (480p) [Not 24/7]
 https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
+#EXTINF:-1 tvg-id="(SPA) Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids",(SPA) Boing
+http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV72.bo" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="General",(SPA) Bolivia TV 7.2 (720p)
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",(SPA) Bom Cine (576p)
@@ -2024,7 +2026,7 @@ https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-id="SX3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png" group-title="~Misc",(SPA) SX3 (1080p) [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="SynergyTV.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/SynergyTV.jpg" group-title="Music",(SPA) Synergy TV (1080p)
+#EXTINF:-1 tvg-id="SynergyTV.tt" tvg-logo="https://i.imgur.com/DDDbvtX.jpeg" group-title="Music",(SPA) Synergy TV (1080p)
 https://tego-cdn1a.sibercdn.com/Live_TV-SynergyTV-2/tracks-v3a1/rewind-7200.m3u8?token=bf13df4f17e1df5839243d8272350ba2f276d2a4-SjY3NzRTbDZQNnFQVkZaNkZja2RxV3JKc1VBa05zQkdMNStJakRGV0VTTzNrOEVGVUlIQmxta1NLV0o3bzdVdQ-1736094194-1736007794
 #EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://i.imgur.com/PktzDCH.png" group-title="News",(SPA) T13 (720p)
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
@@ -3439,6 +3441,10 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="CGTV.us" tvg-logo="https://i.imgur.com/hNdQFtK.jpg" group-title="Legislative",Champaign Government Television (CGTV) (Champaign IL) (720p) (ENGLISH)
 https://reflect-champaign.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="General",Channel 4 (ENGLISH)
+https://x.canlitvapp.com/u-channel-4/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="General",Channel 5 (ENGLISH)
+https://x.canlitvapp.com/u-channel-5/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.sg" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="General",Channel 5 (720p) (ENGLISH)
 https://tinyurl.com/2c3bacne
 #EXTINF:-1 tvg-id="Channel8.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="News",Channel 8 Kurdish (720p) (ENGLISH)
@@ -3754,6 +3760,8 @@ https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p) (ENGLISH)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="E4 (ENGLISH).uk" tvg-logo="https://i.imgur.com/22MfjF4.png" group-title="Entertainment",E4 (ENGLISH)
+https://x.canlitvapp.com/u-e4/index.m3u8
 #EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E! East (360p) (ENGLISH)
 https://tvpass.org/live/EEast/sd
 #EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS (1080p) (ENGLISH)
@@ -3772,14 +3780,6 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/elsegundo/G0014_002/playlist.m3u8
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Entertainment",Electric Now (720p) (ENGLISH)
 https://elec-en-stirr.otteravision.com/elec/en/elec_en.m3u8
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sports",Eleven Sports 1 (1080p) (ENGLISH)
-http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports",Eleven Sports 2 (1080p) (ENGLISH)
-http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",Eleven Sports 3 (1080p) (ENGLISH)
-http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
-#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="Sports",Eleven Sports 4 (1080p) (ENGLISH)
-http://109.233.89.166/ELEVEN_SPORTS_4_HD/index.m3u8
 #EXTINF:-1 tvg-id="EmanChannel.uk" tvg-logo="https://i.imgur.com/ugn0DWe.png" group-title="Religious",Eman Channel (576p) (ENGLISH)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-id="Emergencia911.us" tvg-logo="https://i.imgur.com/k11mZW3.png" group-title="Series",Emergencia 911 (ENGLISH)
@@ -4298,6 +4298,8 @@ https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us" tvg-logo="https://i.imgur.com/JWrdL9a.png" group-title="Religious",It's Supernatural! Network (ISN Network) (1080p) (ENGLISH)
 https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
+#EXTINF:-1 tvg-id="ITV1 (ENGLISH).uk" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="General",ITV1 (ENGLISH)
+https://x.canlitvapp.com/u-itv1/index.m3u8
 #EXTINF:-1 tvg-id="ITV1CentralHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITV1_HD_logo_2022.svg/512px-ITV1_HD_logo_2022.svg.png" group-title="General",ITV1 Central HD (1080p) (ENGLISH)
 http://92.114.85.72:8000/play/a0lu
 #EXTINF:-1 tvg-id="ITV2 (ENGLISH).uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2 (ENGLISH)
@@ -5425,6 +5427,10 @@ http://185.59.221.131:8081/live/rtnb/playlist.m3u8
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://i.imgur.com/vrcbnBv.png" group-title="~Misc",S4C (720p) [Geo-blocked] (ENGLISH)
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:s4cpbs/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="SSport.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="Sports",S Sport (ENGLISH)
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="Sports",S Sport 2 (ENGLISH)
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="~Misc",SABC 1 (720p) [Geo-blocked] (ENGLISH)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC2.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="~Misc",SABC 2 [Geo-blocked] (ENGLISH)
