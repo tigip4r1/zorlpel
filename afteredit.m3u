@@ -259,6 +259,8 @@ https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
 https://movil.ejeserver.com/live/telesanjacinto.m3u8
 #EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-name="(SPA) Tele Yucatan [Geo-blocked]" tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="~Misc",(SPA) Tele Yucatan [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="(SPA) Teleamazonas (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="~Misc",(SPA) Teleamazonas (1080p)
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecafe.co" tvg-name="(SPA) Telecafe (480p)" tvg-logo="https://i.imgur.com/z18LRqM.png" group-title="~Misc",(SPA) Telecafe (480p)
 http://190.2.212.209:8050/play/a0ne
 #EXTINF:-1 tvg-id="Telecanal12.do" tvg-name="(SPA) Telecanal 12 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="~Misc",(SPA) Telecanal 12 (720p) [Not 24/7]
@@ -1023,8 +1025,8 @@ https://v4.tustreaming.cl/tevexinter/index.m3u8
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals (1080p) (ENGLISH)" tvg-logo="https://www.theofficialboard.com/img/twitterCompanyBigImages/32361.jpg" group-title="Business",Bloomberg Originals (1080p) (ENGLISH)
 https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV (ENGLISH)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV (ENGLISH)
-https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV US (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US (1080p) (ENGLISH)
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBC (ENGLISH).us" tvg-name="CNBC (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC (ENGLISH)_logo.svg/512px-CNBC (ENGLISH)_logo.svg.png" group-title="Business",CNBC (ENGLISH)
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-name="CNBC Africa (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Business",CNBC Africa (480p) (ENGLISH)
