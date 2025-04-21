@@ -1617,6 +1617,8 @@ https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="ZoyTVTurcas.bo" tvg-name="(SPA) Zoy TV Turcas" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Entertainment",(SPA) Zoy TV Turcas
 https://fl1004.bozztv.com/ssh101/zoytvturcas/index.m3u8
+#EXTINF:-1 tvg-id="ZoyTVPlus.bo" tvg-name="(SPA) ZoyTV Plus (720p)" tvg-logo="https://i.imgur.com/JPNPH3x.png" group-title="Entertainment",(SPA) ZoyTV Plus (720p)
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
 #EXTINF:-1 tvg-id="30ASidewalks.us" tvg-name="30A Sidewalks (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="Entertainment",30A Sidewalks (720p) (ENGLISH)
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="30ATelevisionChannel.us" tvg-name="30A Television Channel (ENGLISH)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" group-title="Entertainment",30A Television Channel (ENGLISH)
@@ -3155,10 +3157,8 @@ https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="CBeebies (ENGLISH).uk" tvg-name="CBeebies (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies (ENGLISH).svg/512px-CBeebies (ENGLISH).svg.png" group-title="Kids",CBeebies (ENGLISH)
 https://x.canlitvapp.com/u-cbeebies/index.m3u8
-#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids",CBeebies (1080p) (ENGLISH)
-http://185.236.229.62:9981/play/a06s
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel (1080p) (ENGLISH)
-http://109.233.89.166/Disney_Channel/index.m3u8
+http://109.233.89.170/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-name="Disney Channel Japan (544p) (ENGLISH)" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="Kids",Disney Channel Japan (544p) (ENGLISH)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
 #EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior Romania (576i) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior Romania (576i) (ENGLISH)
@@ -3218,7 +3218,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="pocketwatch.us" tvg-name="pocket.watch (ENGLISH)" tvg-logo="https://i.imgur.com/T0V90Lz.png" group-title="Kids",pocket.watch (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6273-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=298d60df-b4bb-48e1-8d15-ae444466d9d9
 #EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="Kids",Polsat JimJam (576p) (ENGLISH)
-http://109.233.89.166/Polsat_JimJam/index.m3u8
+http://185.236.229.62:9981/play/a07e
 #EXTINF:-1 tvg-id="PopUp.uk" tvg-name="Pop Up (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/GdSotmS.png" group-title="Kids",Pop Up (1080p) (ENGLISH)
 https://jmp2.uk/sam-GB25000016G.m3u8
 #EXTINF:-1 tvg-id="RainbowSquad.us" tvg-name="Rainbow Squad (ENGLISH)" tvg-logo="https://i.imgur.com/v5WOkBa.png" group-title="Kids",Rainbow Squad (ENGLISH)
