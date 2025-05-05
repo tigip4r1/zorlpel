@@ -894,8 +894,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799158-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=591a5510-6f0c-4769-9f52-fb2ec0e8a3ea
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p) (ENGLISH)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="CNBC (ENGLISH).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC (ENGLISH)_logo.svg/512px-CNBC (ENGLISH)_logo.svg.png" group-title="Business",CNBC (ENGLISH)
-http://fl3.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC (720p) (ENGLISH)
+https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8
 #EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Business",CNBC Africa (480p) (ENGLISH)
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Business",CNBC Asia HD (720p) [Geo-blocked] (ENGLISH)
@@ -1151,6 +1151,8 @@ https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492c67f4c48700075b5d37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a353-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=00afa782-3abe-443e-92b0-9964d3331bfa
 #EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-logo="https://i.imgur.com/isRfHYZ.png" group-title="Business",Entrepreneur TV [Geo-blocked] (ENGLISH)
 https://amg01201-amg01201c31-cineverse-us-2915.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-entrepreneurtv-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="EquinoxeTV.cm" tvg-logo="https://i.imgur.com/GKbnBlo.png" group-title="General",Equinoxe TV (ENGLISH)
+http://69.64.57.208/equinoxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EscambiaCountyTV.us" tvg-logo="https://i.imgur.com/TAvJdpo.png" group-title="Legislative",Escambia County TV ECTV (Escambia County FL) (720p) (ENGLISH)
 https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPN U (720p) (ENGLISH)
@@ -1183,6 +1185,8 @@ https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@Poland" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",Fail Army (720p) (ENGLISH)
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",Failarmy International (ENGLISH)
+https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CityofFairfieldChannel26.us" tvg-logo="https://i.imgur.com/fiqaiUe.png" group-title="General",Fairfield Government Access Channel 26 (Fairfield CA) (720p) [Geo-blocked] (ENGLISH)
 https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-id="FaithTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Religious",Faith TV (576p) (ENGLISH)
@@ -1674,6 +1678,8 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Journy.us" tvg-logo="https://i.imgur.com/1JNrLxq.png" group-title="Outdoor/Travel",Journy (720p) (ENGLISH)
 https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="JoyNews.gh" tvg-logo="https://i.imgur.com/kGuMNmR.png" group-title="News",Joy News (ENGLISH)
+http://69.64.57.208/joynews/playlist.m3u8
 #EXTINF:-1 tvg-id="JoyPrime.gh" tvg-logo="https://i.imgur.com/svxV4gJ.png" group-title="General",Joy Prime (ENGLISH)
 http://69.64.57.208/joyprime/playlist.m3u8
 #EXTINF:-1 tvg-id="JudgeNosey.us" tvg-logo="https://i.imgur.com/S4r98AB.png" group-title="Series",Judge Nosey (ENGLISH)
@@ -2229,8 +2235,8 @@ http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a5760903-3730-493d-a240-f38538ed67ca
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="Sports",Nautical Channel (720p) (ENGLISH)
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (1080p) [Geo-blocked] (ENGLISH)
-https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p) (ENGLISH)
+https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
 #EXTINF:-1 tvg-id="WESHDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",NBC 2 Orlando FL (WESH) (720p) (ENGLISH)
 https://apollo.production-public.tubi.io/live/ac-wesh.m3u8
 #EXTINF:-1 tvg-id="KJRHDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="General",NBC 2 Tulsa OK (KJRH) (720p) (ENGLISH)
@@ -2472,8 +2478,8 @@ https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="OuterMax.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png" group-title="Movies",OuterMax East (720p) (ENGLISH)
 http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="Outdoor/Travel",Outside TV (720p) (ENGLISH)
-https://outside-tv-samsung-ca.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="https://i.imgur.com/0UMmG41.png" group-title="Outdoor/Travel",Outside TV (ENGLISH)
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OutsideTVPlus.us" tvg-logo="https://i.imgur.com/8AEfKB8.png" group-title="Outdoor/Travel",Outside TV Plus (1080p) (ENGLISH)
 https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ovation.us" tvg-logo="https://i.imgur.com/A3o9gvc.png" group-title="Culture",Ovation (1080p) (ENGLISH)
@@ -2662,6 +2668,8 @@ https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
 https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerHD.ar" tvg-logo="https://i.imgur.com/15gMDG0.png" group-title="~Misc",Power TV (720p) [Not 24/7] (ENGLISH)
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="Auto",PowerNation TV (720p) (ENGLISH)
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b8ce63f3-49cd-4cc1-8ccc-88a81b828a26/5.m3u8
 #EXTINF:-1 tvg-id="PraiseJesusTowerTV.ug" tvg-logo="https://i.imgur.com/KT4qIve.png" group-title="Religious",Praise Jesus Tower TV (480p) (ENGLISH)
 https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8
 #EXTINF:-1 tvg-id="PraiseTV.pk" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="~Misc",Praise TV (720p) (ENGLISH)
@@ -3153,6 +3161,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCraftStore.uk" tvg-logo="https://i.imgur.com/Nf0vaAF.png" group-title="~Misc",The Craft Store (720p) (ENGLISH)
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-logo="https://i.imgur.com/J5YJ3r3.png" group-title="Lifestyle",The Design Network (ENGLISH)
+https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFilipinoChannelGuam.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/512px-The_Filipino_Channel_2011_logo.svg.png" group-title="~Misc",The Filipino Channel Guam (1080p) (ENGLISH)
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="Movies",The Film Detective (ENGLISH)
@@ -3181,6 +3191,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
 #EXTINF:-1 tvg-id="TheParliamentaryChannel.bs" tvg-logo="https://i.imgur.com/YjPJ8zZ.png" group-title="Legislative",The Parliamentary Channel (720p) [Not 24/7] (ENGLISH)
 https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective (ENGLISH)
+https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@India" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective (ENGLISH)
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Poland" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective (720p) (ENGLISH)
@@ -3273,6 +3285,8 @@ https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8
 https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Trigger (ENGLISH).za" tvg-logo="https://i.imgur.com/TrlrcWf.png" group-title="~Misc",Trigger (ENGLISH)
 https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
+#EXTINF:-1 tvg-id="TrinityChannel.us" tvg-logo="https://i.imgur.com/pUVL3d5.png" group-title="Religious",Trinity Channel (ENGLISH)
+https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="~Misc",TRT Belgesel (1080p) (ENGLISH)
 http://185.234.111.229:8000/play/a00f
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (1080p) (ENGLISH)
@@ -3575,6 +3589,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-on
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
 #EXTINF:-1 tvg-id="WholeWordTV.ng" tvg-logo="https://i.imgur.com/71MRtuK.png" group-title="Religious",Whole Word TV (720p) (ENGLISH)
 https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8
+#EXTINF:-1 tvg-id="WHSGDT3.us" tvg-logo="https://i.imgur.com/WYM3tj8.png" group-title="~Misc",WHSG-DT3 (ENGLISH)
+https://edge66.magictvbox.com/liveApple/smile_of_a_child/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WildNOut.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true" group-title="Series",Wild 'N Out (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3730-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a03cd523-0223-48b3-aeb7-ce7ca6c2de02
 #EXTINF:-1 tvg-id="WildTV.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="~Misc",Wild TV (1080p) (ENGLISH)
@@ -3633,6 +3649,8 @@ http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.pl" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/77aa6871-a13f-470b-a2d5-ca5650f63323-width200-quality90.jpeg" group-title="~Misc",World of Freesports (1080p) (ENGLISH)
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sports",World Poker Tour (ENGLISH)
+https://wpt-theworldpokertour-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us@Poland" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sports",World Poker Tour (1080p) (ENGLISH)
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
 #EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="Education",WPS TV (360p) (ENGLISH)
@@ -6275,8 +6293,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GaundaPunjabTV.ca" tvg-logo="https://i.imgur.com/ArRZRM3.png" group-title="General",(CA) Gaunda Punjab TV
 http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GEMAcademy.ca" tvg-logo="https://i.imgur.com/Zcu2xxN.png" group-title="Movies",(CA) GEM Academy
-https://ca-rt.onetv.app/gemacademy/index-0.m3u8
 #EXTINF:-1 tvg-id="GEMBollywood.ca" tvg-logo="https://i.imgur.com/2XASeBk.png" group-title="Movies",(CA) GEM Bollywood
 https://ca-rt.onetv.app/gembollywood/index-0.m3u8
 #EXTINF:-1 tvg-id="GEMClassic.ca" tvg-logo="https://i.imgur.com/25BhuOf.png" group-title="Classic",(CA) GEM Classic
@@ -6301,8 +6317,6 @@ https://ca-rt.onetv.app/gemlife/index-0.m3u8
 https://ca-rt.onetv.app/gemnature/index-0.m3u8
 #EXTINF:-1 tvg-id="GEMSeries.ca" tvg-logo="https://i.imgur.com/M0WMDXm.png" group-title="Series",(CA) GEM Series
 https://ca-rt.onetv.app/gemseriesbb/index-0.m3u8
-#EXTINF:-1 tvg-id="GEMTravel.ca" tvg-logo="https://i.imgur.com/eQkBb4G.png" group-title="Outdoor/Travel",(CA) GEM Travel
-https://ca-rt.onetv.app/gemtravel/index-0.m3u8
 #EXTINF:-1 tvg-id="GEMTV.ca" tvg-logo="https://i.imgur.com/m7N6L90.png" group-title="Movies",(CA) GEM TV
 https://ca-rt.onetv.app/gemb/index-0.m3u8
 #EXTINF:-1 tvg-id="GHCanadaTV.ca" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gh-canada-tv-ca.png" group-title="General",(CA) GH Canada TV
