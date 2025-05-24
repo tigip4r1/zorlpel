@@ -603,8 +603,6 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="CMAPChannel19.us" tvg-name="Gilroy CMAP TV Channel 19 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="~Misc",Gilroy CMAP TV Channel 19 (720p) (ENGLISH)
 https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HalaRamallah.ps" tvg-name="Hala Ramallah (720p) (ENGLISH)" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="~Misc",Hala Ramallah (720p) (ENGLISH)
-https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
 #EXTINF:-1 tvg-id="HardKnocksFightingChampionship.pl" tvg-name="Hard Knocks Fighting Championship (720p) (ENGLISH)" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg" group-title="~Misc",Hard Knocks Fighting Championship (720p) (ENGLISH)
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
 #EXTINF:-1 tvg-id="INFAST.us@SD" tvg-name="INFAST (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/VwAMqA7.png" group-title="~Misc",INFAST (1080p) (ENGLISH)
@@ -2235,8 +2233,8 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
 #EXTINF:-1 tvg-id="CerritosTV3.us" tvg-name="(SPA) Cerritos TV3 (360p)" tvg-logo="https://i.imgur.com/huCBOIy.png" group-title="General",(SPA) Cerritos TV3 (360p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
-#EXTINF:-1 tvg-id="ChivacoaTVInternacional.ve" tvg-name="(SPA) Chivacoa TV Internacional (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/9rbwZFY.png" group-title="General",(SPA) Chivacoa TV Internacional (720p) [Not 24/7]
-https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8
+#EXTINF:-1 tvg-id="ChivacoaTVInternacional.ve" tvg-name="(SPA) Chivacoa TV Internacional (1080p)" tvg-logo="https://i.imgur.com/9rbwZFY.png" group-title="General",(SPA) Chivacoa TV Internacional (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8
 #EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-name="(SPA) Cinevision Canal 19 (720p)" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="General",(SPA) Cinevision Canal 19 (720p)
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="(SPA) Ciudad Magazine (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General",(SPA) Ciudad Magazine (1080p) [Geo-blocked]
@@ -2983,6 +2981,8 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-aa4d335124414856b118e943d91
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-d7e7cf219d634e0bbf7d5340b4b537da/playlist.m3u8
 #EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="General",Hala London (1080p) (ENGLISH)
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+#EXTINF:-1 tvg-id="HalaRamallah.ps" tvg-name="Hala Ramallah (720p) (ENGLISH)" tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png" group-title="General",Hala Ramallah (720p) (ENGLISH)
+https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
 #EXTINF:-1 tvg-id="HGPTV.gy" tvg-name="HGPTV (1080p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/0aIH6V5.png" group-title="General",HGPTV (1080p) [Not 24/7] (ENGLISH)
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/ABR1080v1/streams/284fce39-4456-2c6b-414a-1d41a03d17dd_1080p2500kbps.m3u8
 #EXTINF:-1 tvg-id="InooroTV.ke" tvg-name="Inooro TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="General",Inooro TV (720p) (ENGLISH)
@@ -4525,6 +4525,8 @@ http://92.114.85.72:8000/play/a0al
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="USATODAY.us" tvg-name="USA Today News [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA Today News [Geo-blocked] (ENGLISH)
 https://usatodaynews-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UzReportTV.uz" tvg-name="UzReport TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/Bch2RHc.jpg" group-title="News",UzReport TV (1080p) (ENGLISH)
+https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="VoATV.us" tvg-name="VOA TV Africa (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="News",VOA TV Africa (1080p) (ENGLISH)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="WBZDT1.us" tvg-name="WBZ-DT1 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/NC5qL8u.png" group-title="News",WBZ-DT1 (720p) (ENGLISH)
