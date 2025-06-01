@@ -1415,6 +1415,8 @@ https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversidad.ar@SD" tvg-name="(SPA) TV Universidad" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Education",(SPA) TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-id="UCSGTV.ec@SD" tvg-name="(SPA) UCSG TV" tvg-logo="https://i.imgur.com/ligysaM.jpg" group-title="Education",(SPA) UCSG TV
+https://stream.catomedia.net/catomedia-app/index.m3u8
 #EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-name="(SPA) UNIANDES TV (720p)" tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Education",(SPA) UNIANDES TV (720p)
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 tvg-id="UnisonTV.mx" tvg-name="(SPA) Unison TV (1080p)" tvg-logo="https://i.imgur.com/7ixWRId.png" group-title="Education",(SPA) Unison TV (1080p)
@@ -2471,6 +2473,8 @@ https://5790d294af2dc.streamlock.net/wtv43/wtv43/chunklist.m3u8
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="NuestraVision.us" tvg-name="(SPA) Pluto TV Nuestra Vision (720p)" tvg-logo="https://i.imgur.com/X5KFhKO.png" group-title="General",(SPA) Pluto TV Nuestra Vision (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e6690befbdf780007f78158&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=920&terminate=false&userId=
+#EXTINF:-1 tvg-id="Primavera15.pe@SD" tvg-name="(SPA) Primavera 15" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="General",(SPA) Primavera 15
+https://servilive.com:3538/live/v6qe84b6flive.m3u8
 #EXTINF:-1 tvg-id="PTVAlmeria.es" tvg-name="(SPA) PTV Almería (1080p)" tvg-logo="https://i.imgur.com/X3eIdVf.png" group-title="General",(SPA) PTV Almería (1080p)
 https://streamer.zapitv.com/ptv_almeria/index.m3u8
 #EXTINF:-1 tvg-id="PTVCordoba.es" tvg-name="(SPA) PTV Córdoba (1080p)" tvg-logo="https://i.imgur.com/X3eIdVf.png" group-title="General",(SPA) PTV Córdoba (1080p)
@@ -3097,6 +3101,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="OrangeTV3.us" tvg-name="Orange TV3 (ENGLISH)" tvg-logo="https://i.imgur.com/C6yu4Lk.png" group-title="General",Orange TV3 (ENGLISH)
 https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV (ENGLISH).lb@SD" tvg-name="OTV (ENGLISH)" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="General",OTV (ENGLISH)
+https://live20.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PSCTV.us" tvg-name="Palm Springs Community Television (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/TfBx8dp.png" group-title="General",Palm Springs Community Television (720p) (ENGLISH)
 https://edge-f.swagit.com/live/palmspringsca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="PCTV28.us" tvg-name="Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/WahZg3L.png" group-title="General",Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p) (ENGLISH)
@@ -3105,8 +3111,8 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBGo.bn" tvg-name="RTB Go (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="General",RTB Go (720p) (ENGLISH)
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 tvg-id="RVTV.us@SD" tvg-name="RVTV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/z6U7ClN.png" group-title="General",RVTV (1080p) (ENGLISH)
-https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8
+#EXTINF:-1 tvg-id="RVTV (ENGLISH).us@SD" tvg-name="RVTV (ENGLISH)" tvg-logo="https://i.imgur.com/z6U7ClN.png" group-title="General",RVTV (ENGLISH)
+https://sramsburg-hls.secdn.net/sramsburg-channel/play/s2bdf5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel25.us" tvg-name="Santa Maria Community Television Public Access Channel (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/5jBOsTc.png" group-title="General",Santa Maria Community Television Public Access Channel (720p) (ENGLISH)
 https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SCVTV.us" tvg-name="SCVTV (Santa Clarita CA) (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/qEsZbZz.png" group-title="General",SCVTV (Santa Clarita CA) (1080p) (ENGLISH)
@@ -4169,6 +4175,8 @@ https://stream.oursnetworktv.com/latin/paralelo20/playlist.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 #EXTINF:-1 tvg-id="PrensaLatinaTV.cu" tvg-name="(SPA) Prensa Latina TV (1080p)" tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="News",(SPA) Prensa Latina TV (1080p)
 https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="(SPA) PSN.mx@SD" tvg-name="(SPA) PSN" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="News",(SPA) PSN
+https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-id="PuranoticiaTV.cl" tvg-name="(SPA) Puranoticia TV (720p)" tvg-logo="https://i.imgur.com/NklUi6Y.png" group-title="News",(SPA) Puranoticia TV (720p)
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="RadioAncon.pa" tvg-name="(SPA) Radio Ancón (720p)" tvg-logo="https://i.imgur.com/xum8PNe.jpg" group-title="News",(SPA) Radio Ancón (720p)
@@ -4777,6 +4785,8 @@ https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddc3485efec00085b0369/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3876-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=09f836b5-3c59-462d-95a2-726c229b62d4
 #EXTINF:-1 tvg-id="PlutoTVFantastic.us" tvg-name="Pluto TV Fantastic (ENGLISH)" tvg-logo="https://i.imgur.com/MCu7YTA.png" group-title="Series",Pluto TV Fantastic (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2
+#EXTINF:-1 tvg-id="PlutoTVLoveStories.us@SD" tvg-name="Pluto TV Love Stories (ENGLISH)" tvg-logo="https://i.imgur.com/BFESllF.png" group-title="Series",Pluto TV Love Stories (ENGLISH)
+https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMilitary.us" tvg-name="Pluto TV Military (ENGLISH)" tvg-logo="https://i.imgur.com/O8VXZB4.png" group-title="Series",Pluto TV Military (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1453-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50b48d94-a9db-4b6e-9b51-1dab5c53dc35
 #EXTINF:-1 tvg-id="PlutoTVSherlock.us@UK" tvg-name="Pluto TV Sherlock (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/SL3FNcm.png" group-title="Series",Pluto TV Sherlock (720p) (ENGLISH)
