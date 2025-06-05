@@ -1271,6 +1271,8 @@ https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoIPTVGH&password=9
 https://live-evg1.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
 #EXTINF:-1 tvg-id="KIIOLD4.us" tvg-name="AABC TV (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/Spu4s89.png" group-title="Culture",AABC TV (480p) (ENGLISH)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+#EXTINF:-1 tvg-id="AyenehTV.us@SD" tvg-name="Ayeneh TV (ENGLISH)" tvg-logo="https://i.imgur.com/F0AevIQ.png" group-title="Culture",Ayeneh TV (ENGLISH)
+https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BXArts.us" tvg-name="BX Arts (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Culture",BX Arts (720p) (ENGLISH)
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
 #EXTINF:-1 tvg-id="BXCulture.us" tvg-name="BX Culture (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Culture",BX Culture (720p) (ENGLISH)
@@ -1289,6 +1291,8 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul (ENGLISH)" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (ENGLISH)
 https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="KIIOLD1.us@SD" tvg-name="KIIO-LD1 (ENGLISH)" tvg-logo="https://i.imgur.com/wkzwXFO.png" group-title="Culture",KIIO-LD1 (ENGLISH)
+https://live20.bozztv.com/gin-36bay3/gt-usarmenia/index.m3u8
 #EXTINF:-1 tvg-id="Loupe4K.us" tvg-name="Loupe 4K (2160p) (ENGLISH)" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="Culture",Loupe 4K (2160p) (ENGLISH)
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us" tvg-name="Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Culture",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p) (ENGLISH)
@@ -3421,14 +3425,12 @@ https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="8madridTV.es" tvg-name="(SPA) 8madrid TV (720p)" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="Movies",(SPA) 8madrid TV (720p)
 http://185.189.225.150:85/8madrid/index.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk@Spain" tvg-name="(SPA) AMC Europe Spain (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",(SPA) AMC Europe Spain (1080p)
-http://181.78.109.48:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="AtresplayerMulticine.es" tvg-name="(SPA) Atresplayer Multicine (1080p)" tvg-logo="https://i.imgur.com/FizKu1X.png" group-title="Movies",(SPA) Atresplayer Multicine (1080p)
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-name="(SPA) Aurora Media Films (720p)" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Movies",(SPA) Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-id="AXN.es" tvg-name="(SPA) AXN (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",(SPA) AXN (1080p)
-http://181.78.109.48:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="(SPA) AXN (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",(SPA) AXN (480p)
+http://181.78.109.48:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="BomCine.es" tvg-name="(SPA) Bom Cine (576p)" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",(SPA) Bom Cine (576p)
 http://185.189.225.150:85/BOM/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="(SPA) Cine Sony (720p)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",(SPA) Cine Sony (720p)
@@ -4661,8 +4663,6 @@ https://live.acwugtv.com/hls/stream.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f90e39183b000769f12b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=385f93fc-8e79-4ac3-9478-5758ce4a3181
 #EXTINF:-1 tvg-id="13T.cl" tvg-name="(SPA) 13 Teleseries (720p)" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Series",(SPA) 13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="(SPA) Atreseries (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Series",(SPA) Atreseries (480p)
-http://181.78.109.48:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="DoctorWho.us@Spain" tvg-name="(SPA) BBC Doctor Who (1080p)" tvg-logo="https://i.imgur.com/pMMabI3.png" group-title="Series",(SPA) BBC Doctor Who (1080p)
 https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.uk@Spain" tvg-name="(SPA) BBC Drama (720p)" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Series",(SPA) BBC Drama (720p)
