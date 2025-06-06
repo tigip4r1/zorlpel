@@ -2313,7 +2313,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="(SPA) El Toro TV (720p)" tvg-logo="https://i.imgur.com/z8M0Dpy.png" group-title="General",(SPA) El Toro TV (720p)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="(SPA) El Trece (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="General",(SPA) El Trece (1080p)
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="(SPA) El Trece (1080p)" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="General",(SPA) El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="EnCasaTV.co" tvg-name="(SPA) En Casa TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/xVBG3I6.jpeg" group-title="General",(SPA) En Casa TV (1080p) [Not 24/7]
 https://cp.panelchs.com:1936/8112/8112/playlist.m3u8
@@ -3429,8 +3429,6 @@ http://185.189.225.150:85/8madrid/index.m3u8
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-name="(SPA) Aurora Media Films (720p)" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Movies",(SPA) Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-id="AXN.es" tvg-name="(SPA) AXN (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",(SPA) AXN (480p)
-http://181.78.109.48:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="BomCine.es" tvg-name="(SPA) Bom Cine (576p)" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",(SPA) Bom Cine (576p)
 http://185.189.225.150:85/BOM/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="(SPA) Cine Sony (720p)" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",(SPA) Cine Sony (720p)
@@ -4132,7 +4130,7 @@ https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es" tvg-name="(SPA) Canal 1 Mar Menor-Torre Pacheco (1080p)" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="News",(SPA) Canal 1 Mar Menor-Torre Pacheco (1080p)
 https://directo.tuwebtv.es/canal1.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="(SPA) Canal 24 Horas (720p)" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",(SPA) Canal 24 Horas (720p)
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="(SPA) Canal 24 Horas Canarias (720p)" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",(SPA) Canal 24 Horas Canarias (720p)
 https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8
 #EXTINF:-1 tvg-id="Canal33Tijuana.mx" tvg-name="(SPA) Canal 33 Tijuana (720p)" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="News",(SPA) Canal 33 Tijuana (720p)
@@ -4571,6 +4569,8 @@ https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-name="AKC TV Puppies 24/7 (ENGLISH)" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Outdoor/Travel",AKC TV Puppies 24/7 (ENGLISH)
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AnytimeTV.za" tvg-name="Anytime TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/LloHzi4.png" group-title="Outdoor/Travel",Anytime TV (1080p) (ENGLISH)
+https://tv.anytimemedia.co.za:3673/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="BeachTVKeyWestFloridaKeys.us" tvg-name="Beach TV Key West & Florida Keys (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/XhDBdff.png" group-title="Outdoor/Travel",Beach TV Key West & Florida Keys (720p) (ENGLISH)
 https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-name="Better Life Nature Channel (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/LMHrQJu.png" group-title="Outdoor/Travel",Better Life Nature Channel (480p) (ENGLISH)
