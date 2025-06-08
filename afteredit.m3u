@@ -953,6 +953,8 @@ http://72.46.118.193/Newsy/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WSOCDT1.us" tvg-name="WSOC-DT1 (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="~Misc",WSOC-DT1 (1080p) (ENGLISH)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="WTMOCD1.us@SD" tvg-name="WTMO-CD1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="~Misc",WTMO-CD1 (ENGLISH)
+https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 #EXTINF:-1 tvg-id="WTVQDT1.us" tvg-name="WTVQ ABC 36 News (Lexington KY) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/XIoBeja.png" group-title="~Misc",WTVQ ABC 36 News (Lexington KY) (720p) (ENGLISH)
 https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
 #EXTINF:-1 tvg-id="WXXVDT1.us" tvg-name="WXXV-TV News (Biloxi MS) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="~Misc",WXXV-TV News (Biloxi MS) (720p) (ENGLISH)
@@ -2465,8 +2467,8 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NisibonTV.do" tvg-name="(SPA) Nisibon TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/DSWrKyb.png" group-title="General",(SPA) Nisibon TV (480p) [Not 24/7]
 https://ssh101-fl.bozztv.com/ssh101/nisibontv/playlist.m3u8
-#EXTINF:-1 tvg-id="NSTV.co" tvg-name="(SPA) NSTV (720p)" tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="General",(SPA) NSTV (720p)
-https://cp.panelchs.com:1936/8038/8038/playlist.m3u8
+#EXTINF:-1 tvg-id="NSTV.co@SD" tvg-name="(SPA) NSTV (720p)" tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="General",(SPA) NSTV (720p)
+https://stmv4.voxtvhd.com.br/nstv/nstv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nublevision.cl" tvg-name="(SPA) Nublevision (720p)" tvg-logo="https://i.imgur.com/nkQyR1X.png" group-title="General",(SPA) Nublevision (720p)
 https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-name="(SPA) Nueve TV San Luís Potosí (720p)" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General",(SPA) Nueve TV San Luís Potosí (720p)
@@ -3539,8 +3541,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
 #EXTINF:-1 tvg-id="CinemaHausa.za" tvg-name="Cinema Hausa (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/uV5cHDW.png" group-title="Movies",Cinema Hausa (720p) (ENGLISH)
 https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
-#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-name="Cinema One (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One (1080p) (ENGLISH)
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-name="Cinevault 80s (540p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s (540p) [Geo-blocked] (ENGLISH)
 https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassicCinema.us" tvg-name="Classic Cinema (240p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="Movies",Classic Cinema (240p) [Not 24/7] (ENGLISH)
@@ -4029,8 +4029,6 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzzOne.kz" tvg-name="MuzzOne (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/nHVABXh.png" group-title="Music",MuzzOne (576p) (ENGLISH)
 https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
-#EXTINF:-1 tvg-id="Myx.ph" tvg-name="Myx (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music",Myx (720p) (ENGLISH)
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-name="NEW K-POP (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Music",NEW K-POP (1080p) (ENGLISH)
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NickMusic.us" tvg-name="Nick Music (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="Music",Nick Music (720p) (ENGLISH)
@@ -4323,8 +4321,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1 tvg-id="AmericasVoiceNews.us" tvg-name="America's Voice News (ENGLISH)" tvg-logo="https://i.imgur.com/C4w0eYC.png" group-title="News",America's Voice News (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604
-#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News",ANC (720p) (ENGLISH)
-https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News",Arirang TV (1080p) (ENGLISH)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangUN.kr" tvg-name="Arirang TV UN (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News",Arirang TV UN (1080p) (ENGLISH)
@@ -4445,8 +4441,8 @@ https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-name="Metro Globe Network (1080p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="News",Metro Globe Network (1080p) [Not 24/7] (ENGLISH)
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="News",MSNBC (1080p) (ENGLISH)
-https://windnew.newkso.ru/wind/premium327/mono.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="News",MSNBC (720p) (ENGLISH)
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="WESHDT1.us" tvg-name="NBC 2 Orlando FL (WESH) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",NBC 2 Orlando FL (WESH) (720p) (ENGLISH)
 https://apollo.production-public.tubi.io/live/ac-wesh.m3u8
 #EXTINF:-1 tvg-id="WPTZDT1.us" tvg-name="NBC 5 Plattsburgh NY (WPTZ) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",NBC 5 Plattsburgh NY (WPTZ) (720p) (ENGLISH)
