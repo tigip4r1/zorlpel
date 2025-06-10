@@ -1742,6 +1742,8 @@ https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 #EXTINF:-1 tvg-id="QhuboTV.hn" tvg-logo="https://i.imgur.com/yZmnfvj.png" group-title="~Misc",(SPA) Q'hubo TV (410p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1 tvg-id="QuanticaTV.ar" tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="News",(SPA) Quantica TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1 tvg-id="QuieroTV.mx" tvg-logo="https://i.imgur.com/k0XbBp8.png" group-title="~Misc",(SPA) Quiero TV (1080p)
 https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioAlegria985FM.ec" tvg-logo="https://i.imgur.com/N00aS3x.png" group-title="Music",(SPA) Radio Alegria 98.5 FM (720p)
@@ -5599,10 +5601,6 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBGo.bn" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="General",RTB Go (720p) (ENGLISH)
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 tvg-id="RTE2.ie" tvg-logo="https://i.imgur.com/1RV97tP.png" group-title="~Misc",RTE2 (720p) (ENGLISH)
-http://154.58.225.25:9999/rte2/index.m3u8
-#EXTINF:-1 tvg-id="RTEOne.ie" tvg-logo="https://i.imgur.com/8uZSZdS.png" group-title="~Misc",RTE One (1080p) (ENGLISH)
-http://154.58.225.25:9999/rte1/index.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="Outdoor/Travel",RTG TV (ENGLISH)
 http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1 tvg-id="RTHKTV33.hk" tvg-logo="https://i.imgur.com/2MProun.png" group-title="~Misc",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked] (ENGLISH)
@@ -5691,6 +5689,8 @@ https://live.shophq.com/evine/cleanfeed/master.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1 tvg-id="KCKSLD10.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png" group-title="Entertainment",Shop LC (KCKS-LD10) (480p) [Not 24/7] (ENGLISH)
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+#EXTINF:-1 tvg-id="Shots.uk" tvg-logo="https://www.shotstv.com/static/images/Shots!-Logo.png" group-title="~Misc",Shots! (1080p) (ENGLISH)
+https://live-nationalworld-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/shotstv-live/index.m3u8
 #EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="https://i.imgur.com/AgoGr6y.png" group-title="General",Shout! Factory TV (720p) (ENGLISH)
 https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8
 #EXTINF:-1 tvg-id="Showtime2.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="~Misc",Showtime 2 East (ENGLISH)
