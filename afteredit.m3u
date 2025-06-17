@@ -3405,6 +3405,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTINF:-1 tvg-id="8madridTV.es" tvg-name="(SPA) 8madrid TV (720p)" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="Movies",(SPA) 8madrid TV (720p)
 http://185.189.225.150:85/8madrid/index.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Spain" tvg-name="(SPA) AMC Europe Spain (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",(SPA) AMC Europe Spain (720p)
+http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-name="(SPA) Aurora Media Films (720p)" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Movies",(SPA) Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="BomCine.es" tvg-name="(SPA) Bom Cine (576p)" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Movies",(SPA) Bom Cine (576p)
@@ -3465,8 +3467,6 @@ https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-name="(SPA) Sony Canal Novelas" tvg-logo="https://i.imgur.com/yijitpa.png" group-title="Movies",(SPA) Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 tvg-id="Squirrel.es" tvg-name="(SPA) Squirrel (1080p)" tvg-logo="https://i.imgur.com/9y8VcBr.png" group-title="Movies",(SPA) Squirrel (1080p)
-https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-name="(SPA) Xtrema Accion" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",(SPA) Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaCineClasico.ar" tvg-name="(SPA) Xtrema Cine Clasico" tvg-logo="https://i.imgur.com/j91M4Yf.png" group-title="Movies",(SPA) Xtrema Cine Clasico
@@ -3802,7 +3802,7 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="Rumba985FM.do" tvg-name="(SPA) Rumba 98.5 FM (720p)" tvg-logo="https://i.imgur.com/snbcCWi.png" group-title="Music",(SPA) Rumba 98.5 FM (720p)
 https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="(SPA) Salsa Gorda Television (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Music",(SPA) Salsa Gorda Television (480p) [Not 24/7]
-https://ssh101.bozztv.com/ssh101/qMUAZEy/playlist.m3u8
+https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 #EXTINF:-1 tvg-id="SiembraTV.do@SD" tvg-name="(SPA) Siembra TV (720p)" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg" group-title="Music",(SPA) Siembra TV (720p)
 https://streamunoapp.com:3809/live/siembratvlive.m3u8
 #EXTINF:-1 tvg-id="SolMusica.es" tvg-name="(SPA) Sol Música (720p)" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Music",(SPA) Sol Música (720p)
