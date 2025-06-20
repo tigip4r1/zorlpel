@@ -1975,6 +1975,8 @@ https://www.streaming101tv.es:19360/antequera/antequera.m3u8
 https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
 #EXTINF:-1 tvg-id="101tvCadiz.es" tvg-name="(SPA) 101tv Cádiz (1080p)" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="General",(SPA) 101tv Cádiz (1080p)
 https://streaming101tv.es:19360/cadiz/cadiz.m3u8
+#EXTINF:-1 tvg-id="101tvSevilla.es" tvg-name="(SPA) 101tv Sevilla" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="General",(SPA) 101tv Sevilla
+https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="APlusGuate.gt" tvg-name="(SPA) A+ Guate (720p)" tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="General",(SPA) A+ Guate (720p)
 https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AbyaYalaTV.bo" tvg-name="(SPA) Abya Yala TV" tvg-logo="https://comteco.com.bo/img/upload/canales/abya-yala.png" group-title="General",(SPA) Abya Yala TV
@@ -2131,6 +2133,8 @@ https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSierradeCadiz.es" tvg-name="(SPA) Canal Sierra de Cádiz (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/94rn7pb.png" group-title="General",(SPA) Canal Sierra de Cádiz (1080p) [Not 24/7]
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-name="(SPA) Canal Sur Andalucia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" group-title="General",(SPA) Canal Sur Andalucia
+https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
 #EXTINF:-1 tvg-id="CanalSur2.es" tvg-name="(SPA) Canal Sur Andalucía 2 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png" group-title="General",(SPA) Canal Sur Andalucía 2 (720p)
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTaronjaOsonaiMoianes.es" tvg-name="(SPA) Canal Taronja Osona i Moianés (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/RP8VcqZ.png" group-title="General",(SPA) Canal Taronja Osona i Moianés (1080p) [Not 24/7]
@@ -3495,6 +3499,8 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
 #EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-name="Bloody Disgusting TV (ENGLISH)" tvg-logo="https://i.imgur.com/cKEwuQc.png" group-title="Movies",Bloody Disgusting TV (ENGLISH)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ro@SD" tvg-name="Bollywood HD (ENGLISH)" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD (ENGLISH)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-name="Charge! (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (720p) (ENGLISH)
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="CineAdrenalina.us" tvg-name="Cine Adrenalina (ENGLISH)" tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Movies",Cine Adrenalina (ENGLISH)
@@ -4083,6 +4089,8 @@ https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-name="(SPA) 24 Horas Internacional [Geo-blocked]" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",(SPA) 24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="(SPA) 101tv Malaga" tvg-logo="https://yt3.googleusercontent.com/IIUzjqsChpzsjIafaLfwhZltNxslCol_0xoGEgNvquhPtyeQW03tDUN7yiTiiaININ2UUjmzXO4=s512-c-k-c0x00ffffff-no-rj" group-title="News",(SPA) 101tv Malaga
+https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AcentoTV.do" tvg-name="(SPA) Acento TV" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="News",(SPA) Acento TV
 https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="(SPA) ADN 40 (720p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",(SPA) ADN 40 (720p)
