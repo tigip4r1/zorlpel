@@ -737,6 +737,8 @@ https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeWomen.us@East" tvg-name="Showtime Women East (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="~Misc",Showtime Women East (ENGLISH)
 https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="SindhTV.pk" tvg-name="Sindh TV (ENGLISH)" tvg-logo="https://i.imgur.com/izpeOsx.png" group-title="~Misc",Sindh TV (ENGLISH)
+https://stream717.duckdns.org/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="SkyOpen.nz@Plus1" tvg-name="Sky open +1 (576p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/eYyYojh.png" group-title="~Misc",Sky open +1 (576p) [Geo-blocked] (ENGLISH)
 https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 #EXTINF:-1 tvg-id="SonyCanalEscapePerfecto.us" tvg-name="Sony Canal Escape Perfecto (ENGLISH)" tvg-logo="https://i.imgur.com/ohE9IgP.png" group-title="~Misc",Sony Canal Escape Perfecto (ENGLISH)
@@ -1543,8 +1545,8 @@ http://185.189.225.150:85/fdf/index.m3u8
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1 tvg-id="GETtv.do" tvg-name="(SPA) GET TV (720p)" tvg-logo="https://www.lyngsat.com/logo/tv/gg/get-tv-do.png" group-title="Entertainment",(SPA) GET TV (720p)
 https://cnn.livestreaminggroup.info:3050/live/gettvlive.m3u8
-#EXTINF:-1 tvg-id="GiTelevision.do" tvg-name="(SPA) Gi Television (720p)" tvg-logo="https://i.imgur.com/br9TNG8.png" group-title="Entertainment",(SPA) Gi Television (720p)
-https://ssh101.bozztv.com/ssh101/rctvhd103/chunks.m3u8
+#EXTINF:-1 tvg-id="GiTelevision.do@SD" tvg-name="(SPA) Gi Television (720p)" tvg-logo="https://i.imgur.com/br9TNG8.png" group-title="Entertainment",(SPA) Gi Television (720p)
+https://gitelevision.moxstream.live/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
 #EXTINF:-1 tvg-id="GirasolTV.hn" tvg-name="(SPA) Girasol TV (720p)" tvg-logo="https://i.imgur.com/2t7A2yg.png" group-title="Entertainment",(SPA) Girasol TV (720p)
 https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Girovisual.cl" tvg-name="(SPA) Girovisual (720p)" tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="Entertainment",(SPA) Girovisual (720p)
@@ -2145,8 +2147,8 @@ https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 #EXTINF:-1 tvg-id="CAtv.pr" tvg-name="(SPA) Caribbean Advantage TV (1080p) [Not 24/7]" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="General",(SPA) Caribbean Advantage TV (1080p) [Not 24/7]
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-#EXTINF:-1 tvg-id="CascaraTV.do" tvg-name="(SPA) Cáscara TV (1080p)" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="General",(SPA) Cáscara TV (1080p)
-https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-name="(SPA) Cascara TV (720p)" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="General",(SPA) Cascara TV (720p)
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CatatumboTV.ve" tvg-name="(SPA) Catatumbo TV (406p)" tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="General",(SPA) Catatumbo TV (406p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-id="CDN.do" tvg-name="(SPA) CDN (720p)" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="General",(SPA) CDN (720p)
@@ -5041,6 +5043,8 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-id="FLSport.gy" tvg-name="FL Sport (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/i8o7QEj.png" group-title="Sports",FL Sport (1080p) (ENGLISH)
 https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-name="Fox Sports 2 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p) (ENGLISH)
+http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="Fubo Sports Network (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports Network (1080p) [Geo-blocked] (ENGLISH)
 https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 #EXTINF:-1 tvg-id="FUELTV.at" tvg-name="FUEL TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV (1080p) (ENGLISH)
