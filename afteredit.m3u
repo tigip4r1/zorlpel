@@ -167,8 +167,6 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-id="RecTV.cl" tvg-name="(SPA) Rec TV" tvg-logo="https://i.imgur.com/kKfbjnj.png" group-title="~Misc",(SPA) Rec TV
 https://marine2.miplay.cl/rec/index.m3u8
-#EXTINF:-1 tvg-id="RedPlus.co" tvg-name="(SPA) Red+ (1080p)" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="~Misc",(SPA) Red+ (1080p)
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-name="(SPA) Región TV Callao (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="~Misc",(SPA) Región TV Callao (480p) [Not 24/7]
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="RNTelevision.pe" tvg-name="(SPA) RN Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="~Misc",(SPA) RN Televisión (720p) [Not 24/7]
@@ -335,8 +333,6 @@ https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
 http://190.61.102.67:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="TumpisTV.pe" tvg-name="(SPA) Tumpis TV (720p)" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="~Misc",(SPA) Tumpis TV (720p)
 https://servilive.com:3531/stream/play.m3u8
-#EXTINF:-1 tvg-id="TurismoHD.us" tvg-name="(SPA) Turismo HD (720p)" tvg-logo="https://gia.tv/streams/pstream/208343.jpg?1751121896" group-title="~Misc",(SPA) Turismo HD (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCopan.hn" tvg-name="(SPA) TV Copán (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/JiPmRFr.png" group-title="~Misc",(SPA) TV Copán (720p) [Not 24/7]
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-name="(SPA) TV Cuatro 4.1 (1080p)" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="~Misc",(SPA) TV Cuatro 4.1 (1080p)
@@ -1651,6 +1647,8 @@ https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 tvg-id="Telerayo.hn" tvg-name="(SPA) Telerayo (1080p)" tvg-logo="https://i.imgur.com/jLQsU1u.png" group-title="Entertainment",(SPA) Telerayo (1080p)
 https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 tvg-id="TurismoHD.us" tvg-name="(SPA) Turismo HD (720p)" tvg-logo="https://gia.tv/streams/pstream/208343.jpg?1751121896" group-title="Entertainment",(SPA) Turismo HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="(SPA) TV Canal Sur (720p)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-canal-sur-do.png" group-title="Entertainment",(SPA) TV Canal Sur (720p)
 https://ss9.domint.net:3030/sur_str/surtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCentro272HD.hn" tvg-name="(SPA) TV Centro 27.2 HD (720p)" tvg-logo="https://i.imgur.com/Wo2scQf.jpg" group-title="Entertainment",(SPA) TV Centro 27.2 HD (720p)
@@ -2779,7 +2777,7 @@ https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 https://x.canlitvapp.com/u-bbc2/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-name="BBC Two HD (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two HD (720p) (ENGLISH)
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIreland" tvg-name="BBC Two Northen Ireland (540p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two Northen Ireland (540p) [Geo-blocked] (ENGLISH)
+#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIreland" tvg-name="BBC Two Northern Ireland (540p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two Northern Ireland (540p) [Geo-blocked] (ENGLISH)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="Binge (ENGLISH).us" tvg-name="Binge (ENGLISH)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/binge-us.png" group-title="General",Binge (ENGLISH)
 https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
@@ -3236,7 +3234,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be
 #EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-name="(SPA) BabyTV (Spain) (1080p)" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Kids",(SPA) BabyTV (Spain) (1080p)
 http://185.189.225.150:85/BabyTV/index.m3u8
 #EXTINF:-1 tvg-id="BobEsponja.us@LATAM" tvg-name="(SPA) Bob Esponja LATAM" tvg-logo="https://i.imgur.com/nmZ2nId.png" group-title="Kids",(SPA) Bob Esponja LATAM
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=false
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=&serverSideAds=false
 #EXTINF:-1 tvg-id="(SPA) Boing.es" tvg-name="(SPA) Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids",(SPA) Boing
 http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do" tvg-name="(SPA) Chinola TV (480p)" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids",(SPA) Chinola TV (480p)
@@ -3375,6 +3373,10 @@ https://bozztv.com/gusa/gusa-hitops/index.m3u8
 https://jmp2.uk/sam-GB340000289.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="Zoo Moo (Australia) (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",Zoo Moo (Australia) (1080p) (ENGLISH)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bobleponge.us@France" tvg-name="(CA) Bob l'éponge" tvg-logo="https://i.imgur.com/ITwU1yZ.png" group-title="Kids",(CA) Bob l'éponge
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f93-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eb72cd85-f8e2-414a-99d0-c0cd8a98518d
+#EXTINF:-1 tvg-id="RedPlus.co" tvg-name="(SPA) Red+ (1080p)" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Entertainment;General;News",(SPA) Red+ (1080p)
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-name="(SPA) Logos TV Salud (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/qkHrttj.png" group-title="Lifestyle",(SPA) Logos TV Salud (720p) [Not 24/7]
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova.es" tvg-name="(SPA) Nova (Spain) (576p)" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Lifestyle",(SPA) Nova (Spain) (576p)
@@ -3695,8 +3697,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 #EXTINF:-1 tvg-id="NETVToronto.ca" tvg-name="(CA) NETV Toronto (720p)" tvg-logo="https://i.imgur.com/WXRBuOW.png" group-title="Movies",(CA) NETV Toronto (720p)
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
-#EXTINF:-1 tvg-id="10Bold.au@Sydney" tvg-name="10 Bold Adelaide (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/2xglh33.png" group-title="Lifestyle;Relax",10 Bold Adelaide (1080p) (ENGLISH)
-https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-id="13Festival.cl" tvg-name="(SPA) 13 Festival (1080p)" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Music",(SPA) 13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="(SPA) Activa TV (720p)" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Music",(SPA) Activa TV (720p)
@@ -4127,6 +4127,8 @@ https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2
 #EXTINF:-1 tvg-id="MadWorld.gr" tvg-name="(CA) Mad World (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg" group-title="Music",(CA) Mad World (720p)
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
+#EXTINF:-1 tvg-id="10Bold.au@Sydney" tvg-name="10 Bold Adelaide (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/2xglh33.png" group-title="Lifestyle;Relax",10 Bold Adelaide (1080p) (ENGLISH)
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py" tvg-name="(SPA) 4DmásNoticias TV (1080p) [Not 24/7]" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="News",(SPA) 4DmásNoticias TV (1080p) [Not 24/7]
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.es@HEVC" tvg-name="(SPA) 24 Horas HEVC" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",(SPA) 24 Horas HEVC
@@ -4681,8 +4683,6 @@ https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/2llPsSV.png" group-title="Outdoor/Travel",World Fishing Network (1080p) (ENGLISH)
 http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="GooderNationChannel32.us@West" tvg-name="Gooder Nation Channel 32 (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/7bHiavg.png" group-title="Animation;General",Gooder Nation Channel 32 (720p) [Not 24/7] (ENGLISH)
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/channel32/playlist.m3u8
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-name="(SPA) Hiperconectados TV" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Science",(SPA) Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCiencia.us" tvg-name="(SPA) Pluto TV Ciencia (720p)" tvg-logo="https://i.imgur.com/MJQTxZT.png" group-title="Science",(SPA) Pluto TV Ciencia (720p)
@@ -4695,6 +4695,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56
 https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-name="Smithsonian Channel Selects (ENGLISH)" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="Science",Smithsonian Channel Selects (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
+#EXTINF:-1 tvg-id="GooderNationChannel32.us@West" tvg-name="Gooder Nation Channel 32 (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/7bHiavg.png" group-title="Animation;General",Gooder Nation Channel 32 (720p) [Not 24/7] (ENGLISH)
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/channel32/playlist.m3u8
 #EXTINF:-1 tvg-id="13T.cl" tvg-name="(SPA) 13 Teleseries (720p)" tvg-logo="https://i.imgur.com/Agtfbfi.png" group-title="Series",(SPA) 13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="DoctorWho.us@Spain" tvg-name="(SPA) BBC Doctor Who (1080p)" tvg-logo="https://i.imgur.com/pMMabI3.png" group-title="Series",(SPA) BBC Doctor Who (1080p)
@@ -4915,6 +4917,8 @@ https://fl1.moveonjoy.com/WE_TV/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3730-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a03cd523-0223-48b3-aeb7-ce7ca6c2de02
 #EXTINF:-1 tvg-id="XPTVUS.es" tvg-name="XPTV US (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/1m7kDmc.png" group-title="Series",XPTV US (720p) (ENGLISH)
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+#EXTINF:-1 tvg-id="AlerteaMalibu.us@Canada" tvg-name="(CA) Alerte à Malibu" tvg-logo="https://i.imgur.com/hBiB6uk.png" group-title="Series",(CA) Alerte à Malibu
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90db65e8e770007382a50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c21-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c070d939-44e0-419b-b958-d26935b903d0
 #EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-name="(SPA) Bajo Techo TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Shop",(SPA) Bajo Techo TV (1080p) [Not 24/7]
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 #EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-name="30A The Beach Show (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="Shop",30A The Beach Show (720p) (ENGLISH)

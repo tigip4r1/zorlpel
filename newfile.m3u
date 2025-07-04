@@ -280,8 +280,6 @@ https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Tenerife.es" tvg-logo="https://i.imgur.com/Egymir4.png" group-title="~Misc",(SPA) Canal 4 Tenerife (576p)
 https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",(SPA) Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="Canal5PicoTruncado.ar" tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="~Misc",(SPA) Canal 5 Pico Truncado (540p)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="~Misc",(SPA) Canal 5 Santa Fe (240p)
@@ -721,8 +719,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://cp.cast-live.net:1936/exodotv/exodotv/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",(SPA) EnerGeek (720p) [Not 24/7]
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Animation",(SPA) EnerGeek FAN (1080p)
-https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=ZZDemoIPTVGH&password=mdo96EuqMkTR
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",(SPA) EnerGeek Radio (1080p)
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",(SPA) Enlace (720p)
@@ -2196,9 +2192,6 @@ https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 #EXTINF:-1 tvg-id="UATV.cl" tvg-logo="https://i.imgur.com/BdZGS66.png" group-title="~Misc",(SPA) Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UniversidadMayordeSanAndres.bo" tvg-logo="https://i.imgur.com/GmNvRnj.png" group-title="Education" http-referrer="https://tvu.umsa.bo/en-vivo",(SPA) UniversidadMayordeSanAndres (1080p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
-https://s1.tvdatta.com:3557/live/tvulive.m3u8
 #EXTINF:-1 tvg-id="UnsionTV.ec" tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="~Misc",(SPA) Unsion TV (1080p)
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 #EXTINF:-1 tvg-id="UPPTV.bo" tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="General",(SPA) UPP TV/Bolivisión SCZ (720p) [Not 24/7]
@@ -6193,8 +6186,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",(SV) EnerGeek (720p) [Not 24/7]
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Animation",(SV) EnerGeek FAN (1080p)
-https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=ZZDemoIPTVGH&password=mdo96EuqMkTR
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",(SV) EnerGeek Radio (1080p)
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",(SV) Enlace (720p)
