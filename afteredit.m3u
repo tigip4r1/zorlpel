@@ -711,10 +711,10 @@ https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 https://webstreaming.viewmedia.tv/web_012/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RoyalTV.gh@SD" tvg-name="Royal TV (ENGLISH)" tvg-logo="https://i.imgur.com/OCnrNm1.png" group-title="~Misc",Royal TV (ENGLISH)
 https://live20.bozztv.com/dvrfl06/astv/astv-royaltv/index.m3u8
-#EXTINF:-1 tvg-id="RSILa1.ch" tvg-name="RSI La 1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/512px-RSI_La_1_2012.svg.png" group-title="~Misc",RSI La 1 (720p) (ENGLISH)
-https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-name="RSI La 2 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png" group-title="~Misc",RSI La 2 (720p) (ENGLISH)
-https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 tvg-id="RSILa1.ch@SD" tvg-name="RSI La 1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/512px-RSI_La_1_2012.svg.png" group-title="~Misc",RSI La 1 (720p) (ENGLISH)
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+#EXTINF:-1 tvg-id="RSILa2.ch@SD" tvg-name="RSI La 2 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png" group-title="~Misc",RSI La 2 (720p) (ENGLISH)
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 #EXTINF:-1 tvg-id="RTHKTV33.hk" tvg-name="RTHK TV 33 (港台電視33) (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/2MProun.png" group-title="~Misc",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked] (ENGLISH)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV34.hk" tvg-name="RTHK TV 34 (港台電視34) (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="~Misc",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked] (ENGLISH)
@@ -5003,6 +5003,8 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
 #EXTINF:-1 tvg-id="LuchaLibreAAA.us" tvg-name="(SPA) Pluto TV Lucha Libre AAA (720p)" tvg-logo="https://i.imgur.com/Nc7K060.png" group-title="Sports",(SPA) Pluto TV Lucha Libre AAA (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
+#EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr" tvg-name="(SPA) Radio Turrialba TV Sports (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="Sports",(SPA) Radio Turrialba TV Sports (720p) [Geo-blocked]
+https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="(SPA) Real Madrid TV (404p)" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",(SPA) Real Madrid TV (404p)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es@HEVC" tvg-name="(SPA) Teledeporte HEVC" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Sports",(SPA) Teledeporte HEVC
