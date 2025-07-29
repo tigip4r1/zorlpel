@@ -879,6 +879,8 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-id="TVUCT.cl" tvg-name="(SPA) TV UCT (1080p)" tvg-logo="https://i.imgur.com/tpI0WQH.png" group-title="~Misc",(SPA) TV UCT (1080p)
 https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-name="(SPA) TVE Internacional America (720p)" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="~Misc",(SPA) TVE Internacional America (720p)
+http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMas.mx" tvg-name="(SPA) TVMás (720p)" tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="~Misc",(SPA) TVMás (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-name="(SPA) TVMÁS (XHGV-TDT) (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="~Misc",(SPA) TVMÁS (XHGV-TDT) (360p) [Not 24/7]
@@ -3495,8 +3497,6 @@ https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/
 https://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="HobbyMaker.uk" tvg-name="Hobby Maker (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="Lifestyle",Hobby Maker (720p) (ENGLISH)
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="JustVogueTV.ae" tvg-name="Just Vogue TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/sRKYBMb.png" group-title="Lifestyle",Just Vogue TV (1080p) (ENGLISH)
-https://ip100.radyotelekomtv.com:3873/stream/play.m3u8
 #EXTINF:-1 tvg-id="SmartLifeStyleTV.us" tvg-name="Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/kHFlTEy.png" group-title="Lifestyle",Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p) (ENGLISH)
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-id="Localish.us" tvg-name="Localish (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="Lifestyle",Localish (720p) (ENGLISH)
