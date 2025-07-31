@@ -1293,7 +1293,7 @@ https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="ETBBasque.es" tvg-name="(SPA) ETB Basque (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="Culture",(SPA) ETB Basque (480p)
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-#EXTINF:-1 tvg-id="GuaymateTV.do@SD" tvg-name="(SPA) Guaymate TV [Not 24/7]" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Culture",(SPA) Guaymate TV [Not 24/7]
+#EXTINF:-1 tvg-id="GuaymateTV.do@SD" tvg-name="(SPA) Guaymate TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Culture",(SPA) Guaymate TV (720p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-name="(SPA) Hamaika Telebista (1080p)" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="Culture",(SPA) Hamaika Telebista (1080p)
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
@@ -1883,7 +1883,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-id="PulaTV.do" tvg-name="(SPA) Pula TV (720p)" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="Entertainment",(SPA) Pula TV (720p)
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
-#EXTINF:-1 tvg-id="RETV.do@SD" tvg-name="(SPA) R&E TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="Entertainment",(SPA) R&E TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="RETV.do@SD" tvg-name="(SPA) R&E TV (720p)" tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="Entertainment",(SPA) R&E TV (720p)
 https://live.ryetv.net/livelan/stream.m3u8
 #EXTINF:-1 tvg-id="RadioYaucanaTV.pr" tvg-name="(SPA) Radio Yaucana TV (720p)" tvg-logo="https://i.imgur.com/QT0UgZk.png" group-title="Entertainment",(SPA) Radio Yaucana TV (720p)
 https://stmvideo6.livecastv.com/rytv2015/rytv2015/playlist.m3u8
@@ -1907,7 +1907,7 @@ https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 tvg-id="Telerayo.hn" tvg-name="(SPA) Telerayo (1080p)" tvg-logo="https://i.imgur.com/jLQsU1u.png" group-title="Entertainment",(SPA) Telerayo (1080p)
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:-1 tvg-id="TVCanalSur.do@SD" tvg-name="(SPA) TV Canal Sur (720p)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-canal-sur-do.png" group-title="Entertainment",(SPA) TV Canal Sur (720p)
+#EXTINF:-1 tvg-id="TVCanalSur.do@SD" tvg-name="(SPA) TV Canal Sur (1080p)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-canal-sur-do.png" group-title="Entertainment",(SPA) TV Canal Sur (1080p)
 https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVCentro272HD.hn" tvg-name="(SPA) TV Centro 27.2 HD (720p)" tvg-logo="https://i.imgur.com/Wo2scQf.jpg" group-title="Entertainment",(SPA) TV Centro 27.2 HD (720p)
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
@@ -4333,6 +4333,8 @@ https://live20.bozztv.com/dvrfl06/astv/astv-arise/index.m3u8
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-name="BBC News (North America) (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News (North America) (1080p) (ENGLISH)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-name="BBC News Asia Pacific (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Asia Pacific (1080p) (ENGLISH)
+https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 #EXTINF:-1 tvg-id="BEKNews.us" tvg-name="BEK TV News (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/m80uxdz.png" group-title="News",BEK TV News (720p) (ENGLISH)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuEnglish.id@SD" tvg-name="BeritaSatu English (ENGLISH)" tvg-logo="https://i.postimg.cc/SRDWxRGs/13092012142252.jpg" group-title="News",BeritaSatu English (ENGLISH)
