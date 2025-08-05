@@ -766,7 +766,7 @@ https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc1
 #EXTINF:-1 tvg-id="Telecadena7y4.hn@SD" tvg-name="(SPA) Telecadena 7 y 4" tvg-logo="https://i.imgur.com/3gzFNog.png" group-title="~Misc",(SPA) Telecadena 7 y 4
 https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 #EXTINF:-1 tvg-id="Telecanal.cl@SD" tvg-name="(SPA) Telecanal (720p)" tvg-logo="https://i.imgur.com/3g6SbSt.png" group-title="~Misc",(SPA) Telecanal (720p)
-http://190.110.160.210:8000/play/a07s/index.m3u8
+http://45.232.210.1:8029/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Telecanal12.do" tvg-name="(SPA) Telecanal 12 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="~Misc",(SPA) Telecanal 12 (720p) [Not 24/7]
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1 tvg-id="Telecanal28.do" tvg-name="(SPA) Telecanal 28 (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="~Misc",(SPA) Telecanal 28 (360p) [Not 24/7]
@@ -1053,8 +1053,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
 #EXTINF:-1 tvg-id="TheCarolBurnettShow.us@SD" tvg-name="The Carol Burnett Show (ENGLISH)" tvg-logo="https://i.imgur.com/1a03FlX.png" group-title="Classic",The Carol Burnett Show (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141
-#EXTINF:-1 tvg-id="TVLand.us@East" tvg-name="TV Land East (ENGLISH)" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Classic",TV Land East (ENGLISH)
-https://fl3.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 tvg-id="TVLand.us@East" tvg-name="TV Land (ENGLISH)" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Classic",TV Land (ENGLISH)
+https://fl3.moveonjoy.com/TV_LAND/index.m3u8
 #EXTINF:-1 tvg-id="TVSCipherNetwork.us" tvg-name="TVS Cipher Network (360p) (ENGLISH)" tvg-logo="https://i.imgur.com/yyz1S2W.png" group-title="Classic",TVS Cipher Network (360p) (ENGLISH)
 https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-name="TVS Classic Movies (288p) (ENGLISH)" tvg-logo="https://i.imgur.com/st1xMsw.png" group-title="Classic",TVS Classic Movies (288p) (ENGLISH)
@@ -5157,8 +5157,8 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-name="Glory Kickboxing (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="Sports",Glory Kickboxing (720p) (ENGLISH)
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel (ENGLISH)" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="Sports",Golf Channel (ENGLISH)
-https://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD" tvg-name="Golf Channel (ENGLISH)" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="Sports",Golf Channel (ENGLISH)
+https://fl3.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 tvg-id="GolfNetwork.jp" tvg-name="Golf Network (540p) (ENGLISH)" tvg-logo="https://i.imgur.com/s6lmfXF.png" group-title="Sports",Golf Network (540p) (ENGLISH)
 http://202.60.106.14:8080/1335/playlist.m3u8
 #EXTINF:-1 tvg-id="GTVSportsPlus.gh@SD" tvg-name="GTV Sports + (ENGLISH)" tvg-logo="https://i.imgur.com/YQ7A8dG.png" group-title="Sports",GTV Sports + (ENGLISH)
