@@ -658,7 +658,7 @@ https://live20.bozztv.com/dvrfl06/astv/astv-precious/index.m3u8
 #EXTINF:-1 tvg-id="Pulse.za" tvg-name="Pulse (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/J9VRDDR.png" group-title="~Misc",Pulse (720p) (ENGLISH)
 https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8
 #EXTINF:-1 tvg-id="Pulse95Radio.ae" tvg-name="Pulse95 Radio (1080p) (ENGLISH)" tvg-logo="https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png" group-title="~Misc",Pulse95 Radio (1080p) (ENGLISH)
-https://svs.itworkscdn.net/pulse95live/pulse96vision/playlist.m3u8
+https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
 #EXTINF:-1 tvg-id="PursuitChannel.us" tvg-name="Pursuit Channel (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png" group-title="~Misc",Pursuit Channel (720p) (ENGLISH)
 https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1 tvg-id="QuestTV.ng" tvg-name="Quest TV (240p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/4ATTIQi.png" group-title="~Misc",Quest TV (240p) [Not 24/7] (ENGLISH)
@@ -4351,8 +4351,6 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalI.ve" tvg-name="(SPA) Canal I (720p)" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="News",(SPA) Canal I (720p)
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalPyC.co@SD" tvg-name="(SPA) Canal PyC" tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="News",(SPA) Canal PyC
-https://edge.teveo.net/live/AeAAAgAkAANqA1IAyADIUDAAAAGAAAAAAmg02rRAIAByAAAA/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSurNoticias.es@SD" tvg-name="(SPA) Canal Sur Noticias" tvg-logo="https://i.imgur.com/jB1aADL.png" group-title="News",(SPA) Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Carivision.do@SD" tvg-name="(SPA) Carivision (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="News",(SPA) Carivision (1080p) [Geo-blocked]
@@ -5391,8 +5389,8 @@ https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2 (ENGLISH)" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="Sports",S Sport 2 (ENGLISH)
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="Sharjah Sports TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="Sports",Sharjah Sports TV (1080p) (ENGLISH)
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="Sharjah Sports (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/CsEElsJ.png" group-title="Sports",Sharjah Sports (1080p) [Geo-blocked] (ENGLISH)
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-name="SKI TV (1080p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="Sports",SKI TV (1080p) [Not 24/7] (ENGLISH)
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="Sky Sport 1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/ThJHEuN.png" group-title="Sports",Sky Sport 1 (1080p) (ENGLISH)
