@@ -1345,8 +1345,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="(SPA) La 2 (1080p)" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentary",(SPA) La 2 (1080p)
 http://185.189.225.150:85/TV2/index.m3u8
-#EXTINF:-1 tvg-id="La2.es@HEVC" tvg-name="(SPA) La 2 HEVC" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="Documentary",(SPA) La 2 HEVC
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="(SPA) National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",(SPA) National Geographic Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="(SPA) NatureTime.es" tvg-name="(SPA) NatureTime" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",(SPA) NatureTime
@@ -2169,14 +2167,14 @@ https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1 tvg-id="CanalSur2.es" tvg-name="(SPA) Canal Sur Andalucía 2 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png" group-title="General",(SPA) Canal Sur Andalucía 2 (720p)
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es@HEVC" tvg-name="(SPA) Canal Sur Andalucia HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png" group-title="General",(SPA) Canal Sur Andalucia HEVC
-https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
 #EXTINF:-1 tvg-id="CanangaTV.do" tvg-name="(SPA) Cananga TV (720p)" tvg-logo="https://i.imgur.com/isXlMAh.png" group-title="General",(SPA) Cananga TV (720p)
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="CanelaTV.do" tvg-name="(SPA) Canela TV [Not 24/7]" tvg-logo="https://imgur.com/TRCvLdz.png" group-title="General",(SPA) Canela TV [Not 24/7]
 https://cnn.hostlagarto.com/canelatv/index.m3u8
 #EXTINF:-1 tvg-id="CaprichoTV.ec" tvg-name="(SPA) Capricho TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="General",(SPA) Capricho TV (720p) [Not 24/7]
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-name="(SPA) Caracol TV [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="General",(SPA) Caracol TV [Not 24/7]
+http://138.121.15.230:8000/play/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="CAtv.pr" tvg-name="(SPA) Caribbean Advantage TV (1080p) [Not 24/7]" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="General",(SPA) Caribbean Advantage TV (1080p) [Not 24/7]
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-name="(SPA) Cascara TV (720p)" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="General",(SPA) Cascara TV (720p)
@@ -2353,8 +2351,6 @@ https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
 https://mediacp.us:8081/juncotv/index.m3u8
 #EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-name="(SPA) KMEX-DT1 [Geo-blocked]" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="General",(SPA) KMEX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 tvg-id="La1.es@HEVC" tvg-name="(SPA) La 1 HEVC" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",(SPA) La 1 HEVC
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-id="La8Mediterraneo.es" tvg-name="(SPA) La 8 Mediterráneo (1080p) [Not 24/7]" tvg-logo="https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png" group-title="General",(SPA) La 8 Mediterráneo (1080p) [Not 24/7]
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-name="(SPA) La Caleta TV (360p)" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="General",(SPA) La Caleta TV (360p)
@@ -2627,8 +2623,6 @@ https://tbilbo.dyndns.org/hls/stream.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecentro.ve" tvg-name="(SPA) Telecentro (720p)" tvg-logo="https://i.imgur.com/QtRNfaj.png" group-title="General",(SPA) Telecentro (720p)
 https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="(SPA) Telecinco (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="General",(SPA) Telecinco (720p)
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-id="Telecolor.ve" tvg-name="(SPA) Telecolor (480p)" tvg-logo="https://i.imgur.com/YvdzJHj.png" group-title="General",(SPA) Telecolor (480p)
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 #EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-name="(SPA) Telecolor Yurimaguas (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",(SPA) Telecolor Yurimaguas (720p) [Not 24/7]
@@ -3419,8 +3413,6 @@ http://185.189.225.150:85/boing/index.m3u8
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-name="(SPA) Clan (1280p)" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",(SPA) Clan (1280p)
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
-#EXTINF:-1 tvg-id="Clan.es@HEVC" tvg-name="(SPA) Clan HEVC" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",(SPA) Clan HEVC
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="(SPA) Clan TVE Internacional (1080p)" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",(SPA) Clan TVE Internacional (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-name="(SPA) Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",(SPA) Disney Channel East
@@ -5229,8 +5221,6 @@ https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="(SPA) Teledeporte (1080p)" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Sports",(SPA) Teledeporte (1080p)
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-#EXTINF:-1 tvg-id="Teledeporte.es@HEVC" tvg-name="(SPA) Teledeporte HEVC" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Sports",(SPA) Teledeporte HEVC
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 #EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="(SPA) Teletrak (720p)" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Sports",(SPA) Teletrak (720p)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.cr" tvg-name="(SPA) Tigo Sports (Costa Rica)" tvg-logo="https://i.imgur.com/UrsLSRs.png" group-title="Sports",(SPA) Tigo Sports (Costa Rica)
