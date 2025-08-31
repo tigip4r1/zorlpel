@@ -2327,8 +2327,8 @@ https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 tvg-id="JoyPrime.gh" tvg-name="Joy Prime (ENGLISH)" tvg-logo="https://i.imgur.com/svxV4gJ.png" group-title="General",Joy Prime (ENGLISH)
 http://69.64.57.208/joyprime/playlist.m3u8
-#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="KABC-DT1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="General",KABC-DT1 (720p) (ENGLISH)
-https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-name="KABC-DT1 (360p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="General",KABC-DT1 (360p) (ENGLISH)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World (ENGLISH)" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World (ENGLISH)
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KCBSDT1.us" tvg-name="KCBS-DT1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="General",KCBS-DT1 (1080p) (ENGLISH)
@@ -4547,6 +4547,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News",NHK World-Japan (720p) (ENGLISH)
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-name="NHK World-Japan HD (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News",NHK World-Japan HD (ENGLISH)
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="OAN (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="News",OAN (720p) (ENGLISH)
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="OANEncore.us" tvg-name="OAN Encore (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="News",OAN Encore (720p) [Geo-blocked] (ENGLISH)
@@ -5333,8 +5335,6 @@ https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="Strongman.us@UK" tvg-name="Strongman (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Sports",Strongman (720p) (ENGLISH)
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperSportRugby.za@SD" tvg-name="SuperSport Rugby (ENGLISH)" tvg-logo="https://i.imgur.com/wwBY5Gh.png" group-title="Sports",SuperSport Rugby (ENGLISH)
-https://live20.bozztv.com/trn03/gin-ssrugby/index.m3u8
 #EXTINF:-1 tvg-id="SwerveSports.us" tvg-name="Swerve Sports (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="Sports",Swerve Sports (1080p) (ENGLISH)
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="talkSPORT.uk" tvg-name="talkSPORT (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="Sports",talkSPORT (1080p) (ENGLISH)
