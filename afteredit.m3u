@@ -1245,6 +1245,8 @@ https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" group-title="Culture",Flowers TV USA (ENGLISH)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 tvg-id="FNX (ENGLISH).us@SD" tvg-name="FNX (ENGLISH)" tvg-logo="https://i.imgur.com/wcVntg7.png" group-title="Culture",FNX (ENGLISH)
+https://fnx.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="KVCRDT2.us" tvg-name="FNX [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" group-title="Culture",FNX [Geo-blocked] (ENGLISH)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-name="Fox Soul (ENGLISH)" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (ENGLISH)
@@ -1419,6 +1421,8 @@ https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qx
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="CCPSEducationChannel.us" tvg-name="Collier County Public Schools CCPS Education Channel (Naples FL) (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/62S7dI8.png" group-title="Education",Collier County Public Schools CCPS Education Channel (Naples FL) (480p) (ENGLISH)
 https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Create (ENGLISH).us@SD" tvg-name="Create (ENGLISH)" tvg-logo="https://i.imgur.com/OIJTECP.png" group-title="Education",Create (ENGLISH)
+https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-name="CreaTV Classrooms Channel 28 (San Jose CA) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/rvQdzL1.png" group-title="Education",CreaTV Classrooms Channel 28 (San Jose CA) (720p) (ENGLISH)
 https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
 #EXTINF:-1 tvg-id="CuriosityStream.us" tvg-name="CuriosityStream (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/KUb4vEz.png" group-title="Education",CuriosityStream (720p) (ENGLISH)
@@ -1957,6 +1961,8 @@ https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel (ENGLISH)" tvg-logo="" group-title="Family",Dove Channel (ENGLISH)
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="FETV (ENGLISH).us" tvg-name="FETV (ENGLISH)" tvg-logo="https://i.imgur.com/Z9xclnE.png" group-title="Family",FETV (ENGLISH)
+https://gcdn-p6.teleuptv.net/806c57bb-85bc-4773-becc-e24433711d14/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="Family",Freeform (720p) (ENGLISH)
 https://tvpass.org/live/FreeformEast/hd
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East" tvg-name="Hallmark Channel East (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Family",Hallmark Channel East (ENGLISH)
@@ -2143,7 +2149,7 @@ https://reflect-stream15-capsmedia.cablecast.tv/live/live.m3u8
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1 tvg-id="CityTVCarlsbad.us" tvg-name="Carlsbad City TV Channel (Carlsbad CA) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/G6h8efT.png" group-title="General",Carlsbad City TV Channel (Carlsbad CA) (720p) (ENGLISH)
 https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
-#EXTINF:-1 tvg-id="CBRTDT.ca" tvg-name="CBC Calgary (CBRT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="" group-title="General",CBC Calgary (CBRT-DT) (720p) [Geo-blocked] (ENGLISH)
+#EXTINF:-1 tvg-id="CBRTDT.ca" tvg-name="CBC Calgary (CBRT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/ocq1x2B.png" group-title="General",CBC Calgary (CBRT-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 #EXTINF:-1 tvg-id="CBXTDT.ca" tvg-name="CBC Edmonton (CBXT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="General",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
@@ -2153,11 +2159,11 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CBATDT.ca" tvg-name="CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/xflShTG.png" group-title="General",CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 tvg-id="CBNTDT.ca" tvg-name="CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="" group-title="General",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked] (ENGLISH)
+#EXTINF:-1 tvg-id="CBNTDT.ca" tvg-name="CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CBNT-DT_2017.svg/512px-CBNT-DT_2017.svg.png" group-title="General",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 tvg-id="CFYKDT.ca" tvg-name="CBC North (CFYK-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/EHGOQhj.png" group-title="General",CBC North (CFYK-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
-#EXTINF:-1 tvg-id="CBHTDT.ca" tvg-name="CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="" group-title="General",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked] (ENGLISH)
+#EXTINF:-1 tvg-id="CBHTDT.ca" tvg-name="CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/jdlYY4t.png" group-title="General",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 #EXTINF:-1 tvg-id="CBOTDT.ca" tvg-name="CBC Ottawa (CBOT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/v3DJUa8.png" group-title="General",CBC Ottawa (CBOT-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
@@ -2165,9 +2171,9 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
 #EXTINF:-1 tvg-id="CBKTDT.ca" tvg-name="CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/PWGVjsg.png" group-title="General",CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
-#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-name="CBC Toronto (CBLT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="" group-title="General",CBC Toronto (CBLT-DT) (720p) [Geo-blocked] (ENGLISH)
+#EXTINF:-1 tvg-id="CBLTDT.ca" tvg-name="CBC Toronto (CBLT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="General",CBC Toronto (CBLT-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 tvg-id="CBUTDT.ca" tvg-name="CBC Vancouver (CBUT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="" group-title="General",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked] (ENGLISH)
+#EXTINF:-1 tvg-id="CBUTDT.ca" tvg-name="CBC Vancouver (CBUT-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png" group-title="General",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 #EXTINF:-1 tvg-id="CBETDT.ca" tvg-name="CBC Windsor (CBET-DT) (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/NFts1uU.png" group-title="General",CBC Windsor (CBET-DT) (720p) [Geo-blocked] (ENGLISH)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
@@ -2463,7 +2469,7 @@ https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playl
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTV.us@East" tvg-name="NTD TV (1080p) (ENGLISH)" tvg-logo="https://i.postimg.cc/XYGstDdJ/ntdtv.png" group-title="General",NTD TV (1080p) (ENGLISH)
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.na" tvg-name="NTV (720p) (ENGLISH)" tvg-logo="https://i.postimg.cc/Zq6V5Bfz/ntv.png" group-title="General",NTV (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="NTV.na" tvg-name="NTV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/c7jUmGS.jpg" group-title="General",NTV (720p) (ENGLISH)
 https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8
 #EXTINF:-1 tvg-id="NTV7 (ENGLISH).my" tvg-name="NTV7 (ENGLISH)" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-title="General",NTV7 (ENGLISH)
 https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
@@ -2601,7 +2607,7 @@ https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
 #EXTINF:-1 tvg-id="CKSHDT.ca" tvg-name="(CA) Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",(CA) Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
-#EXTINF:-1 tvg-id="CBWFTDT.ca" tvg-name="(CA) Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]" tvg-logo="" group-title="General",(CA) Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBWFTDT.ca" tvg-name="(CA) Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ICI_Manitoba_logo_2018.svg/512px-ICI_Manitoba_logo_2018.svg.png" group-title="General",(CA) Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
 #EXTINF:-1 tvg-id="CKTMDT.ca" tvg-name="(CA) Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",(CA) Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
@@ -2613,7 +2619,7 @@ https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
 #EXTINF:-1 tvg-id="CKTVDT.ca" tvg-name="(CA) Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png" group-title="General",(CA) Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
-#EXTINF:-1 tvg-id="CBKFTDT.ca" tvg-name="(CA) Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]" tvg-logo="" group-title="General",(CA) Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBKFTDT.ca" tvg-name="(CA) Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ICI_Saskatchewan_logo_2018.svg/512px-ICI_Saskatchewan_logo_2018.svg.png" group-title="General",(CA) Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 #EXTINF:-1 tvg-id="CBAFTDT.ca" tvg-name="(CA) Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/512px-ICI_Acadie_logo_2018.svg.png" group-title="General",(CA) Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
@@ -2807,6 +2813,8 @@ https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSierradeCadiz.es" tvg-name="(SPA) Canal Sierra de Cádiz (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/94rn7pb.png" group-title="General",(SPA) Canal Sierra de Cádiz (1080p) [Not 24/7]
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:-1 tvg-id="Canalda26HD.do" tvg-name="(SPA) Canalda 26 HD [Not 24/7]" tvg-logo="https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png" group-title="General",(SPA) Canalda 26 HD [Not 24/7]
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 #EXTINF:-1 tvg-id="CanangaTV.do" tvg-name="(SPA) Cananga TV (720p)" tvg-logo="https://i.imgur.com/isXlMAh.png" group-title="General",(SPA) Cananga TV (720p)
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="CanelaTV.do" tvg-name="(SPA) Canela TV [Not 24/7]" tvg-logo="https://imgur.com/TRCvLdz.png" group-title="General",(SPA) Canela TV [Not 24/7]
@@ -2820,7 +2828,7 @@ https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CatatumboTV.ve" tvg-name="(SPA) Catatumbo TV (406p)" tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="General",(SPA) Catatumbo TV (406p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-id="CDN.do@SD" tvg-name="(SPA) CDN (720p)" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="General",(SPA) CDN (720p)
-http://138.36.24.8:8000/play/a02w/index.m3u8
+http://190.123.76.22:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="CeibaVisionCanal36.hn@SD" tvg-name="(SPA) Ceiba Vision Canal 36" tvg-logo="https://i.imgur.com/90h9abf.png" group-title="General",(SPA) Ceiba Vision Canal 36
 https://dvrfl03.bozztv.com/hondu/hondu-ceibavisionhd/index.m3u8
 #EXTINF:-1 tvg-id="CenovisionHD.do@HD" tvg-name="(SPA) Cenovision HD (720p)" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="General",(SPA) Cenovision HD (720p)
@@ -3526,9 +3534,17 @@ https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NoParentsAllowed.us" tvg-name="No Parents Allowed (ENGLISH)" tvg-logo="https://i.imgur.com/Aowuy89.png" group-title="Kids",No Parents Allowed (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7810-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c5ce324-21ad-48f6-827f-afd8d0d9db57
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids (ENGLISH)" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Kids",PBS Kids (ENGLISH)
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",PBS Kids Alaska (1080p) (ENGLISH)
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-name="PBS Kids Eastern/Central (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",PBS Kids Eastern/Central (720p) (ENGLISH)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD" tvg-name="PBS Kids Hawaii (ENGLISH)" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",PBS Kids Hawaii (ENGLISH)
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-name="PBS Kids Mountain (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",PBS Kids Mountain (1080p) (ENGLISH)
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-name="PBS Kids Pacific (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",PBS Kids Pacific (1080p) (ENGLISH)
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 #EXTINF:-1 tvg-id="pocketwatch.us@SD" tvg-name="Pocket.watch (ENGLISH)" tvg-logo="https://i.imgur.com/T0V90Lz.png" group-title="Kids",Pocket.watch (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/635656ed26e11400077add0f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb436-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bbef974-a7b4-4128-b8bb-80945ad9a81c
 #EXTINF:-1 tvg-id="PopUp.uk" tvg-name="Pop Up (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/GdSotmS.png" group-title="Kids",Pop Up (1080p) (ENGLISH)
@@ -4705,7 +4721,7 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="(CA) RT France (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="News",(CA) RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPunjab.ca" tvg-name="(CA) TV Punjab (720p)" tvg-logo="" group-title="News",(CA) TV Punjab (720p)
+#EXTINF:-1 tvg-id="TVPunjab.ca" tvg-name="(CA) TV Punjab (720p)" tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" group-title="News",(CA) TV Punjab (720p)
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py" tvg-name="(SPA) 4DmásNoticias TV (1080p) [Not 24/7]" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="News",(SPA) 4DmásNoticias TV (1080p) [Not 24/7]
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
@@ -5205,7 +5221,7 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="Shop",TJC (1080p) (ENGLISH)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:-1 tvg-id="TSC.ca" tvg-name="Today's Shopping Choice (TSC) (720p) (ENGLISH)" tvg-logo="" group-title="Shop",Today's Shopping Choice (TSC) (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="TSC.ca" tvg-name="Today's Shopping Choice (TSC) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/512px-TSC_logo.svg.png" group-title="Shop",Today's Shopping Choice (TSC) (720p) (ENGLISH)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-id="TVSConsumerDirect (ENGLISH).us" tvg-name="TVSConsumerDirect (ENGLISH)" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" group-title="Shop",TVSConsumerDirect (ENGLISH)
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
