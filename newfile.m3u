@@ -61,6 +61,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
 #EXTINF:-1 tvg-id="981PearlFM.sx" tvg-logo="https://i.imgur.com/GY750xh.jpg" group-title="Music",98.1 Pearl FM (720p) (ENGLISH)
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-id="111TV.it" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="General",111 TV (720p) (ENGLISH)
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 #EXTINF:-1 tvg-id="90210 (ENGLISH).us@SD" tvg-logo="https://i.imgur.com/xqo5PxO.png" group-title="Series",90210 (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67dd13af63d0008257f17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5240-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e62cae5-9404-4e52-8b20-c5fc2b453e9d
 #EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Movies" http-referrer="https://onezoo.net",&flix (1080p) (ENGLISH)
@@ -1076,6 +1078,8 @@ https://fl4.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
 https://cdn-2.pishow.tv/live/425/master.m3u8
 #EXTINF:-1 tvg-id="CypressChannel36.us" tvg-logo="https://i.imgur.com/vOvoHBC.png" group-title="Legislative",Cypress Public Access Channel 36 (Cypress CA) (360p) (ENGLISH)
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Education",Da Vinci Vietnam (1080p) (ENGLISH)
+https://hls.mskycdn.online/tv/davinci/index.m3u8
 #EXTINF:-1 tvg-id="DallasCowboysCheerleaders.us" tvg-logo="https://i.imgur.com/73HlRCg.png" group-title="Documentary",Dallas Cowboys Cheerleaders (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a113fc-f35c-4160-9c63-27cd8537a39f
 #EXTINF:-1 tvg-id="DanceHits80 (ENGLISH).ru@SD" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Music",DanceHits80 (ENGLISH)
@@ -3130,6 +3134,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineve
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb095-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e52ea0d7-7d74-4383-8afa-27a135057740
 #EXTINF:-1 tvg-id="SonyPix.in@SD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="~Misc",Sony Pix (720p) (ENGLISH)
 https://tv.bdixtv24.com/toffee/live.php?e=.m3u8&id=ea02096b0fbc
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://i.imgur.com/MhlO1dB.png" group-title="~Misc" http-referrer="https://nxtlive.net/",Sony Yay! (1080p) (ENGLISH)
+#EXTVLCOPT:http-referrer=https://nxtlive.net/
+#KODIPROP:inputstream.adaptive.http-referrer=https://nxtlive.net/
+https://nxtlive.net/sliv/stream.php?id=0657898986&e=.m3u8
 #EXTINF:-1 tvg-id="SoundViewCommunityMedia.us" tvg-logo="https://i.imgur.com/3gASzGc.png" group-title="General",Sound View Community Media Education (480p) (ENGLISH)
 https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SpektraTV.es@SD" tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="Music",SpektraTV (720p) (ENGLISH)
@@ -3341,6 +3349,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://cineverse.g-mana.live/media/09899328-5b22-4d3e-ba1e-111856798c99/playlist_3.m3u8
 #EXTINF:-1 tvg-id="TheAsylum.us" tvg-logo="https://i.imgur.com/dx9tt1B.png" group-title="Series",The Asylum (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=af6d4127-dedb-455c-9e2e-a626903be2bf
+#EXTINF:-1 tvg-id="TheBeachChannel.us" tvg-logo="https://i.imgur.com/KShaqAp.png" group-title="Lifestyle" http-referrer="https://player.castr.com/",The Beach Channel (720p) [Not 24/7] (ENGLISH)
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#KODIPROP:inputstream.adaptive.http-referrer=https://player.castr.com/
+https://stream.castr.com/67320cbb6b3df3c4694581ce/live_a80e55b0a03411efa6eeb56ae1378053/index.m3u8
 #EXTINF:-1 tvg-id="TheBobRossChannel.us@SD" tvg-logo="https://i.imgur.com/gFHKCbZ.png" group-title="Series",The Bob Ross Channel (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b82075e4391c0008c3c1fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5071-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7b163328-7998-4aee-803b-e7321d13cbf9
 #EXTINF:-1 tvg-id="TheCarolBurnettShow.us@SD" tvg-logo="https://i.imgur.com/1a03FlX.png" group-title="Classic",The Carol Burnett Show (ENGLISH)
@@ -4258,8 +4270,8 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",(CA) TVA [Geo-blocked]
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="~Misc",(CA) TVE Internacional America (720p)
-http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="~Misc",(CA) TVE Internacional America (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="(CA) TVOKids.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/512px-Tvokids-logo.svg.png" group-title="Kids",(CA) TVOKids
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 #EXTINF:-1 tvg-id="UvagutTV.ca" tvg-logo="https://i.imgur.com/RR7ATr2.png" group-title="~Misc",(CA) Uvagut TV (1080p)
@@ -5114,6 +5126,8 @@ https://master.tucableip.com/ftvhd/index.m3u8
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
 #EXTINF:-1 tvg-id="FuerteventuraTV.es" tvg-logo="https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png" group-title="General",(SPA) Fuerteventura TV (1080p)
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+#EXTINF:-1 tvg-id="FUTV.cr" tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Sports",(SPA) FUTV (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/livefutvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",(SPA) FX Movie Channel (720p)
 https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 tvg-id="(SPA) Galavision.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/(SPA) Galavision_Logo_2013.svg/512px-(SPA) Galavision_Logo_2013.svg.png" group-title="General",(SPA) Galavision
@@ -5200,8 +5214,6 @@ https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
 #EXTINF:-1 tvg-id="HosannaVision.pa" tvg-logo="https://i.imgur.com/Vpvvznz.png" group-title="Religious",(SPA) Hosanna Vision (720p) [Not 24/7]
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-#EXTINF:-1 tvg-id="(SPA) HTV.us" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music",(SPA) HTV
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
 #EXTINF:-1 tvg-id="HTVLive.do" tvg-logo="https://i.imgur.com/0WBsAin.png" group-title="Entertainment",(SPA) HTV Live (1080p)
 https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
 #EXTINF:-1 tvg-id="HuascoTelevision.cl@SD" tvg-logo="https://i.imgur.com/Fo2DV70.png" group-title="General",(SPA) Huasco Television
@@ -6548,8 +6560,10 @@ https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCARiBLatino.sx" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="Entertainment",(SPA) TVCARiB Latino (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="~Misc",(SPA) TVE Internacional America (720p)
-http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="~Misc",(SPA) TVE Internacional America (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/dwzOBZ1.png" group-title="~Misc",(SPA) TVE Internacional Asia-Oceania (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es@SD" tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="~Misc",(SPA) TVE Internacional Europe-Asia
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es@SD" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Series",(SPA) TVE Star HD
