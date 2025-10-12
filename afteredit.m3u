@@ -985,6 +985,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-on
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 #EXTINF:-1 tvg-id="WTOGDT1.us@SD" tvg-name="WTOG-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WTOG_Tampa_Bay_44_2023.svg/1024px-WTOG_Tampa_Bay_44_2023.svg.png" group-title="~Misc",WTOG-DT1 (ENGLISH)
 https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+#EXTINF:-1 tvg-id="WTTWDT1.us@SD" tvg-name="WTTW-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="~Misc",WTTW-DT1 (ENGLISH)
+http://68.251.105.81:5004/auto/v11.1
+#EXTINF:-1 tvg-id="WTTWDT2.us@SD" tvg-name="WTTW-DT2 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="~Misc",WTTW-DT2 (ENGLISH)
+http://68.251.105.81:5004/auto/v11.2
+#EXTINF:-1 tvg-id="WTTWDT3.us@SD" tvg-name="WTTW-DT3 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" group-title="~Misc",WTTW-DT3 (ENGLISH)
+http://68.251.105.81:5004/auto/v11.3
 #EXTINF:-1 tvg-id="WTVQDT1.us" tvg-name="WTVQ ABC 36 News (Lexington KY) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/XIoBeja.png" group-title="~Misc",WTVQ ABC 36 News (Lexington KY) (720p) (ENGLISH)
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
 #EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-name="WUPA-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="~Misc",WUPA-DT1 (ENGLISH)
@@ -1005,6 +1011,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in@SD" tvg-name="Zee Cafe (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/9eX5dN3.png" group-title="~Misc",Zee Cafe (1080p) (ENGLISH)
 http://116.90.120.149:8000/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-id="ZeeOneAfrica.za@SD" tvg-name="Zee One Africa (ENGLISH)" tvg-logo="https://i.imgur.com/m0PYBQz.png" group-title="~Misc",Zee One Africa (ENGLISH)
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/zeeoneuk/playlist.m3u8
 #EXTINF:-1 tvg-id="ZNBCTV1.zm@SD" tvg-name="ZNBC TV 1 (ENGLISH)" tvg-logo="https://i.postimg.cc/5tYW9jmb/znbctv1.png" group-title="~Misc",ZNBC TV 1 (ENGLISH)
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/znbc1/playlist.m3u8
 #EXTINF:-1 tvg-id="ZNBCTV2.zm@SD" tvg-name="ZNBC TV 2 (ENGLISH)" tvg-logo="https://i.imgur.com/buMjKaq.png" group-title="~Misc",ZNBC TV 2 (ENGLISH)
@@ -1049,6 +1057,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="30AWeLoveCars.us" tvg-name="30A We Love Cars (ENGLISH)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="Auto",30A We Love Cars (ENGLISH)
 https://30a-tv.com/feeds/vidaa/cars.m3u8
+#EXTINF:-1 tvg-id="CarsStarsTV.uk@SD" tvg-name="Cars & Stars TV (ENGLISH)" tvg-logo="https://i.imgur.com/E8SorC5.png" group-title="Auto",Cars & Stars TV (ENGLISH)
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120685/carsstarstv/playlist.m3u8
 #EXTINF:-1 tvg-id="Choppertown.us" tvg-name="Choppertown (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="Auto",Choppertown (720p) (ENGLISH)
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MotorTrend.us@SD" tvg-name="Motor Trend (ENGLISH)" tvg-logo="https://i.imgur.com/hKDccCL.png" group-title="Auto",Motor Trend (ENGLISH)
@@ -3889,6 +3899,8 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 https://fl7.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 tvg-id="Diva.za" tvg-name="Diva (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/U9wMnQ0.png" group-title="Lifestyle",Diva (720p) (ENGLISH)
 https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTV.ua@SD" tvg-name="Fashion TV (ENGLISH)" tvg-logo="https://i.imgur.com/Bk7W39G.png" group-title="Lifestyle",Fashion TV (ENGLISH)
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120685/fashiontvua/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="FashionTV Europe (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FashionTV Europe (1080p) (ENGLISH)
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr@HD" tvg-name="FashionTV Europe HD (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FashionTV Europe HD (720p) [Geo-blocked] (ENGLISH)
@@ -4709,8 +4721,8 @@ https://live.enhdtv.com:8081/8172/index.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CitricoTV.do" tvg-name="(SPA) Cítrico TV (240p)" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="News",(SPA) Cítrico TV (240p)
 https://rdn.essastream.com:3996/live/citricotvlive.m3u8
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-name="(SPA) Conecta2TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="News",(SPA) Conecta2TV (720p) [Not 24/7]
-https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-id="Conecta2TV.pe@SD" tvg-name="(SPA) Conecta2TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="News",(SPA) Conecta2TV (720p) [Not 24/7]
+https://live.obslivestream.com/conecta2/index.m3u8
 #EXTINF:-1 tvg-id="Contivision.cl" tvg-name="(SPA) Contivision (720p)" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="News",(SPA) Contivision (720p)
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DeUltimoMinutoTV.do" tvg-name="(SPA) De Ultimo Minuto TV" tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="News",(SPA) De Ultimo Minuto TV
