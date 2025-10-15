@@ -1485,7 +1485,7 @@ https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="(SPA) Canal 24 Horas Catalunya (720p)" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News;Public",(SPA) Canal 24 Horas Catalunya (720p)
 https://ztnr.rtve.es/ztnr/4952053.m3u8
-#EXTINF:-1 tvg-id="CanalSurNoticias.es@SD" tvg-name="(SPA) Canal Sur Noticias" tvg-logo="https://i.imgur.com/BuQPiJb.png" group-title="News;Public",(SPA) Canal Sur Noticias
+#EXTINF:-1 tvg-id="CanalSurNoticias.es@SD" tvg-name="(SPA) Canal Sur Noticias" tvg-logo="https://i.imgur.com/A3JscwS.png" group-title="News;Public",(SPA) Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CFTUDT.ca" tvg-name="(CA) Canal Savoir (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" group-title="Education",(CA) Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
@@ -3264,7 +3264,7 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb674
 #EXTINF:-1 tvg-id="CBS.us@East" tvg-name="CBS East (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="General",CBS East (720p) (ENGLISH)
 https://fl7.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-name="CCTV-4 Europe (ENGLISH)" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="General",CCTV-4 Europe (ENGLISH)
-https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/cctv4/playlist.m3u8
 #EXTINF:-1 tvg-id="CCX1.us" tvg-name="CCX Media North Brooklyn Park MN (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/1hHW3IK.png" group-title="General",CCX Media North Brooklyn Park MN (1080p) (ENGLISH)
 https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 (ENGLISH)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="General",Channel 4 (ENGLISH)
@@ -3401,8 +3401,6 @@ https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV (ENGLISH).tz@SD" tvg-name="ITV (ENGLISH)" tvg-logo="https://i.imgur.com/yIsA98f.png" group-title="General",ITV (ENGLISH)
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/itv/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="General",ITV1 (1080p) (ENGLISH)
-https://dttstream.zappr.stream/itv1.m3u8
 #EXTINF:-1 tvg-id="ITV2 (ENGLISH).uk@SD" tvg-name="ITV2 (ENGLISH)" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2 (ENGLISH)
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-name="ITV4 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="General",ITV4 (1080p) (ENGLISH)
@@ -3583,6 +3581,8 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/primetv/playlist.m3
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-id="RemaTV.bi@SD" tvg-name="Rema TV (ENGLISH)" tvg-logo="https://i.imgur.com/AU5U3Ry.png" group-title="General",Rema TV (ENGLISH)
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/rematv/playlist.m3u8
+#EXTINF:-1 tvg-id="RoanokeValleyTelevision.us@SD" tvg-name="Roanoke Valley Television (ENGLISH)" tvg-logo="https://i.imgur.com/z6U7ClN.png" group-title="General",Roanoke Valley Television (ENGLISH)
+https://sramsburg-hls.secdn.net/sramsburg-channel/play/s2bdf5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBAneka.bn" tvg-name="RTB Aneka (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/MY40GrC.png" group-title="General",RTB Aneka (720p) (ENGLISH)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBGo.bn" tvg-name="RTB Go (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="General",RTB Go (720p) (ENGLISH)
