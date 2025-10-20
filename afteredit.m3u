@@ -1625,6 +1625,10 @@ https://fl41.moveonjoy.com/GRIT_TV/index.m3u8
 https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
 #EXTINF:-1 tvg-id="HauntTV.us@SD" tvg-name="Haunt TV (ENGLISH)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kFORSMlXKT0V9fBpkp5TS7VbpwlNC6XbfZxrSSWUt1UA=s512-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Haunt TV (ENGLISH)
 https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Heartland (ENGLISH).us" tvg-name="Heartland (ENGLISH)" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Entertainment",Heartland (ENGLISH)
+https://hls-live-media-gc.cdn01.net/mpegts/232076_1278943/k7NorBrWxVGqpF2GcaB7Ow/1760757747/media_mpegts_0.m3u8
+#EXTINF:-1 tvg-id="Heartland (ENGLISH).us@Web" tvg-name="Heartland (ENGLISH)" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Entertainment",Heartland (ENGLISH)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f07513227feb00073ee6bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291888-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c0b4f02-0b37-467a-87a8-5f605cce8cba
 #EXTINF:-1 tvg-id="HiDost.in@SD" tvg-name="Hi Dost! (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/bnST6y5.png" group-title="Entertainment",Hi Dost! (720p) (ENGLISH)
 https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 tvg-id="HiYAH.us@SD" tvg-name="Hi-YAH! (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="Entertainment",Hi-YAH! (1080p) (ENGLISH)
@@ -5279,6 +5283,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56
 https://fl41.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD" tvg-name="Smithsonian Channel Selects (ENGLISH)" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="Science",Smithsonian Channel Selects (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
+#EXTINF:-1 tvg-id="CosmosTV.py@SD" tvg-name="(SPA) Cosmos TV (720p)" tvg-logo="https://i.imgur.com/dAMyExY.jpg" group-title="Science",(SPA) Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl@SD" tvg-name="(SPA) Hiperconectados TV" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Science",(SPA) Hiperconectados TV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCiencia.us@SD" tvg-name="(SPA) Pluto TV Ciencia (720p)" tvg-logo="https://i.imgur.com/MJQTxZT.png" group-title="Science",(SPA) Pluto TV Ciencia (720p)
