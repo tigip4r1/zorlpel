@@ -1719,6 +1719,8 @@ https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:-1 tvg-id="MoreTVDrama.us@SD" tvg-name="More TV Drama (ENGLISH)" tvg-logo="https://i.imgur.com/Tw3rTxP.png" group-title="Entertainment",More TV Drama (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1dbd4b6-a07d-4f52-b7b5-f1c84ee32628
+#EXTINF:-1 tvg-id="MTV.jp@SD" tvg-name="MTV (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV (1080p) (ENGLISH)
+https://hkali.youyouko.com/api/streams/live/cs323/1080p/mpegts
 #EXTINF:-1 tvg-id="MTV2.us@East" tvg-name="MTV2 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png" group-title="Entertainment",MTV2 (720p) (ENGLISH)
 https://fl41.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us@East" tvg-name="MTV East (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV East (ENGLISH)
@@ -2133,8 +2135,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iTV.it@SD" tvg-name="A2i TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/YlDFir7.jpg" group-title="General",A2i TV (1080p) (ENGLISH)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="A2Z.ph@SD" tvg-name="A2Z (360p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General",A2Z (360p) [Not 24/7] (ENGLISH)
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
 #EXTINF:-1 tvg-id="ABC (ENGLISH).us@East" tvg-name="ABC (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",ABC (ENGLISH)
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="KATCDT1.us@SD" tvg-name="ABC 3 Lafayette LA (KATC) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",ABC 3 Lafayette LA (KATC) (720p) (ENGLISH)
@@ -2967,8 +2967,8 @@ https://acceso.radiosportstv.online:3368/live/cartagomediostvlive.m3u8
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CatatumboTV.ve@SD" tvg-name="(SPA) Catatumbo TV (406p)" tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="General",(SPA) Catatumbo TV (406p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-#EXTINF:-1 tvg-id="CDN.do@SD" tvg-name="(SPA) CDN (720p)" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="General",(SPA) CDN (720p)
-http://190.123.76.22:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="CDN.do" tvg-name="(SPA) CDN (720p)" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="General",(SPA) CDN (720p)
+http://154.88.160.2:80/CDN/index.m3u8
 #EXTINF:-1 tvg-id="CeibaVisionCanal36.hn@SD" tvg-name="(SPA) Ceiba Vision Canal 36" tvg-logo="https://i.imgur.com/90h9abf.png" group-title="General",(SPA) Ceiba Vision Canal 36
 https://dvrfl03.bozztv.com/hondu/hondu-ceibavisionhd/index.m3u8
 #EXTINF:-1 tvg-id="CenovisionHD.do@HD" tvg-name="(SPA) Cenovision HD (720p)" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="General",(SPA) Cenovision HD (720p)
@@ -3435,8 +3435,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1 tvg-id="Telecanal28.do@SD" tvg-name="(SPA) Telecanal 28 (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="General",(SPA) Telecanal 28 (360p) [Not 24/7]
 https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
-#EXTINF:-1 tvg-id="Telecentro.do@SD" tvg-name="(SPA) Telecentro [Not 24/7]" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="General",(SPA) Telecentro [Not 24/7]
-https://cors-proxy.cooks.fyi/http://200.125.170.122:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="Telecentro.do" tvg-name="(SPA) Telecentro (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="General",(SPA) Telecentro (1080p) [Not 24/7]
+https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecentro.ve@SD" tvg-name="(SPA) Telecentro (720p)" tvg-logo="https://i.imgur.com/QtRNfaj.png" group-title="General",(SPA) Telecentro (720p)
 https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-1 tvg-id="TeleCibaoHD.do@SD" tvg-name="(SPA) TeleCibao (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="General",(SPA) TeleCibao (720p) [Not 24/7]
@@ -5891,6 +5891,8 @@ https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ETB2.es@SD" tvg-name="(SPA) ETB 2 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="General;Public",(SPA) ETB 2 (720p)
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="La1.es@HEVC" tvg-name="(SPA) La 1 HEVC (1080p)" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General;Public",(SPA) La 1 HEVC (1080p)
+http://176.65.146.237:8401/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="La1.es@UHD" tvg-name="(SPA) La 1 UHD (2160p)" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General;Public",(SPA) La 1 UHD (2160p)
 http://176.65.146.237:8401/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="La2.es@SD" tvg-name="(SPA) La 2 (1080p)" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="General;Public",(SPA) La 2 (1080p)
