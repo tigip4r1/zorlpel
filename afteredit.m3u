@@ -643,6 +643,8 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Litoral.ar@SD" tvg-name="(SPA) Canal 9 Litoral (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="~Misc",(SPA) Canal 9 Litoral (720p)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar@SD" tvg-name="(SPA) Canal 10 Cordoba" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="~Misc",(SPA) Canal 10 Cordoba
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn@SD" tvg-name="(SPA) Canal 11 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="~Misc",(SPA) Canal 11 (1080p) [Not 24/7]
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="(SPA) Canal 13 (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="~Misc",(SPA) Canal 13 (1080p)
@@ -1485,6 +1487,8 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Eduvision.co@SD" tvg-name="(SPA) Eduvision (1080p)" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="Education",(SPA) Eduvision (1080p)
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-id="HITN.us@SD" tvg-name="(SPA) HITN (480p)" tvg-logo="https://i.imgur.com/bgaKLKh.png" group-title="Education",(SPA) HITN (480p)
+http://200.12.41.194:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="IntiTV.ec@SD" tvg-name="(SPA) Inti TV (1080p)" tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="Education",(SPA) Inti TV (1080p)
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-name="(SPA) Platzi TV (1080p)" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",(SPA) Platzi TV (1080p)
@@ -2817,6 +2821,8 @@ https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-name="(SPA) America Television (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",(SPA) America Television (1080p)
 http://38.183.182.166:8000/play/a0rb/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-name="(SPA) America TV (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General",(SPA) America TV (720p)
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="Antena3.es@National" tvg-name="(SPA) Antena 3 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png" group-title="General",(SPA) Antena 3 (1080p)
 http://176.65.146.237:8401/play/a0ae/index.m3u8
 #EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-name="(SPA) Antena 3 Internacional (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="General",(SPA) Antena 3 Internacional (480p)
@@ -3059,6 +3065,8 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="EGMChannel.cl@SD" tvg-name="(SPA) EGM Channel (480p)" tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="General",(SPA) EGM Channel (480p)
 https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-name="(SPA) El Nueve (576p)" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="General",(SPA) El Nueve (576p)
+http://31.57.243.205:8080/hls/canal7.m3u8
 #EXTINF:-1 tvg-id="ElPitucoTV.do@HD" tvg-name="(SPA) El Pituco TV (720p)" tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="General",(SPA) El Pituco TV (720p)
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="ElSeis6.do@SD" tvg-name="(SPA) El Seis 6 (720p)" tvg-logo="https://elseis.do/wp-content/uploads/2025/02/logo-el-seis-horizontal.png" group-title="General",(SPA) El Seis 6 (720p)
@@ -5043,6 +5051,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="101tvMalaga.es@SD" tvg-name="(SPA) 101tv Malaga" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="News",(SPA) 101tv Malaga
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-name="(SPA) A24 (720p)" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News",(SPA) A24 (720p)
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="AcentoTV.do@SD" tvg-name="(SPA) Acento TV" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="News",(SPA) Acento TV
 https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-name="(SPA) ADN 40 (720p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",(SPA) ADN 40 (720p)
