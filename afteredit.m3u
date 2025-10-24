@@ -855,8 +855,8 @@ https://frontdoor.wcat-tv.org/live-9/live/live.m3u8
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 #EXTINF:-1 tvg-id="WJAXDT1.us@SD" tvg-name="WJAX-DT1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/TBjVU9L.png" group-title="~Misc",WJAX-DT1 (1080p) (ENGLISH)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLPDT1.us@SD" tvg-name="WJLP-DT1 (ENGLISH)" tvg-logo="https://i.imgur.com/MfLl1HS.png" group-title="~Misc",WJLP-DT1 (ENGLISH)
-https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="WJLPDT1.us" tvg-name="WJLP-DT1 (ENGLISH)" tvg-logo="https://i.imgur.com/MfLl1HS.png" group-title="~Misc",WJLP-DT1 (ENGLISH)
+https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
 #EXTINF:-1 tvg-id="WJXTDT1.us@SD" tvg-name="WJXT News4JAX (Jacksonville FL) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/mrWo0P1.png" group-title="~Misc",WJXT News4JAX (Jacksonville FL) (720p) (ENGLISH)
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 #EXTINF:-1 tvg-id="WKCFDT1.us@SD" tvg-name="WKCF-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="~Misc",WKCF-DT1 (ENGLISH)
@@ -1730,9 +1730,9 @@ https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 #EXTINF:-1 tvg-id="(SPA) ZAZ.mx@SD" tvg-name="(SPA) ZAZ" tvg-logo="" group-title="Entertainment",(SPA) ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="ZoyTVTurcas.bo@SD" tvg-name="(SPA) Zoy TV Turcas (720p)" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Entertainment",(SPA) Zoy TV Turcas (720p)
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvturcas/playlist.m3u8
+https://mio.zoymilton.com/ZoyTurcas/index.m3u8
 #EXTINF:-1 tvg-id="ZoyTVPlus.bo@HD" tvg-name="(SPA) ZoyTV Plus (720p)" tvg-logo="https://i.imgur.com/JPNPH3x.png" group-title="Entertainment",(SPA) ZoyTV Plus (720p)
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
+https://mio.zoymilton.com/ZoyPlus/index.m3u8
 #EXTINF:-1 tvg-id="3Ktv (ENGLISH).zw@SD" tvg-name="3Ktv (ENGLISH)" tvg-logo="https://i.imgur.com/fMxIbjQ.png" group-title="Entertainment",3Ktv (ENGLISH)
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/3ktv/playlist.m3u8
 #EXTINF:-1 tvg-id="30ASidewalks.us@SD" tvg-name="30A Sidewalks (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="Entertainment",30A Sidewalks (720p) (ENGLISH)
@@ -3713,8 +3713,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-name="(SPA) Chinola TV (480p)" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids",(SPA) Chinola TV (480p)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-name="(SPA) Disney Channel (360p)" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",(SPA) Disney Channel (360p)
-https://e5.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="(SPA) Disney Channel (360p)" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",(SPA) Disney Channel (360p)
+https://e5.thetvapp.to/hls/DisneyChannelEast/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="(SPA) Disney Channel Latin America (1080p)" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Kids",(SPA) Disney Channel Latin America (1080p)
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="(SPA) Disney Jr. Latin America South (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",(SPA) Disney Jr. Latin America South (480p)
@@ -4729,6 +4729,8 @@ https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5
 https://amagi-streams.akamaized.net/hls/live/2113383/cbcottawa/master1080p.m3u8
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py@SD" tvg-name="(SPA) 4DmásNoticias TV (1080p) [Not 24/7]" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" group-title="News",(SPA) 4DmásNoticias TV (1080p) [Not 24/7]
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-name="(SPA) 24/7 Canal de Noticias" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",(SPA) 24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-id="101tvMalaga.es@SD" tvg-name="(SPA) 101tv Malaga" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="News",(SPA) 101tv Malaga
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A24.ar@SD" tvg-name="(SPA) A24 (720p)" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="News",(SPA) A24 (720p)
