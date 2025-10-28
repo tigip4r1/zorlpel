@@ -2461,8 +2461,8 @@ https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 tvg-id="DiezTVEncarnacion.mx@SD" tvg-name="(SPA) DiezTV Encarnación (1080p)" tvg-logo="https://i.imgur.com/UVG71ES.png" group-title="General",(SPA) DiezTV Encarnación (1080p)
 https://stream.oursnetworktv.com/latin/encoder87/playlist.m3u8
-#EXTINF:-1 tvg-id="Digital15.do@SD" tvg-name="(SPA) Digital 15 (480p)" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="General",(SPA) Digital 15 (480p)
-http://181.188.216.5:18000/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-id="Digital15.do@SD" tvg-name="(SPA) Digital 15 (1080p)" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="General",(SPA) Digital 15 (1080p)
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="Digital809TV.do@SD" tvg-name="(SPA) Digital809 TV (720p)" tvg-logo="https://i.imgur.com/NKdV8b1.png" group-title="General",(SPA) Digital809 TV (720p)
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DigitalVision63.do@SD" tvg-name="(SPA) Digital Vision 63 (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/FQkLIMR.png" group-title="General",(SPA) Digital Vision 63 (720p) [Geo-blocked]
@@ -3297,8 +3297,6 @@ https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 https://x.canlitvapp.com/u-channel-4/index.m3u8
 #EXTINF:-1 tvg-id="Channel4.uk@UKHD" tvg-name="Channel 4 UK HD (1080p) (ENGLISH)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="General",Channel 4 UK HD (1080p) (ENGLISH)
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-name="Channel 5 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="General",Channel 5 (720p) (ENGLISH)
-https://tinyurl.com/2c3bacne
 #EXTINF:-1 tvg-id="Channel5.uk@SD" tvg-name="Channel 5 (ENGLISH)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="General",Channel 5 (ENGLISH)
 https://x.canlitvapp.com/u-channel-5/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.uk@HD" tvg-name="Channel 5 HD (1080p) (ENGLISH)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="General",Channel 5 HD (1080p) (ENGLISH)
