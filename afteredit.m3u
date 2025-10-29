@@ -241,8 +241,8 @@ https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
 #EXTINF:-1 tvg-id="TeleSanJacinto.co@SD" tvg-name="(SPA) Tele San Jacinto (720p)" tvg-logo="https://i.imgur.com/t8aT4eT.png" group-title="~Misc",(SPA) Tele San Jacinto (720p)
 https://movil.ejeserver.com/live/telesanjacinto.m3u8
-#EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-name="(SPA) Tele Yucatan [Geo-blocked]" tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="~Misc",(SPA) Tele Yucatan [Geo-blocked]
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-name="(SPA) Tele Yucatan (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="~Misc",(SPA) Tele Yucatan (1080p) [Geo-blocked]
+https://5ca3e84a76d30.streamlock.net:443/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec@SD" tvg-name="(SPA) Teleamazonas (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="~Misc",(SPA) Teleamazonas (1080p)
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecadena7y4.hn@SD" tvg-name="(SPA) Telecadena 7 y 4" tvg-logo="https://i.imgur.com/3gzFNog.png" group-title="~Misc",(SPA) Telecadena 7 y 4
@@ -2153,6 +2153,10 @@ https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 #EXTINF:-1 tvg-id="CJONDT.ca@SD" tvg-name="(CA) Newfoundland Television (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="General",(CA) Newfoundland Television (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTDTVCanada.us@East" tvg-name="(CA) NTD TV Canada" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="General",(CA) NTD TV Canada
+https://live.ntdtv.com/mllive860/playlist.m3u8
+#EXTINF:-1 tvg-id="NTDTVCanada.us@West" tvg-name="(CA) NTD TV Canada West" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="General",(CA) NTD TV Canada West
+https://live.ntdtv.com/cwlive220/playlist.m3u8
 #EXTINF:-1 tvg-id="ParnianTV.ca@SD" tvg-name="(CA) Parnian TV (720p)" tvg-logo="https://i.imgur.com/J8ejADF.png" group-title="General",(CA) Parnian TV (720p)
 https://live2.parnian.tv/hls/.m3u8
 #EXTINF:-1 tvg-id="PBCTapeshTV.us@SD" tvg-name="(CA) PBC Tapesh TV (720p)" tvg-logo="https://i.imgur.com/50JzsmH.png" group-title="General",(CA) PBC Tapesh TV (720p)
@@ -2201,8 +2205,6 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 #EXTINF:-1 tvg-id="AIONTV.do@SD" tvg-name="(SPA) AION TV (1080p)" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",(SPA) AION TV (1080p)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
-#EXTINF:-1 tvg-id="AlAoula.ma@Inter" tvg-name="(SPA) Al Aoula Inter" tvg-logo="https://i.imgur.com/nq53d2N.png" group-title="General",(SPA) Al Aoula Inter
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/aloulainter/playlist.m3u8
 #EXTINF:-1 tvg-id="AlcarrizosTV.do@SD" tvg-name="(SPA) Alcarrizos TV (720p)" tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="General",(SPA) Alcarrizos TV (720p)
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlsaciasTelevision.hn@SD" tvg-name="(SPA) Alsacias Televisión (ATV | Canal 28) (720p)" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="General",(SPA) Alsacias Televisión (ATV | Canal 28) (720p)
@@ -4371,8 +4373,6 @@ https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.do@SD" tvg-name="(SPA) Fuego TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Music",(SPA) Fuego TV (720p) [Not 24/7]
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-#EXTINF:-1 tvg-id="HITTV.es@SD" tvg-name="(SPA) Hit Tv" tvg-logo="https://i.postimg.cc/P5tRvxkG/hittv.png" group-title="Music",(SPA) Hit Tv
-http://185.189.225.149/HitTV/index.m3u8
 #EXTINF:-1 tvg-id="IQChannel.cr@SD" tvg-name="(SPA) IQ Channel (720p)" tvg-logo="https://i.imgur.com/hwuaomt.png" group-title="Music",(SPA) IQ Channel (720p)
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="KandelaTV.ve@SD" tvg-name="(SPA) KandelaTV (480p)" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="Music",(SPA) KandelaTV (480p)
@@ -5175,6 +5175,8 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrato
 https://hls.mskycdn.online/tv/nhkworld/index.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@USA" tvg-name="NTD TV English (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="News",NTD TV English (1080p) (ENGLISH)
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="NTDTVEnglish.us@UK" tvg-name="NTD TV English UK (ENGLISH)" tvg-logo="https://i.imgur.com/26uv1ww.png" group-title="News",NTD TV English UK (ENGLISH)
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us@SD" tvg-name="OAN (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="News",OAN (720p) (ENGLISH)
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="OANEncore.us@SD" tvg-name="OAN Encore (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="News",OAN Encore (720p) [Geo-blocked] (ENGLISH)
@@ -5857,6 +5859,36 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFLRedZone.us@SD" tvg-name="NFL RedZone (ENGLISH)" tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="Sports",NFL RedZone (ENGLISH)
 https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket1.us@SD" tvg-name="NFL Sunday Ticket 1 (ENGLISH)" tvg-logo="https://i.imgur.com/OhHxZrE.png" group-title="Sports",NFL Sunday Ticket 1 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket2.us@SD" tvg-name="NFL Sunday Ticket 2 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 2 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_2/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket3.us@SD" tvg-name="NFL Sunday Ticket 3 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 3 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_3/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket4.us@SD" tvg-name="NFL Sunday Ticket 4 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 4 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_4/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket5.us@SD" tvg-name="NFL Sunday Ticket 5 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 5 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_5/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket6.us@SD" tvg-name="NFL Sunday Ticket 6 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 6 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_6/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket7.us@SD" tvg-name="NFL Sunday Ticket 7 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 7 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_7/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket8.us@SD" tvg-name="NFL Sunday Ticket 8 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 8 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_8/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket9.us@SD" tvg-name="NFL Sunday Ticket 9 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 9 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_9/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket10.us@SD" tvg-name="NFL Sunday Ticket 10 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 10 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_10/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket11.us@SD" tvg-name="NFL Sunday Ticket 11 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 11 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_11/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket12.us@SD" tvg-name="NFL Sunday Ticket 12 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 12 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_12/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket13.us@SD" tvg-name="NFL Sunday Ticket 13 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 13 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_13/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket14.us@SD" tvg-name="NFL Sunday Ticket 14 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 14 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_14/index.m3u8
+#EXTINF:-1 tvg-id="NFLSundayTicket15.us@SD" tvg-name="NFL Sunday Ticket 15 (ENGLISH)" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Sports",NFL Sunday Ticket 15 (ENGLISH)
+http://fl2.moveonjoy.com/NFL_15/index.m3u8
 #EXTINF:-1 tvg-id="NHL (ENGLISH)Network.us@SD" tvg-name="NHL (ENGLISH)" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports",NHL (ENGLISH)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NHRATV.us@SD" tvg-name="NHRA TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/jZgcm4k.png" group-title="Sports",NHRA TV (720p) (ENGLISH)
@@ -5923,6 +5955,8 @@ http://116.90.120.149:8000/play/a0ba/index.m3u8
 http://87.255.35.150:18828/
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-name="Star Sports 2 Hindi (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi (1080p) (ENGLISH)
 http://116.90.120.149:8000/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3 (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/dbp2Mig.png" group-title="Sports",Star Sports 3 (576p) (ENGLISH)
+http://87.255.35.150:18804/
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-name="Star Sports Select 1 HD (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports",Star Sports Select 1 HD (1080p) (ENGLISH)
 http://116.90.120.149:8000/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-name="Star Sports Select 2 HD (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports",Star Sports Select 2 HD (1080p) (ENGLISH)
