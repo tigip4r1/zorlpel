@@ -585,8 +585,6 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="PFLMMA.pl@SD" tvg-name="PFL MMA (ENGLISH)" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg" group-title="~Misc",PFL MMA (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a620d53fc9700083b2e21/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d40-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f8fcc86-3a94-4ce2-9955-c103e94fd2b9
-#EXTINF:-1 tvg-id="WPIXDT1.us@SD" tvg-name="PIX11 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="~Misc",PIX11 (720p) (ENGLISH)
-https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1 tvg-id="PixLTV.us@SD" tvg-name="PixL TV (ENGLISH)" tvg-logo="https://i.imgur.com/ysRh3Nl.png" group-title="~Misc",PixL TV (ENGLISH)
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-id="PMITV.pk@SD" tvg-name="PMI TV (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="~Misc",PMI TV (720p) [Not 24/7] (ENGLISH)
@@ -899,6 +897,8 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WPECDT1.us@SD" tvg-name="WPEC-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",WPEC-DT1 (ENGLISH)
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WPIXDT1.us@SD" tvg-name="WPIX-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="~Misc",WPIX-DT1 (ENGLISH)
+https://streamer1.nexgen.bz/WPIX/index.m3u8
 #EXTINF:-1 tvg-id="WPXIDT1.us@SD" tvg-name="WPXI-DT1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/MNSBpDW.png" group-title="~Misc",WPXI-DT1 (1080p) (ENGLISH)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXNDT7.us@SD" tvg-name="WPXN-DT7 (ENGLISH)" tvg-logo="https://i.imgur.com/UfN6aAi.png" group-title="~Misc",WPXN-DT7 (ENGLISH)
@@ -4911,6 +4911,8 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisiondelEste.do@SD" tvg-name="(SPA) Televisión del Este (720p)" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="News",(SPA) Televisión del Este (720p)
 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+#EXTINF:-1 tvg-id="TN.ar@SD" tvg-name="(SPA) TN (1080p)" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",(SPA) TN (1080p)
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c086055a-58d6-4916-a19c-484b8cb1995c:SCL2/master.m3u8
 #EXTINF:-1 tvg-id="TRA2.do@SD" tvg-name="(SPA) TRA 2 (576p)" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="News",(SPA) TRA 2 (576p)
 https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe@SD" tvg-name="(SPA) TV Peru Noticias (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="News",(SPA) TV Peru Noticias (360p)
@@ -5747,6 +5749,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
 https://master.tucableip.com/ftvhd/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.cr@SD" tvg-name="(SPA) FUTV (1080p)" tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Sports",(SPA) FUTV (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/livefutvcr/playlist.m3u8
+#EXTINF:-1 tvg-id="GolClassics.es@SD" tvg-name="(SPA) Gol Classics" tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" group-title="Sports",(SPA) Gol Classics
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe@SD" tvg-name="(SPA) Gol Peru (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png" group-title="Sports",(SPA) Gol Peru (1080p)
 http://38.183.182.166:8000/play/a120/index.m3u8
 #EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-name="(SPA) ITV Deportes" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Sports",(SPA) ITV Deportes
