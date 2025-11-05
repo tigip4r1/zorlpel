@@ -823,7 +823,7 @@ https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 #EXTINF:-1 tvg-id="WFMZDT1.us@SD" tvg-name="WFMZ-TV Channel 69 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" group-title="~Misc",WFMZ-TV Channel 69 (ENGLISH)
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 tvg-id="WFTTDT1.us@SD" tvg-name="WFTT-DT1 (ENGLISH)" tvg-logo="https://i.imgur.com/8zw3Xbd.png" group-title="~Misc",WFTT-DT1 (ENGLISH)
+#EXTINF:-1 tvg-id="WFUTDT1.us@SD" tvg-name="WFUT-DT1 (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/512px-WFUT-DT_(2021).svg.png" group-title="~Misc",WFUT-DT1 (720p) [Geo-blocked] (ENGLISH)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
 #EXTINF:-1 tvg-id="WFXTDT2.us@SD" tvg-name="WFXT-DT2 (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="~Misc",WFXT-DT2 (1080p) (ENGLISH)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
@@ -921,6 +921,8 @@ http://68.251.105.81:5004/auto/v11.3
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
 #EXTINF:-1 tvg-id="WUPADT1.us@SD" tvg-name="WUPA-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png" group-title="~Misc",WUPA-DT1 (ENGLISH)
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+#EXTINF:-1 tvg-id="WWORDT1.us@SD" tvg-name="WWOR-DT1 (576i) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="~Misc",WWOR-DT1 (576i) [Geo-blocked] (ENGLISH)
+http://restream-live.realiptv.to:8080/live/19742329/27604387/2476.m3u8
 #EXTINF:-1 tvg-id="WXTVDT1.us@SD" tvg-name="WXTV-DT1 (ENGLISH)" tvg-logo="https://i.imgur.com/Q7xrM2w.png" group-title="~Misc",WXTV-DT1 (ENGLISH)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:-1 tvg-id="WXXVDT1.us@SD" tvg-name="WXXV-TV News (Biloxi MS) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="~Misc",WXXV-TV News (Biloxi MS) (720p) (ENGLISH)
@@ -2075,8 +2077,8 @@ https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSFamilyChannel.us@SD" tvg-name="TVS Family Channel (360p) (ENGLISH)" tvg-logo="https://i.imgur.com/Y3EV3DL.png" group-title="Family",TVS Family Channel (360p) (ENGLISH)
 https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-name="(SPA) Cosmos TV (720p)" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Movies;News",(SPA) Cosmos TV (720p)
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="(SPA) Cosmos Tv (720p)" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Movies;News",(SPA) Cosmos Tv (720p)
+https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ETBBasque.es@SD" tvg-name="(SPA) ETB Basque (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="Culture;Public",(SPA) ETB Basque (480p)
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="AfghanNobelTV.ca@SD" tvg-name="(CA) Afghan Nobel TV (720p)" tvg-logo="https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg" group-title="General",(CA) Afghan Nobel TV (720p)
@@ -3733,8 +3735,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-name="(SPA) Chinola TV (480p)" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids",(SPA) Chinola TV (480p)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-name="(SPA) Disney Channel (360p)" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",(SPA) Disney Channel (360p)
-https://e5.thetvapp.to/hls/DisneyChannelEast/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="(SPA) Disney Channel (360p)" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",(SPA) Disney Channel (360p)
+https://e3.thetvapp.to/hls/DisneyChannelEast/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="(SPA) Disney Channel Latin America (1080p)" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Kids",(SPA) Disney Channel Latin America (1080p)
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-name="(SPA) Disney Jr. Latin America South (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",(SPA) Disney Jr. Latin America South (480p)
@@ -3927,7 +3929,7 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120428/arewa24/playlist.m3
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
 #EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" tvg-name="BBC Lifestyle Asia (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="Lifestyle",BBC Lifestyle Asia (1080p) (ENGLISH)
 https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
-#EXTINF:-1 tvg-id="BetterHealthTV.us@SD" tvg-name="Better Health TV (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/dThvIsV.png" group-title="Lifestyle",Better Health TV (480p) (ENGLISH)
+#EXTINF:-1 tvg-id="BetterHealthTV.us@SD" tvg-name="Better Health TV (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/qnwJiji.png" group-title="Lifestyle",Better Health TV (480p) (ENGLISH)
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 tvg-id="BizTV.us@SD" tvg-name="Biz TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/yaNXOnO.png" group-title="Lifestyle",Biz TV (1080p) (ENGLISH)
 https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
@@ -5329,7 +5331,7 @@ https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 https://tv.anytimemedia.co.za:3673/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="BeachTVKeyWestFloridaKeys.us@SD" tvg-name="Beach TV Key West & Florida Keys (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/XhDBdff.png" group-title="Outdoor/Travel",Beach TV Key West & Florida Keys (720p) (ENGLISH)
 https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD" tvg-name="Better Life Nature Channel (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/LMHrQJu.png" group-title="Outdoor/Travel",Better Life Nature Channel (480p) (ENGLISH)
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD" tvg-name="Better Life Nature Channel (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/D8Vuw6I.png" group-title="Outdoor/Travel",Better Life Nature Channel (480p) (ENGLISH)
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-id="ChiveTV.us@SD" tvg-name="Chive TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/iUMAOUq.png" group-title="Outdoor/Travel",Chive TV (1080p) (ENGLISH)
 https://linear-941.frequency.stream/dist/stirr/941/hls/master/playlist.m3u8
@@ -5709,6 +5711,20 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 https://fl1.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 tvg-id="NBATVCanada.ca@SD" tvg-name="(CA) NBA TV Canada (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="Sports",(CA) NBA TV Canada (1080p)
 http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce5.ca@SD" tvg-name="(CA) NHL Centre Ice 5" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 5
+http://fl1.moveonjoy.com/NHL_5/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce6.ca@SD" tvg-name="(CA) NHL Centre Ice 6" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 6
+http://fl1.moveonjoy.com/NHL_6/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce7.ca@SD" tvg-name="(CA) NHL Centre Ice 7" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 7
+http://fl1.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce8.ca@SD" tvg-name="(CA) NHL Centre Ice 8" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 8
+http://fl1.moveonjoy.com/NHL_8/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce9.ca@SD" tvg-name="(CA) NHL Centre Ice 9" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 9
+http://fl1.moveonjoy.com/NHL_9/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce10.ca@SD" tvg-name="(CA) NHL Centre Ice 10" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 10
+http://fl1.moveonjoy.com/NHL_10/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce11.ca@SD" tvg-name="(CA) NHL Centre Ice 11" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 11
+http://fl1.moveonjoy.com/NHL_11/index.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-name="(CA) TSN1 (1080p)" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",(CA) TSN1 (1080p)
 https://fl1.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="(CA) TSN2.ca@SD" tvg-name="(CA) TSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/(CA) TSN2.svg/512px-(CA) TSN2.svg.png" group-title="Sports",(CA) TSN2

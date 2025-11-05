@@ -709,6 +709,8 @@ https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal21Chignahuapan.mx@SD" tvg-logo="https://i.imgur.com/W9E6qc3.png" group-title="General",(SPA) Canal 21 Chignahuapan (720p)
 https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal21Huancayo.pe@HD" tvg-logo="https://i.imgur.com/Kfdkm06.png" group-title="General",(SPA) Canal 21 Huancayo (720p)
+https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Canal21Rioverde.mx@SD" tvg-logo="https://i.imgur.com/22oVtx0.png" group-title="General",(SPA) Canal 21 Rioverde (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder91/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal21TV.ar@SD" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="~Misc",(SPA) Canal 21 TV (1080p)
@@ -2939,6 +2941,8 @@ https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WKAQDT2.pr@SD" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="~Misc",(SPA) WKAQ-DT2 (Punto 2) (720p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WLTVDT1.us@SD" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="~Misc",(SPA) WLTV-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv@SD" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",(SPA) WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WTMOCD1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/512px-Telemundo_31_(2019).svg.png" group-title="News",(SPA) WTMO-CD1
@@ -3916,6 +3920,8 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary (ENGLISH)
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNEurope.uk@SD" tvg-logo="https://i.imgur.com/oz0FQsE.png" group-title="News",CGTN Europe (ENGLISH)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8
 #EXTINF:-1 tvg-id="CGTV.us@SD" tvg-logo="https://champaignil.gov/wp-content/uploads/2011/06/cgtv-page-logo.jpg" group-title="Legislative",Champaign Government Television (CGTV) (Champaign IL) (720p) (ENGLISH)
 https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="ChamukaTV.ug@SD" tvg-logo="https://i.imgur.com/EfS81Kd.png" group-title="Entertainment",Chamuka TV (ENGLISH)
@@ -5704,6 +5710,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="NewsCentral.ng@SD" tvg-logo="https://i.postimg.cc/9fsJWPPp/newscentral.png" group-title="News",News Central (ENGLISH)
 https://wf.newscentral.ng:8443/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NewsX.in@SD" tvg-logo="https://i.imgur.com/Zpxsc0Q.png" group-title="News",News X (576p) (ENGLISH)
+https://newsxott.in/hls/newsx.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us@SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png" group-title="News",Newsmax 2 (720p) (ENGLISH)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="News",Newsmax TV (720p) (ENGLISH)
@@ -5788,8 +5796,6 @@ https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedyce
 http://195.64.140.147:10121/121
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="Kids",Nickelodeon (576p) (ENGLISH)
 http://46.8.46.14/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.uk@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (720p) (ENGLISH)
-http://92.114.85.72:8000/play/a02o
 #EXTINF:-1 tvg-id="Nickelodeon (ENGLISH).us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (ENGLISH)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",NickToons (ENGLISH)
@@ -6380,6 +6386,8 @@ https://stream6.scientology.org/master.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
 #EXTINF:-1 tvg-id="SCVTV.us@SD" tvg-logo="https://i.imgur.com/qEsZbZz.png" group-title="General",SCVTV (Santa Clarita CA) (1080p) (ENGLISH)
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png" group-title="~Misc",SEC Network (ENGLISH)
+http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SGTN49.us@SD" tvg-logo="https://i.imgur.com/4fbJRWW.png" group-title="General",Sent TV Global Network Atlanta (SGTN-49) (720p) (ENGLISH)
 https://rpn.bozztv.com/gusa/gusa-stgn/index.m3u8
 #EXTINF:-1 tvg-id="Septimoarte.us@SD" tvg-logo="https://i.imgur.com/GAIFeP2.png" group-title="~Misc",Séptimo arte (ENGLISH)
@@ -7184,6 +7192,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WEDQDT4.us@SD" tvg-logo="https://i.imgur.com/FfEebzW.png" group-title="~Misc",WEDQ-DT4 (ENGLISH)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 tvg-id="WEDWDT1.us@SD" tvg-logo="" group-title="~Misc",WEDW-DT1 (720p) [Geo-blocked] (ENGLISH)
+http://restream-live.realiptv.to:8080/live/19742329/27604387/629545.m3u8
 #EXTINF:-1 tvg-id="WeHoTV.us@SD" tvg-logo="https://i.imgur.com/p3L2vSL.png" group-title="~Misc",West Hollywood WeHoTV (West Hollywood CA) (360p) (ENGLISH)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 #EXTINF:-1 tvg-id="WesternTV.us@SD" tvg-logo="https://i.imgur.com/nNy9oTx.png" group-title="Classic",Western TV (ENGLISH)
@@ -7250,7 +7260,7 @@ https://witn.cablecast.tv/live-4/live/live.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT1.us@SD" tvg-logo="https://i.imgur.com/MfLl1HS.png" group-title="~Misc",WJLP-DT1 (ENGLISH)
 https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
-#EXTINF:-1 tvg-id="WJLPDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="~Misc",WJLP-DT2 (360p) (ENGLISH)
+#EXTINF:-1 tvg-id="WJLPDT2.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Classic;Kids",WJLP-DT2 (360p) (ENGLISH)
 https://e3.thetvapp.to/hls/metv-toons/index.m3u8
 #EXTINF:-1 tvg-id="WJXTDT1.us@SD" tvg-logo="https://i.imgur.com/mrWo0P1.png" group-title="~Misc",WJXT News4JAX (Jacksonville FL) (720p) (ENGLISH)
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
@@ -7264,6 +7274,8 @@ https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
 https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8
 #EXTINF:-1 tvg-id="WLMB (ENGLISH).us@SD" tvg-logo="https://i.imgur.com/KeELZ1Y.png" group-title="Religious",WLMB (ENGLISH)
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
+#EXTINF:-1 tvg-id="WLNYDT1.us@SD" tvg-logo="https://i.imgur.com/ubsNr5F.jpg" group-title="~Misc",WLNY-DT1 (720p) (ENGLISH)
+http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
 #EXTINF:-1 tvg-id="WLSDT1247News.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="News",WLS ABC 7 News (Chicago IL) (720p) (ENGLISH)
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
 #EXTINF:-1 tvg-id="WLVTDT1.us@SD" tvg-logo="https://i.imgur.com/3FPFBjU.png" group-title="Education",WLVT-DT1 (ENGLISH)
