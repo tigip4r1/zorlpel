@@ -333,6 +333,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1 tvg-id="XHGVTDT.mx@SD" tvg-name="(SPA) TVMÁS (XHGV-TDT) (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="~Misc",(SPA) TVMÁS (XHGV-TDT) (360p) [Not 24/7]
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="(SPA) TVO.do@SD" tvg-name="(SPA) TVO" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="~Misc",(SPA) TVO
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
 #EXTINF:-1 tvg-id="TVOSanVicente.cl@SD" tvg-name="(SPA) TVO San Vicente (720p)" tvg-logo="https://i.imgur.com/PCVWtHd.png" group-title="~Misc",(SPA) TVO San Vicente (720p)
 https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.cl@SD" tvg-name="(SPA) TVR (1080p) [Not 24/7]" tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="~Misc",(SPA) TVR (1080p) [Not 24/7]
@@ -915,6 +917,8 @@ http://104.255.88.155/ion/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WSOCDT1.us@SD" tvg-name="WSOC-DT1 (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="~Misc",WSOC-DT1 (1080p) (ENGLISH)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="WTNHDT1.us@SD" tvg-name="WTNH-DT1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="~Misc",WTNH-DT1 (720p) (ENGLISH)
+https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ%2BzazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw%2Bxqw%3D%3D
 #EXTINF:-1 tvg-id="WTOGDT1.us@SD" tvg-name="WTOG-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WTOG_Tampa_Bay_44_2023.svg/1024px-WTOG_Tampa_Bay_44_2023.svg.png" group-title="~Misc",WTOG-DT1 (ENGLISH)
 https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 #EXTINF:-1 tvg-id="WTTWDT1.us@SD" tvg-name="WTTW-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="~Misc",WTTW-DT1 (ENGLISH)
@@ -1291,8 +1295,8 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 tvg-id="KweliTV.us@SD" tvg-name="Kweli TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/LXMlbda.png" group-title="Culture",Kweli TV (1080p) (ENGLISH)
 https://amg00562-amg00562c1-kwelitv-worldwide-3293.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Loupe4K.us@SD" tvg-name="Loupe 4K (2160p) (ENGLISH)" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="Culture",Loupe 4K (2160p) (ENGLISH)
-https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Loupe4K.us@SD" tvg-name="Loupe 4K (ENGLISH)" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="Culture",Loupe 4K (ENGLISH)
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC3.mu@SD" tvg-name="MBC 3 (ENGLISH)" tvg-logo="https://i.imgur.com/apouTRP.png" group-title="Culture",MBC 3 (ENGLISH)
 https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel3/index.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us@SD" tvg-name="Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Culture",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p) (ENGLISH)
