@@ -3803,6 +3803,8 @@ http://84.54.128.52:9090/play/3006/index.m3u8
 http://116.90.120.149:8000/play/a0bx/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl@SD" tvg-name="Disney Channel (1080p) (ENGLISH)" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (1080p) (ENGLISH)
 http://185.236.229.62:9981/play/a07d
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-name="Disney Channel HD (1080p) (ENGLISH)" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel HD (1080p) (ENGLISH)
+http://66.102.120.18:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-name="Disney International HD (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/JkGvrc6.png" group-title="Kids",Disney International HD (1080p) (ENGLISH)
 http://116.90.120.149:8000/play/a0e9/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-name="Disney Junior (576p) (ENGLISH)" tvg-logo="https://i.postimg.cc/KvRqrLg2/disneyjunior.png" group-title="Kids",Disney Junior (576p) (ENGLISH)
@@ -5725,6 +5727,8 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 https://fl1.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 tvg-id="NBATVCanada.ca@SD" tvg-name="(CA) NBA TV Canada (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="Sports",(CA) NBA TV Canada (1080p)
 http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce4.ca@SD" tvg-name="(CA) NHL Centre Ice 4" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 4
+http://fl1.moveonjoy.com/NHL_4/index.m3u8
 #EXTINF:-1 tvg-id="NHLCentreIce5.ca@SD" tvg-name="(CA) NHL Centre Ice 5" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 5
 http://fl1.moveonjoy.com/NHL_5/index.m3u8
 #EXTINF:-1 tvg-id="NHLCentreIce6.ca@SD" tvg-name="(CA) NHL Centre Ice 6" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 6
@@ -5955,6 +5959,12 @@ http://fl2.moveonjoy.com/NFL_14/index.m3u8
 http://fl2.moveonjoy.com/NFL_15/index.m3u8
 #EXTINF:-1 tvg-id="NHL (ENGLISH)Network.us@SD" tvg-name="NHL (ENGLISH)" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports",NHL (ENGLISH)
 https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHLCenterIce12.us@SD" tvg-name="NHL Center Ice 12 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",NHL Center Ice 12 (720p) (ENGLISH)
+http://fl1.moveonjoy.com/NHL_12/index.m3u8
+#EXTINF:-1 tvg-id="NHLCenterIce13.us@SD" tvg-name="NHL Center Ice 13 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",NHL Center Ice 13 (720p) (ENGLISH)
+http://fl1.moveonjoy.com/NHL_13/index.m3u8
+#EXTINF:-1 tvg-id="NHLCenterIce14.us@SD" tvg-name="NHL Center Ice 14 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",NHL Center Ice 14 (720p) (ENGLISH)
+http://fl1.moveonjoy.com/NHL_14/index.m3u8
 #EXTINF:-1 tvg-id="NHRATV.us@SD" tvg-name="NHRA TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/jZgcm4k.png" group-title="Sports",NHRA TV (720p) (ENGLISH)
 https://livetv-fa.tubi.video/nhra/nh.m3u8
 #EXTINF:-1 tvg-id="NitroCircus.us@SD" tvg-name="Nitro Circus (1080p) (ENGLISH)" tvg-logo="" group-title="Sports",Nitro Circus (1080p) (ENGLISH)
