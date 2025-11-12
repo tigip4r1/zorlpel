@@ -35,6 +35,8 @@ https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
 https://bst.buin.cl/0.m3u8
 #EXTINF:-1 tvg-id="CableImagenArmstrong.ar@SD" tvg-name="(SPA) Cable Imagen Armstrong (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="~Misc",(SPA) Cable Imagen Armstrong (540p) [Not 24/7]
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+#EXTINF:-1 tvg-id="CadenaTV.pe@HD" tvg-name="(SPA) Cadena TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="~Misc",(SPA) Cadena TV (720p) [Not 24/7]
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-id="CTV.us@SD" tvg-name="(SPA) Calabasas Channel (480p)" tvg-logo="https://i.imgur.com/N5uiIJo.png" group-title="~Misc",(SPA) Calabasas Channel (480p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliTV.co@SD" tvg-name="(SPA) Cali TV (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="~Misc",(SPA) Cali TV (540p) [Not 24/7]
@@ -127,6 +129,8 @@ https://videohls2.cosmovision.tv/hls/sd.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
 #EXTINF:-1 tvg-id="CTV.co@SD" tvg-name="(SPA) CTV Barranquilla (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="~Misc",(SPA) CTV Barranquilla (1080p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-id="ElConflictoTV.us@SD" tvg-name="(SPA) El Conflicto TV (480p)" tvg-logo="https://i.imgur.com/ANfci17.png" group-title="~Misc",(SPA) El Conflicto TV (480p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
 #EXTINF:-1 tvg-id="EsteponaTelevision.es@SD" tvg-name="(SPA) Estepona Televisión (720p)" tvg-logo="https://i.imgur.com/rMAB720.png" group-title="~Misc",(SPA) Estepona Televisión (720p)
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-id="(SPA) Gigavision.bo@SD" tvg-name="(SPA) Gigavision" tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="~Misc",(SPA) Gigavision
@@ -375,6 +379,8 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="WKAQDT2.pr@SD" tvg-name="(SPA) WKAQ-DT2 (Punto 2) (720p)" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="~Misc",(SPA) WKAQ-DT2 (Punto 2) (720p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WLIIDT1.pr@SD" tvg-name="(SPA) WLII-DT1 (1080p)" tvg-logo="https://i.ibb.co/KhCnxJB/Crt3P4N.png" group-title="~Misc",(SPA) WLII-DT1 (1080p)
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WLTVDT1.us@SD" tvg-name="(SPA) WLTV-DT1 [Geo-blocked]" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="~Misc",(SPA) WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 #EXTINF:-1 tvg-id="WXWZLD1.pr@SD" tvg-name="(SPA) WXWZ-LD1 (MásTV Canal 23) (720p)" tvg-logo="https://i.imgur.com/rjmGc9p.png" group-title="~Misc",(SPA) WXWZ-LD1 (MásTV Canal 23) (720p)
@@ -899,6 +905,8 @@ https://e5.thetvapp.to/hls/WNET/index.m3u8
 https://e5.thetvapp.to/hls/TelemundoEast/index.m3u8
 #EXTINF:-1 tvg-id="WOFLDT1.us@SD" tvg-name="WOFL-DT1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="~Misc",WOFL-DT1 (720p) (ENGLISH)
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WOIODT1.us@SD" tvg-name="WOIO-DT1 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/EoL0pgf.png" group-title="~Misc",WOIO-DT1 (720p) (ENGLISH)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us@SD" tvg-name="Women's Sports Network (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="~Misc",Women's Sports Network (720p) (ENGLISH)
 https://livetv-fa.tubi.video/fast-studios-womens-sports/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk@SD" tvg-name="Wonder (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="~Misc",Wonder (720p) (ENGLISH)
@@ -919,6 +927,8 @@ http://72.46.118.193/Newsy/index.m3u8
 http://104.255.88.155/ion/index.m3u8
 #EXTINF:-1 tvg-id="WSBDT1.us@SD" tvg-name="WSB-DT1 (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/WSB-TV_2_logo.png" group-title="~Misc",WSB-DT1 (1080p) (ENGLISH)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="WSBSDT1.us@SD" tvg-name="WSBS-DT1 (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="~Misc",WSBS-DT1 (1080p) (ENGLISH)
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 tvg-id="WSOCDT1.us@SD" tvg-name="WSOC-DT1 (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="~Misc",WSOC-DT1 (1080p) (ENGLISH)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WTNHDT1.us@SD" tvg-name="WTNH-DT1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="~Misc",WTNH-DT1 (720p) (ENGLISH)
@@ -937,6 +947,8 @@ https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u
 https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
 #EXTINF:-1 tvg-id="WWORDT1.us@SD" tvg-name="WWOR-DT1 (576i) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="~Misc",WWOR-DT1 (576i) [Geo-blocked] (ENGLISH)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2476.m3u8
+#EXTINF:-1 tvg-id="WXIXDT1.us@SD" tvg-name="WXIX-DT1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="~Misc",WXIX-DT1 (720p) (ENGLISH)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WXTVDT1.us@SD" tvg-name="WXTV-DT1 (ENGLISH)" tvg-logo="https://i.imgur.com/Q7xrM2w.png" group-title="~Misc",WXTV-DT1 (ENGLISH)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:-1 tvg-id="WXXVDT1.us@SD" tvg-name="WXXV-TV News (Biloxi MS) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="~Misc",WXXV-TV News (Biloxi MS) (720p) (ENGLISH)
@@ -2215,6 +2227,8 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 #EXTINF:-1 tvg-id="AIONTV.do@SD" tvg-name="(SPA) AION TV (1080p)" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",(SPA) AION TV (1080p)
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 tvg-id="AlAoula.ma@SD" tvg-name="(SPA) Al Aoula" tvg-logo="https://i.imgur.com/nq53d2N.png" group-title="General",(SPA) Al Aoula
+https://xddrts.alwaysdata.net/maro7/maaloula.php?m3u8
 #EXTINF:-1 tvg-id="AlcarrizosTV.do@SD" tvg-name="(SPA) Alcarrizos TV (720p)" tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="General",(SPA) Alcarrizos TV (720p)
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlsaciasTelevision.hn@SD" tvg-name="(SPA) Alsacias Televisión (ATV | Canal 28) (720p)" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="General",(SPA) Alsacias Televisión (ATV | Canal 28) (720p)
@@ -2551,8 +2565,6 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.do@SD" tvg-name="(SPA) Global TV (720p)" tvg-logo="https://i.imgur.com/1rQaROm.png" group-title="General",(SPA) Global TV (720p)
 https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.pe@SD" tvg-name="(SPA) Global TV" tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="General",(SPA) Global TV
-http://181.188.216.5:18000/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.ve@SD" tvg-name="(SPA) GlobalTV (480p) [Not 24/7]" tvg-logo="https://imgur.com/hzM9D9L.jpg" group-title="General",(SPA) GlobalTV (480p) [Not 24/7]
 https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
 #EXTINF:-1 tvg-id="GM7Digital.ec@HD" tvg-name="(SPA) GM7 Digital [Not 24/7]" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg" group-title="General",(SPA) GM7 Digital [Not 24/7]
@@ -3421,6 +3433,8 @@ https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8
 https://livestream.telvue.com/cmap3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CMAPChannel20.us@SD" tvg-name="Gilroy CMAP TV Channel 20 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="General",Gilroy CMAP TV Channel 20 (720p) (ENGLISH)
 https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GlewedTV.us@SD" tvg-name="Glewed TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/ppM9hQs.png" group-title="General",Glewed TV (720p) (ENGLISH)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
 #EXTINF:-1 tvg-id="GCOtv.us@SD" tvg-name="Golden Community Television (GCO.tv) (Golden CO) (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/zHBR2zR.png" group-title="General",Golden Community Television (GCO.tv) (Golden CO) (1080p) (ENGLISH)
 https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="GRTSTV.gm@SD" tvg-name="GRTS TV (ENGLISH)" tvg-logo="https://i.imgur.com/XoKE2jt.png" group-title="General",GRTS TV (ENGLISH)
@@ -3489,6 +3503,8 @@ https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="KOMUDT1.us@SD" tvg-name="KOMU-DT1 (720p) (ENGLISH)" tvg-logo="" group-title="General",KOMU-DT1 (720p) (ENGLISH)
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 tvg-id="KPHODT1.us@SD" tvg-name="KPHO-DT1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="General",KPHO-DT1 (720p) (ENGLISH)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="KQFXLD1.us@SD" tvg-name="KQFX-LD1 (720p) (ENGLISH)" tvg-logo="" group-title="General",KQFX-LD1 (720p) (ENGLISH)
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 tvg-id="KRCADT1.us@SD" tvg-name="KRCA-TV Estrella Los Angeles (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/512px-Estrella_TV_Logo_2020.png" group-title="General",KRCA-TV Estrella Los Angeles (720p) (ENGLISH)
@@ -3929,6 +3945,8 @@ https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 http://176.65.146.237:8401/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-name="(SPA) Plous TV (1080p)" tvg-logo="https://i.imgur.com/OSet4en.png" group-title="Lifestyle",(SPA) Plous TV (1080p)
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wapp.cl@SD" tvg-name="(SPA) Wapp (720p)" tvg-logo="https://i.imgur.com/Bv1yJ1d.png" group-title="Lifestyle",(SPA) Wapp (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8
 #EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us@SD" tvg-name="30A Luxe Life Discovered (ENGLISH)" tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" group-title="Lifestyle",30A Luxe Life Discovered (ENGLISH)
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="Arewa24.ng@SD" tvg-name="Arewa 24 (ENGLISH)" tvg-logo="https://i.imgur.com/4GgYB8G.png" group-title="Lifestyle",Arewa 24 (ENGLISH)
@@ -4799,8 +4817,6 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalI.ve@SD" tvg-name="(SPA) Canal I (720p)" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="News",(SPA) Canal I (720p)
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe@SD" tvg-name="(SPA) Canal N" tvg-logo="https://i.imgur.com/Xytvw3J.png" group-title="News",(SPA) Canal N
-http://181.188.216.5:18000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="Carivision.do@SD" tvg-name="(SPA) Carivision (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="News",(SPA) Carivision (1080p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 #EXTINF:-1 tvg-id="CausaComunTV.py@SD" tvg-name="(SPA) Causa Comun TV" tvg-logo="https://i.imgur.com/8LZvYn1.jpg" group-title="News",(SPA) Causa Comun TV
@@ -4827,6 +4843,8 @@ https://nuevodiario01.streamprolive.com/hls/live.m3u8
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us@SD" tvg-name="(SPA) Estrella News (1080p)" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="News",(SPA) Estrella News (1080p)
 https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-name="(SPA) Euronews Spanish (1080p)" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",(SPA) Euronews Spanish (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-name="(SPA) Exitosa (720p)" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",(SPA) Exitosa (720p)
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-name="(SPA) France 24 Español (1080p)" tvg-logo="https://i.postimg.cc/wvbm21St/france24.png" group-title="News",(SPA) France 24 Español (1080p)
@@ -5781,6 +5799,8 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-name="(SPA) ESPN Deportes (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Sports",(SPA) ESPN Deportes (360p)
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-name="(SPA) FIFA+ Spain (720p)" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Sports",(SPA) FIFA+ Spain (720p)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="(SPA) Fox Sports en Espanol (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",(SPA) Fox Sports en Espanol (720p)
 https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx@SD" tvg-name="(SPA) Fox Sports Premium (1080p)" tvg-logo="https://i.imgur.com/3lOZWeD.png" group-title="Sports",(SPA) Fox Sports Premium (1080p)
@@ -5879,10 +5899,32 @@ https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD" tvg-name="FanDuel Sports Network (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png" group-title="Sports",FanDuel Sports Network (ENGLISH)
 https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkDetroit.us@SD" tvg-name="FanDuel Sports Network Detroit (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/FanDuel_Sports_Network_Detroit_logo.svg" group-title="Sports",FanDuel Sports Network Detroit (ENGLISH)
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31003/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkDetroitExtra.us@SD" tvg-name="FanDuel Sports Network Detroit Extra (ENGLISH)" tvg-logo="https://i.imgur.com/FXw3v4u.png" group-title="Sports",FanDuel Sports Network Detroit Extra (ENGLISH)
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31004/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkFlorida.us@SD" tvg-name="FanDuel Sports Network Florida (ENGLISH)" tvg-logo="https://i.imgur.com/V1XSgDr.png" group-title="Sports",FanDuel Sports Network Florida (ENGLISH)
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31005/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkFloridaPlus.us@SD" tvg-name="FanDuel Sports Network Florida Plus (ENGLISH)" tvg-logo="https://i.imgur.com/jNfU9hF.png" group-title="Sports",FanDuel Sports Network Florida Plus (ENGLISH)
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31006/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkNorth.us@SD" tvg-name="FanDuel Sports Network North (ENGLISH)" tvg-logo="https://i.imgur.com/VCy962a.png" group-title="Sports",FanDuel Sports Network North (ENGLISH)
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31017/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkOhio.us@SD" tvg-name="FanDuel Sports Network Ohio (ENGLISH)" tvg-logo="https://i.imgur.com/dcNrFyg.png" group-title="Sports",FanDuel Sports Network Ohio (ENGLISH)
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31019/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkOhioCleveland.us@SD" tvg-name="FanDuel Sports Network Ohio Cleveland (ENGLISH)" tvg-logo="https://i.imgur.com/7SLneBF.png" group-title="Sports",FanDuel Sports Network Ohio Cleveland (ENGLISH)
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31030/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkSoCal.us@SD" tvg-name="FanDuel Sports Network SoCal (ENGLISH)" tvg-logo="" group-title="Sports",FanDuel Sports Network SoCal (ENGLISH)
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31034/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkSoutheast.us@SD" tvg-name="FanDuel Sports Network Southeast (ENGLISH)" tvg-logo="https://i.imgur.com/BUmngwB.png" group-title="Sports",FanDuel Sports Network Southeast (ENGLISH)
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31035/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkSun.us@SD" tvg-name="FanDuel Sports Network Sun (ENGLISH)" tvg-logo="https://i.imgur.com/TvrHLaH.png" group-title="Sports",FanDuel Sports Network Sun (ENGLISH)
+http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31041/index.m3u8
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-name="FanDuel TV (720p) (ENGLISH)" tvg-logo="" group-title="Sports",FanDuel TV (720p) (ENGLISH)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-name="FB TV (ENGLISH)" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="Sports",FB TV (ENGLISH)
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-name="FIFA+ (ENGLISH)" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Sports",FIFA+ (ENGLISH)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="Fight (ENGLISH).us@SD" tvg-name="Fight (ENGLISH)" tvg-logo="https://i.imgur.com/bBv4p5K.png" group-title="Sports",Fight (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5722f4bc-fbe1-409f-ad8f-4559e5ebda2f
 #EXTINF:-1 tvg-id="FITE247.us@SD" tvg-name="FITE 24/7 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Sports",FITE 24/7 (1080p) (ENGLISH)
