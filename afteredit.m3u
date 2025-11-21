@@ -763,8 +763,6 @@ http://92.114.85.72:8000/play/a0bj
 http://92.114.85.72:8000/play/aOb3
 #EXTINF:-1 tvg-id="UnitedTV.gh@SD" tvg-name="United TV (ENGLISH)" tvg-logo="https://i.imgur.com/2isM8xd.png" group-title="~Misc",United TV (ENGLISH)
 https://g2qd3exjy7an-hls-live.5centscdn.com/utvgha/ghanaweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="UpTV.us@SD" tvg-name="Up TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/AvR9LSn.png" group-title="~Misc",Up TV (1080p) (ENGLISH)
-https://fl1.moveonjoy.com/Up_Tv/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@East" tvg-name="USA Network (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="~Misc",USA Network (720p) (ENGLISH)
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ViceNews.us@SD" tvg-name="Vice News (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/QWPJQnr.png" group-title="~Misc",Vice News (1080p) (ENGLISH)
@@ -1779,8 +1777,6 @@ https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
 #EXTINF:-1 tvg-id="DemandAfrica.us@SD" tvg-name="Demand Africa (ENGLISH)" tvg-logo="https://i.imgur.com/usqoEug.png" group-title="Entertainment",Demand Africa (ENGLISH)
 https://demandafrica-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="E4 (ENGLISH).uk@SD" tvg-name="E4 (ENGLISH)" tvg-logo="https://i.imgur.com/22MfjF4.png" group-title="Entertainment",E4 (ENGLISH)
-https://x.canlitvapp.com/u-e4/index.m3u8
 #EXTINF:-1 tvg-id="E.us@East" tvg-name="E! East (ENGLISH)" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E! East (ENGLISH)
 https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="ElectricNow.us@SD" tvg-name="Electric Now (1080p) [Not 24/7] (ENGLISH)" tvg-logo="" group-title="Entertainment",Electric Now (1080p) [Not 24/7] (ENGLISH)
@@ -2035,7 +2031,9 @@ https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/familytv/playlist.m
 https://gcdn-p6.teleuptv.net/806c57bb-85bc-4773-becc-e24433711d14/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us@East" tvg-name="Freeform (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="Family",Freeform (720p) (ENGLISH)
 https://tvpass.org/live/FreeformEast/hd
-#EXTINF:-1 tvg-id="HallmarkChannel.us@East" tvg-name="Hallmark Channel East (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Family",Hallmark Channel East (ENGLISH)
+#EXTINF:-1 tvg-id="GreatAmericanFamily.us" tvg-name="Great American Family (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/TzvnHDn.png" group-title="Family",Great American Family (720p) (ENGLISH)
+https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East" tvg-name="Hallmark Channel East (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" group-title="Family",Hallmark Channel East (720p) (ENGLISH)
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="PositivTV.us@SD" tvg-name="Positiv (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Positiv_TV_Network_Logo.png" group-title="Family",Positiv (720p) (ENGLISH)
 https://cdn.jwplayer.com/v2/sites/fGLyccP5/media/FoWynVnP/ssai.m3u8?ad_config_id=0
