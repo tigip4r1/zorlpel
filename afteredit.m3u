@@ -778,7 +778,7 @@ https://tv.ddns.vn/tv/vtv1fhd/index.m3u8
 #EXTINF:-1 tvg-id="VTV1.vn@SD" tvg-name="VTV1 (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="~Misc",VTV1 (576p) (ENGLISH)
 http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WABCDT1.us@SD" tvg-name="WABC-DT1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="~Misc",WABC-DT1 (720p) (ENGLISH)
-https://fl25.moveonjoy.com/ABC_EAST/index.m3u8
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl25.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WapTV.ng@SD" tvg-name="Wap TV (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.postimg.cc/T1nSs4XD/waptv.png" group-title="~Misc",Wap TV (720p) [Not 24/7] (ENGLISH)
 https://newproxy3.vidivu.tv/waptv/index.m3u8
 #EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng@SD" tvg-name="Wazobia Max TV Abuja (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/XYMKPPT.png" group-title="~Misc",Wazobia Max TV Abuja (720p) (ENGLISH)
@@ -1127,6 +1127,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-id="ClassicTVComedy.us@SD" tvg-name="Classic TV Comedy (ENGLISH)" tvg-logo="https://i.imgur.com/wg5I5Fb.png" group-title="Comedy",Classic TV Comedy (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e004-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=518ef377-f53a-4652-8bcc-2dc596ce4106
+#EXTINF:-1 tvg-id="ComedyCentral.pl@SD" tvg-name="Comedy Central (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central (1080p) (ENGLISH)
+https://s7.vizja.cc/ComedyCentral/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-name="Comedy Central (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central (720p) (ENGLISH)
 https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralAnimation.us@SD" tvg-name="Comedy Central Animation (ENGLISH)" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="Comedy",Comedy Central Animation (ENGLISH)
@@ -1663,6 +1665,8 @@ https://eu1.servers10.com:8081/8108/index.m3u8
 https://stream.solmediaeg.com/soltv/soltv.m3u8
 #EXTINF:-1 tvg-id="Super7FM.do@SD" tvg-name="(SPA) Super7FM (720p)" tvg-logo="https://i.imgur.com/TJEqwZo.png" group-title="Entertainment",(SPA) Super7FM (720p)
 https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
+#EXTINF:-1 tvg-id="SuperCable.cr@SD" tvg-name="(SPA) Super Cable" tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Entertainment",(SPA) Super Cable
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMas.cr@SD" tvg-name="(SPA) TeleMas (480p) [Geo-blocked]" tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="Entertainment",(SPA) TeleMas (480p) [Geo-blocked]
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.do@SD" tvg-name="(SPA) Telemax (1080p)" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Entertainment",(SPA) Telemax (1080p)
@@ -3689,8 +3693,6 @@ https://hls.mskycdn.online/tv/bbccbb/index.m3u8
 http://84.54.128.52:9090/play/3006/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-name="Disney Channel (576p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (576p) [Not 24/7] (ENGLISH)
 http://116.90.120.149:8000/play/a0bx/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.pl@SD" tvg-name="Disney Channel (1080p) (ENGLISH)" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (1080p) (ENGLISH)
-http://185.236.229.62:9981/play/a07d
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-name="Disney Channel HD (1080p) (ENGLISH)" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel HD (1080p) (ENGLISH)
 http://66.102.120.18:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DoraTV.us@US" tvg-name="Dora TV (ENGLISH)" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Kids",Dora TV (ENGLISH)
@@ -3763,8 +3765,6 @@ https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 https://pocketwatch-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPokemon.us@SD" tvg-name="Pokémon (ENGLISH)" tvg-logo="https://i.imgur.com/GEbRABE.png" group-title="Kids",Pokémon (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
-#EXTINF:-1 tvg-id="PolsatJimJam.pl@SD" tvg-name="Polsat JimJam (ENGLISH)" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="Kids",Polsat JimJam (ENGLISH)
-http://185.236.229.62:9981/play/a07e
 #EXTINF:-1 tvg-id="PopUp.uk@SD" tvg-name="Pop Up (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/GdSotmS.png" group-title="Kids",Pop Up (1080p) (ENGLISH)
 https://jmp2.uk/stvp-GB25000016G
 #EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-name="Ryan and Friends (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Kids",Ryan and Friends (1080p) (ENGLISH)
@@ -3823,8 +3823,6 @@ https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
 https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" tvg-name="FashionTV Europe (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FashionTV Europe (1080p) (ENGLISH)
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVEurope.fr@HD" tvg-name="FashionTV Europe HD (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FashionTV Europe HD (720p) [Geo-blocked] (ENGLISH)
-https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
 #EXTINF:-1 tvg-id="FYI.us@East" tvg-name="FYI East (ENGLISH)" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="Lifestyle",FYI East (ENGLISH)
 https://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="HobbyMaker.uk@SD" tvg-name="Hobby Maker (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="Lifestyle",Hobby Maker (720p) (ENGLISH)
@@ -5105,6 +5103,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TVCNews.ng@SD" tvg-name="TVC News (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="News",TVC News (576p) (ENGLISH)
 https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8
+#EXTINF:-1 tvg-id="TVPWorld.pl@SD" tvg-name="TVP World (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="News",TVP World (1080p) [Geo-blocked] (ENGLISH)
+https://vs2142.vcdn.biz/2958f855a43f669a4282e5134a882554_megogo/live/hls/b/700_2490_4000/u_sid/0/o/150446381/rsid/7aae92a2-4034-476f-8fff-33bfc431e127/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid8883796453807134950-b4000000.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us@SD" tvg-name="UN Web TV (540p) (ENGLISH)" tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="News",UN Web TV (540p) (ENGLISH)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="USATODAY.us@SD" tvg-name="USA Today News [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA Today News [Geo-blocked] (ENGLISH)
@@ -5637,8 +5637,8 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="EDGEsport.uk@SD" tvg-name="EDGESport (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="Sports",EDGESport (1080p) (ENGLISH)
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ElevenSports1.pl@SD" tvg-name="Eleven Sports 1 (2160p) (ENGLISH)" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sports",Eleven Sports 1 (2160p) (ENGLISH)
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports1.pl@SD" tvg-name="Eleven Sports 1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="Sports",Eleven Sports 1 (1080p) (ENGLISH)
+https://windnew.iosplayer.ru/wind/premium71/mono.m3u8
 #EXTINF:-1 tvg-id="ElevenSports2.pl@SD" tvg-name="Eleven Sports 2 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="Sports",Eleven Sports 2 (1080p) (ENGLISH)
 https://windnew.iosplayer.ru/wind/premium72/mono.m3u8
 #EXTINF:-1 tvg-id="ElevenSports3.pl@SD" tvg-name="Eleven Sports 3 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="Sports",Eleven Sports 3 (1080p) (ENGLISH)
