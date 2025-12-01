@@ -273,8 +273,8 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 http://s6.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar@SD" tvg-name="(SPA) Telenord (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="~Misc",(SPA) Telenord (720p) [Not 24/7]
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(SPA) TeleOnce.pr@SD" tvg-name="(SPA) TeleOnce" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="~Misc",(SPA) TeleOnce
-https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8
+#EXTINF:-1 tvg-id="TeleOnce.pr@SD" tvg-name="(SPA) TeleOnce (1080p)" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="~Misc",(SPA) TeleOnce (1080p)
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleonuba.es@SD" tvg-name="(SPA) Teleonuba (1080p)" tvg-logo="https://i.imgur.com/cHMfmO7.png" group-title="~Misc",(SPA) Teleonuba (1080p)
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co@SD" tvg-name="(SPA) Telepacifico (1080p)" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="~Misc",(SPA) Telepacifico (1080p)
@@ -375,12 +375,10 @@ https://live.obslivestream.com/vivatv/index.m3u8
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="VTVValledeAconcagua.cl@SD" tvg-name="(SPA) VTV Valle de Aconcagua (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="~Misc",(SPA) VTV Valle de Aconcagua (720p) [Not 24/7]
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WIPRDT1.pr@SD" tvg-name="(SPA) WIPR (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="~Misc",(SPA) WIPR (1080p) [Geo-blocked]
-https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="WIPRDT1.pr@SD" tvg-name="(SPA) WIPR (1080p)" tvg-logo="https://i.imgur.com/MGJaxFO.png" group-title="~Misc",(SPA) WIPR (1080p)
+https://streamwipr.pr/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="WKAQDT2.pr@SD" tvg-name="(SPA) WKAQ-DT2 (Punto 2) (720p)" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="~Misc",(SPA) WKAQ-DT2 (Punto 2) (720p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WLIIDT1.pr@SD" tvg-name="(SPA) WLII-DT1 (1080p)" tvg-logo="https://i.ibb.co/KhCnxJB/Crt3P4N.png" group-title="~Misc",(SPA) WLII-DT1 (1080p)
-https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WLTVDT1.us@SD" tvg-name="(SPA) WLTV-DT1 [Geo-blocked]" tvg-logo="https://i.imgur.com/Sr3EoK5.png" group-title="~Misc",(SPA) WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 #EXTINF:-1 tvg-id="WXWZLD1.pr@SD" tvg-name="(SPA) WXWZ-LD1 (MásTV Canal 23) (720p)" tvg-logo="https://i.imgur.com/rjmGc9p.png" group-title="~Misc",(SPA) WXWZ-LD1 (MásTV Canal 23) (720p)
@@ -477,8 +475,6 @@ https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.
 https://livetv-fa.tubi.video/caught-in-providence2/playlist.m3u8
 #EXTINF:-1 tvg-id="WTKRDT1.us@SD" tvg-name="CBS 3 Norfolk VA (WTKR) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",CBS 3 Norfolk VA (WTKR) (720p) (ENGLISH)
 https://livetv-fa.tubi.video/wtkr/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVFDT1.us@SD" tvg-name="CBS 5 Nashville TN (WTVF) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",CBS 5 Nashville TN (WTVF) (720p) (ENGLISH)
-https://livetv-fa.tubi.video/wtvf2/playlist.m3u8
 #EXTINF:-1 tvg-id="WTVRDT1.us@SD" tvg-name="CBS 6 Richmond VA (WTVR) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",CBS 6 Richmond VA (WTVR) (720p) (ENGLISH)
 https://livetv-fa.tubi.video/wtvr/playlist.m3u8
 #EXTINF:-1 tvg-id="CelebritySceneTV.us@SD" tvg-name="Celebrity Scene TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/n36jriB.png" group-title="~Misc",Celebrity Scene TV (720p) (ENGLISH)
@@ -871,6 +867,8 @@ https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8
 https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
 #EXTINF:-1 tvg-id="WKOHDT4.us@SD" tvg-name="WKOH-DT4 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" group-title="~Misc",WKOH-DT4 (ENGLISH)
 https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8
+#EXTINF:-1 tvg-id="WKRNDT1.us@SD" tvg-name="WKRN-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/512px-WKRN-TV_%282016%29.svg.png" group-title="~Misc",WKRN-DT1 (ENGLISH)
+https://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WLNYDT1.us@SD" tvg-name="WLNY-DT1 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/ubsNr5F.jpg" group-title="~Misc",WLNY-DT1 (720p) (ENGLISH)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
 #EXTINF:-1 tvg-id="WMBCDT1.us@SD" tvg-name="WMBC-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/WMBC_logo.jpg" group-title="~Misc",WMBC-DT1 (ENGLISH)
@@ -917,6 +915,8 @@ http://104.255.88.155/ion/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WSBSDT1.us@SD" tvg-name="WSBS-DT1 (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" group-title="~Misc",WSBS-DT1 (1080p) (ENGLISH)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+#EXTINF:-1 tvg-id="WSMVDT1.us@SD" tvg-name="WSMV-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="~Misc",WSMV-DT1 (ENGLISH)
+https://fl1.moveonjoy.com/TN_Nashville_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WSOCDT1.us@SD" tvg-name="WSOC-DT1 (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="~Misc",WSOC-DT1 (1080p) (ENGLISH)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WTNHDT1.us@SD" tvg-name="WTNH-DT1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="~Misc",WTNH-DT1 (720p) (ENGLISH)
@@ -931,6 +931,8 @@ http://68.251.105.81:5004/auto/v11.1
 http://68.251.105.81:5004/auto/v11.2
 #EXTINF:-1 tvg-id="WTTWDT3.us@SD" tvg-name="WTTW-DT3 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" group-title="~Misc",WTTW-DT3 (ENGLISH)
 http://68.251.105.81:5004/auto/v11.3
+#EXTINF:-1 tvg-id="WTVFDT1.us@SD" tvg-name="WTVF-DT1 (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="~Misc",WTVF-DT1 (720p) (ENGLISH)
+https://fl1.moveonjoy.com/TN_Nashville_CBS/mpegts
 #EXTINF:-1 tvg-id="WTVJDT1.us@SD" tvg-name="WTVJ-DT1 (ENGLISH)" tvg-logo="https://i.imgur.com/p3HXpSv.png" group-title="~Misc",WTVJ-DT1 (ENGLISH)
 https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-id="WTVQDT1.us@SD" tvg-name="WTVQ ABC 36 News (Lexington KY) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/XIoBeja.png" group-title="~Misc",WTVQ ABC 36 News (Lexington KY) (720p) (ENGLISH)
@@ -949,6 +951,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:-1 tvg-id="WXXVDT1.us@SD" tvg-name="WXXV-TV News (Biloxi MS) (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="~Misc",WXXV-TV News (Biloxi MS) (720p) (ENGLISH)
 https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
+#EXTINF:-1 tvg-id="WZTVDT1.us@SD" tvg-name="WZTV-DT1 (ENGLISH)" tvg-logo="https://i.imgur.com/2ZjwRof.png" group-title="~Misc",WZTV-DT1 (ENGLISH)
+https://fl1.moveonjoy.com/TN_Nashville_FOX/index.m3u8
 #EXTINF:-1 tvg-id="YasTV.ae@SD" tvg-name="Yas TV (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/CSHQhP4.png" group-title="~Misc",Yas TV (1080p) [Geo-blocked] (ENGLISH)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="YesNetwork.us@SD" tvg-name="Yes Network (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/330px-YES_Network_logo.svg.png" group-title="~Misc",Yes Network (ENGLISH)
@@ -1533,7 +1537,7 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://mediacp.us:8081/504tvhn/index.m3u8
 #EXTINF:-1 tvg-id="OPA.cr@SD" tvg-name="(SPA) ¡OPA! (1080i) [Geo-blocked]" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Entertainment",(SPA) ¡OPA! (1080i) [Geo-blocked]
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
-#EXTINF:-1 tvg-id="ACSNetwork.pr@SD" tvg-name="(SPA) ACS Network (480p)" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Entertainment",(SPA) ACS Network (480p)
+#EXTINF:-1 tvg-id="ACSNetwork.pr@SD" tvg-name="(SPA) ACS Network (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/7aIab2r.png" group-title="Entertainment",(SPA) ACS Network (480p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="AguacateTV.ve@SD" tvg-name="(SPA) Aguacate TV (1080p)" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Entertainment",(SPA) Aguacate TV (1080p)
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
@@ -3527,8 +3531,8 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
 #EXTINF:-1 tvg-id="OrangeTV3.us@SD" tvg-name="Orange TV3 (ENGLISH)" tvg-logo="https://i.imgur.com/C6yu4Lk.png" group-title="General",Orange TV3 (ENGLISH)
 https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8
-#EXTINF:-1 tvg-id="OTV (ENGLISH).lb@SD" tvg-name="OTV (ENGLISH)" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="General",OTV (ENGLISH)
-https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8
+#EXTINF:-1 tvg-id="OTV.lb@SD" tvg-name="OTV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="General",OTV (1080p) (ENGLISH)
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="PSCTV.us@SD" tvg-name="Palm Springs Community Television (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/TfBx8dp.png" group-title="General",Palm Springs Community Television (720p) (ENGLISH)
 https://zoom-f.swagit.com/live/palmspringsca/playlist.m3u8
 #EXTINF:-1 tvg-id="ParadiseTV.gm@SD" tvg-name="Paradise TV (ENGLISH)" tvg-logo="https://i.imgur.com/0aT45vk.png" group-title="General",Paradise TV (ENGLISH)
@@ -4407,6 +4411,8 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 https://streamingtv.masplay.x10.mx/proxy/mixtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVExitos.do@SD" tvg-name="(SPA) TV Éxitos (720p)" tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="Music",(SPA) TV Éxitos (720p)
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1 tvg-id="TVOMIX.es@HD" tvg-name="(SPA) TVOMIX (720p)" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="Music",(SPA) TVOMIX (720p)
+https://cloud.tvomix.com/TVOMIX/index.m3u8
 #EXTINF:-1 tvg-id="TVONENicaragua.ni@SD" tvg-name="(SPA) TVONE Nicaragua (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Music",(SPA) TVONE Nicaragua (720p) [Not 24/7]
 https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1 tvg-id="TVUNO.pe@SD" tvg-name="(SPA) TVUNO (720p)" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Music",(SPA) TVUNO (720p)
@@ -5553,8 +5559,6 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-name="(SPA) FIFA+ Spain (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Sports",(SPA) FIFA+ Spain (720p)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-name="(SPA) Fox Sports (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="Sports",(SPA) Fox Sports (1080p)
-http://181.209.125.237:9000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="(SPA) Fox Sports en Espanol (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",(SPA) Fox Sports en Espanol (720p)
 https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx@SD" tvg-name="(SPA) Fox Sports Premium (1080p)" tvg-logo="https://i.imgur.com/3lOZWeD.png" group-title="Sports",(SPA) Fox Sports Premium (1080p)
