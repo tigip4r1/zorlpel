@@ -227,8 +227,6 @@ https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 https://movil.ejeserver.com/live/telesanjacinto.m3u8
 #EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-name="(SPA) Tele Yucatan (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="~Misc",(SPA) Tele Yucatan (1080p) [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec@SD" tvg-name="(SPA) Teleamazonas (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="~Misc",(SPA) Teleamazonas (1080p)
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecadena7y4.hn@SD" tvg-name="(SPA) Telecadena 7 y 4" tvg-logo="https://i.imgur.com/3gzFNog.png" group-title="~Misc",(SPA) Telecadena 7 y 4
 https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 #EXTINF:-1 tvg-id="Teleceiba.hn@SD" tvg-name="(SPA) Teleceiba (1080p)" tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="~Misc",(SPA) Teleceiba (1080p)
@@ -1541,6 +1539,8 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="AntaresTelevision.pe@SD" tvg-name="(SPA) Antares Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",(SPA) Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena21.do@SD" tvg-name="(SPA) Antena 21 (480p) [Not 24/7] [Geo-blocked]" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="Entertainment",(SPA) Antena 21 (480p) [Not 24/7] [Geo-blocked]
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-name="(SPA) Azteca Internacional (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",(SPA) Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="Bellavision.do@SD" tvg-name="(SPA) Bellavisión (1080p)" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Entertainment",(SPA) Bellavisión (1080p)
@@ -4621,8 +4621,6 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-name="(SPA) ADN 40 (720p)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",(SPA) ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="Antena21.do@SD" tvg-name="(SPA) Antena 21 (480p) [Not 24/7] [Geo-blocked]" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",(SPA) Antena 21 (480p) [Not 24/7] [Geo-blocked]
-https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATVArgentina.ar@SD" tvg-name="(SPA) ATV Argentina" tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" group-title="News",(SPA) ATV Argentina
 https://tv.streaming.com.bo/atvargentina/index.m3u8
 #EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es@SD" tvg-name="(SPA) Canal 1 Mar Menor-Torre Pacheco (1080p)" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="News",(SPA) Canal 1 Mar Menor-Torre Pacheco (1080p)
@@ -5213,6 +5211,8 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVEuropean.at@SD" tvg-name="Swamiji TV European (1080p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Outdoor/Travel",Swamiji TV European (1080p) [Not 24/7] (ENGLISH)
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz@SD" tvg-name="Tanzania Safari Channel (ENGLISH)" tvg-logo="https://i.imgur.com/fcLFYhn.png" group-title="Outdoor/Travel",Tanzania Safari Channel (ENGLISH)
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@SD" tvg-name="Travelxp (720p) (ENGLISH)" tvg-logo="https://i.postimg.cc/1tMhRdd1/travelxp.png" group-title="Outdoor/Travel",Travelxp (720p) (ENGLISH)
 https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us@SD" tvg-name="TVS Travel Network (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/vSFf5Ce.png" group-title="Outdoor/Travel",TVS Travel Network (720p) [Not 24/7] (ENGLISH)
@@ -5511,8 +5511,8 @@ http://fl1.moveonjoy.com/NHL_9/index.m3u8
 http://fl1.moveonjoy.com/NHL_10/index.m3u8
 #EXTINF:-1 tvg-id="NHLCentreIce11.ca@SD" tvg-name="(CA) NHL Centre Ice 11" tvg-logo="https://i.imgur.com/pBKZZ8z.png" group-title="Sports",(CA) NHL Centre Ice 11
 http://fl1.moveonjoy.com/NHL_11/index.m3u8
-#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-name="(CA) TSN1 (1080p)" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",(CA) TSN1 (1080p)
-https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-name="(CA) TSN1 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",(CA) TSN1 (1080p) [Not 24/7]
+https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="(CA) TSN2.ca@SD" tvg-name="(CA) TSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/(CA) TSN2.svg/512px-(CA) TSN2.svg.png" group-title="Sports",(CA) TSN2
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="(CA) TSN3.ca@SD" tvg-name="(CA) TSN3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports",(CA) TSN3
