@@ -99,8 +99,6 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 #EXTINF:-1 tvg-id="CanalDiocesano.es@SD" tvg-name="(SPA) Canal Diocesano (576p)" tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="~Misc",(SPA) Canal Diocesano (576p)
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
-#EXTINF:-1 tvg-id="CanalNets.co@SD" tvg-name="(SPA) Canal Nets (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/edaAexc.png" group-title="~Misc",(SPA) Canal Nets (720p) [Not 24/7]
-https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="CanalCosta.es@SD" tvg-name="(SPA) CanalCosta (1080p)" tvg-logo="https://i.imgur.com/ap4FmYb.png" group-title="~Misc",(SPA) CanalCosta (1080p)
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CeltaTV.ar@SD" tvg-name="(SPA) Celta TV (240p)" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="~Misc",(SPA) Celta TV (240p)
@@ -1551,6 +1549,8 @@ https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1 tvg-id="Canal15DTP.hn@SD" tvg-name="(SPA) Canal 15 DTP (352p)" tvg-logo="https://i.imgur.com/QQNcob1.png" group-title="Entertainment",(SPA) Canal 15 DTP (352p)
 https://s.emisoras.tv:8081/dtp/index.m3u8
+#EXTINF:-1 tvg-id="CanalNets.co@SD" tvg-name="(SPA) Canal Nets (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Entertainment",(SPA) Canal Nets (720p) [Not 24/7]
+https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="(SPA) CanelaTV.us@SD" tvg-name="(SPA) CanelaTV" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="Entertainment",(SPA) CanelaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 #EXTINF:-1 tvg-id="CanicaTV.co@SD" tvg-name="(SPA) Canica TV (240p)" tvg-logo="https://i.imgur.com/RuQDwTt.jpeg" group-title="Entertainment",(SPA) Canica TV (240p)
@@ -2263,8 +2263,6 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do@SD" tvg-name="(SPA) Canal 4 RD (1080p)" tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="General",(SPA) Canal 4 RD (1080p)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-name="(SPA) Canal 5 (720p)" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",(SPA) Canal 5 (720p)
-http://104.238.205.28:8989/278329_.m3u8
 #EXTINF:-1 tvg-id="Canal5DelPueblo.ar@SD" tvg-name="(SPA) Canal 5 Del Pueblo [Not 24/7]" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="General",(SPA) Canal 5 Del Pueblo [Not 24/7]
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5TVCozumel.mx@SD" tvg-name="(SPA) Canal 5 TV Cozumel (1080p)" tvg-logo="https://i.imgur.com/0nzNMuP.jpeg" group-title="General",(SPA) Canal 5 TV Cozumel (1080p)
@@ -3707,8 +3705,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="TigueritoTV.do@HD" tvg-name="(SPA) Tiguerito TV (720p) [Not 24/7]" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Kids",(SPA) Tiguerito TV (720p) [Not 24/7]
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#EXTINF:-1 tvg-id="10Shake.au@Sydney" tvg-name="10 Shake (480p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/10_Shake_logo_2020.svg/512px-10_Shake_logo_2020.svg.png" group-title="Kids",10 Shake (480p) (ENGLISH)
-http://44.32.200.212:5004/auto/v13
 #EXTINF:-1 tvg-id="ABCKids.au@Sydney" tvg-name="ABC Kids (ENGLISH)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Kids",ABC Kids (ENGLISH)
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="AghapyKids.us@SD" tvg-name="Aghapy Kids (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="Kids",Aghapy Kids (1080p) (ENGLISH)
