@@ -449,8 +449,6 @@ https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
 #EXTINF:-1 tvg-id="HistoryHit.us@SD" tvg-name="History Hit (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="~Misc",History Hit (720p) (ENGLISH)
 https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="INFAST.us@SD" tvg-name="INFAST (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/VwAMqA7.png" group-title="~Misc",INFAST (1080p) (ENGLISH)
-https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-name="InTrouble [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="~Misc",InTrouble [Geo-blocked] (ENGLISH)
 https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="KNLJDT1.us@SD" tvg-name="KNLJ-DT1 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/42UdwD0.png" group-title="~Misc",KNLJ-DT1 (720p) (ENGLISH)
@@ -905,7 +903,7 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="MagicKids.ar@SD" tvg-name="(SPA) Magic Kids (486p)" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",(SPA) Magic Kids (486p)
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-id="Animax.in@SD" tvg-name="Animax [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png" group-title="Animation",Animax [Geo-blocked] (ENGLISH)
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@India" tvg-name="Animax Asia India (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png" group-title="Animation",Animax Asia India (1080p) [Geo-blocked] (ENGLISH)
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeAllDay.us@US" tvg-name="Anime All Day (ENGLISH)" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Animation",Anime All Day (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
@@ -2411,6 +2409,8 @@ https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
 #EXTINF:-1 tvg-id="CRTelevision.pe@SD" tvg-name="(SPA) CR Televisión Moyobamba (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",(SPA) CR Televisión Moyobamba (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-id="CreaLaTV.mx@SD" tvg-name="(SPA) CreaLaTV (1080p)" tvg-logo="https://i.imgur.com/Bnjj29f.png" group-title="General",(SPA) CreaLaTV (1080p)
+https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8
 #EXTINF:-1 tvg-id="CreaTVChannel30.us@SD" tvg-name="(SPA) CreaTV The Outlet Channel 30 (San Jose CA) (720p)" tvg-logo="https://i.imgur.com/O5GXlmE.png" group-title="General",(SPA) CreaTV The Outlet Channel 30 (San Jose CA) (720p)
 https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="CromTV.do@SD" tvg-name="(SPA) CromTV (480p)" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="General",(SPA) CromTV (480p)
@@ -3701,7 +3701,7 @@ http://66.102.120.18:8000/play/a004/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
 #EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-name="ducktv (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv (720p) (ENGLISH)
 https://jmp2.uk/stvp-ESBC4700001GR
-#EXTINF:-1 tvg-id="ETVBalBharatEnglish.in@SD" tvg-name="ETV Bal Bharat English (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/zsTxPV9.png" group-title="Kids",ETV Bal Bharat English (576p) (ENGLISH)
+#EXTINF:-1 tvg-id="ETVBalBharat.in@SD" tvg-name="ETV Bal Bharat (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/zsTxPV9.png" group-title="Kids",ETV Bal Bharat (576p) (ENGLISH)
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
 #EXTINF:-1 tvg-id="ForeverKids.us@SD" tvg-name="Forever Kids (ENGLISH)" tvg-logo="https://i.imgur.com/deeQqYZ.png" group-title="Kids",Forever Kids (ENGLISH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f171-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1acb41ce-ae24-4bbc-bf7d-831de72589e8
@@ -4849,6 +4849,8 @@ https://hls.afintl.com/hls/stream.m3u8
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" tvg-name="Africanews English (ENGLISH)" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews English (ENGLISH)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+#EXTINF:-1 tvg-id="Afrique54TV.cm@SD" tvg-name="Afrique54 TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/WIaRpiS.png" group-title="News",Afrique54 TV (720p) (ENGLISH)
+https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
 #EXTINF:-1 tvg-id="AITNational.ng@SD" tvg-name="AIT National (576p) (ENGLISH)" tvg-logo="https://i.imgur.com/n9sZsWv.jpeg" group-title="News",AIT National (576p) (ENGLISH)
 https://webstreaming.viewmedia.tv/web_036/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" tvg-name="Al Arabiya English (1080p) (ENGLISH)" tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" group-title="News",Al Arabiya English (1080p) (ENGLISH)
@@ -5849,6 +5851,8 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/channel32/playlist.m3u8
 #EXTINF:-1 tvg-id="InWild.it@SD" tvg-name="InWild (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/48atMgj.png" group-title="Outdoor;Shop",InWild (720p) (ENGLISH)
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="KCM.sg@India" tvg-name="KCM (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://img1.wsimg.com/isteam/ip/31e9f2fb-aa91-4437-b7ce-f34ad0f7e457/blob-c09ea31.png" group-title="Entertainment;Movies",KCM (1080p) [Geo-blocked] (ENGLISH)
+https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us@SD" tvg-name="MBC America (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Culture;Entertainment;Music",MBC America (1080p) (ENGLISH)
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD" tvg-name="Nick/Comedy Central +1 HD (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/08ZUI9k.png" group-title="Comedy;Kids",Nick/Comedy Central +1 HD (1080p) (ENGLISH)
