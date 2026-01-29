@@ -29,8 +29,8 @@ https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 tvg-id="BeMad.es@SD" tvg-name="(SPA) Be Mad (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" group-title="~Misc",(SPA) Be Mad (1080p)
 http://176.65.146.237:8401/play/a0aj/index.m3u8
-#EXTINF:-1 tvg-id="BestClasicosTV.cr@SD" tvg-name="(SPA) BestClasicosTV (576p) [Geo-blocked]" tvg-logo="https://i.imgur.com/a/BRb8AVL.png" group-title="~Misc",(SPA) BestClasicosTV (576p) [Geo-blocked]
-https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
+#EXTINF:-1 tvg-id="BestClasicosTV.cr@SD" tvg-name="(SPA) BestClasicosTV (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/a/BRb8AVL.png" group-title="~Misc",(SPA) BestClasicosTV (576p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
 #EXTINF:-1 tvg-id="BuinSomosTodos.cl@SD" tvg-name="(SPA) Buin Somos Todos (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/zzeBtux.png" group-title="~Misc",(SPA) Buin Somos Todos (720p) [Not 24/7]
 https://bst.buin.cl/0.m3u8
 #EXTINF:-1 tvg-id="CableImagenArmstrong.ar@SD" tvg-name="(SPA) Cable Imagen Armstrong (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="~Misc",(SPA) Cable Imagen Armstrong (540p) [Not 24/7]
@@ -839,8 +839,6 @@ https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="WNBCDT1.us@SD" tvg-name="WNBC-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="~Misc",WNBC-DT1 (ENGLISH)
 https://fl61.moveonjoy.com/NY_New_York_NBC/mpegts
-#EXTINF:-1 tvg-id="WNETDT1.us@SD" tvg-name="WNET-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" group-title="~Misc",WNET-DT1 (ENGLISH)
-https://e5.thetvapp.to/hls/WNET/index.m3u8
 #EXTINF:-1 tvg-id="WNJUDT1.us@SD" tvg-name="WNJU-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="~Misc",WNJU-DT1 (ENGLISH)
 http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/mpegts
 #EXTINF:-1 tvg-id="WNYWDT1.us@SD" tvg-name="WNYW-DT1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="~Misc",WNYW-DT1 (1080p) (ENGLISH)
@@ -997,15 +995,15 @@ https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US" tvg-name="Bloomberg TV US (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US (1080p) (ENGLISH)
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBC.us@SD" tvg-name="CNBC (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="CNBC.us@SD" tvg-name="CNBC (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png" group-title="Business",CNBC (720p) (ENGLISH)
 https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
-#EXTINF:-1 tvg-id="CNBCAfrica.za@SD" tvg-name="CNBC Africa (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="Business",CNBC Africa (480p) (ENGLISH)
+#EXTINF:-1 tvg-id="CNBCAfrica.za@SD" tvg-name="CNBC Africa (480p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/CNBC_Africa_2025.svg/512px-CNBC_Africa_2025.svg.png" group-title="Business",CNBC Africa (480p) (ENGLISH)
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg@SD" tvg-name="CNBC Asia (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Business",CNBC Asia (720p) (ENGLISH)
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope.uk@HD" tvg-name="CNBC Europe HD (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="Business",CNBC Europe HD (1080p) (ENGLISH)
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-id="CNBCWorld.us@SD" tvg-name="CNBC World (ENGLISH)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26849/s26849_ll_h15_ab.png?w=512" group-title="Business",CNBC World (ENGLISH)
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD" tvg-name="CNBC World (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CNBC_World_2025.svg/2560px-CNBC_World_2025.svg.png" group-title="Business",CNBC World (ENGLISH)
 https://fl1.moveonjoy.com/CNBC_World/index.m3u8
 #EXTINF:-1 tvg-id="DeFianceMedia.pr@SD" tvg-name="DeFiance Media (1080p) (ENGLISH)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698943bac4421ebc533695/images/logo_20231219_193005_68.png" group-title="Business",DeFiance Media (1080p) (ENGLISH)
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
@@ -2749,8 +2747,8 @@ https://stream.castr.com/5da89a909db964293ad13301/live_8252710021ba11f0b7e18b4de
 https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
 #EXTINF:-1 tvg-id="MontecristiDigital8.do@HD" tvg-name="(SPA) Montecristi Digital 8 [Geo-blocked]" tvg-logo="https://imgur.com/ExoOHQI.jpeg" group-title="General",(SPA) Montecristi Digital 8 [Geo-blocked]
 https://soportedvb.click:3400/live/montecristitvlive.m3u8
-#EXTINF:-1 tvg-id="MorroTV.do@SD" tvg-name="(SPA) MorroTV (414p)" tvg-logo="" group-title="General",(SPA) MorroTV (414p)
-https://soportedvb.click:3257/live/morrotvlive.m3u8
+#EXTINF:-1 tvg-id="MorroTV.do@SD" tvg-name="(SPA) MorroTV (720p) [Not 24/7]" tvg-logo="" group-title="General",(SPA) MorroTV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVChontales.ni@SD" tvg-name="(SPA) MTV Chontales (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/zgUPYdv.png" group-title="General",(SPA) MTV Chontales (720p) [Not 24/7]
 https://altair.hostingnica.net/hls/mtv_stream/index.m3u8
 #EXTINF:-1 tvg-id="MulticanalCatamayo.ec@SD" tvg-name="(SPA) Multicanal Catamayo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="General",(SPA) Multicanal Catamayo (720p) [Not 24/7]
@@ -3087,8 +3085,8 @@ https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 https://viewhn.com/canal30/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisoradeOriente.ve@SD" tvg-name="(SPA) Televisora de Oriente (406p)" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="General",(SPA) Televisora de Oriente (406p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
-#EXTINF:-1 tvg-id="TenarensesTV.do@SD" tvg-name="(SPA) Tenarenses TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="General",(SPA) Tenarenses TV (720p) [Not 24/7]
-https://vdo2.streamgato.us:3305/live/tenarensestvrdlive.m3u8
+#EXTINF:-1 tvg-id="TenarensesTV.do@SD" tvg-name="(SPA) Tenarenses TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="General",(SPA) Tenarenses TV (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/tenarensestvrd/playlist.m3u8
 #EXTINF:-1 tvg-id="TNECanal58.do@SD" tvg-name="(SPA) TNE Canal 58 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/rSIB579.jpeg" group-title="General",(SPA) TNE Canal 58 (720p) [Not 24/7]
 https://stream.castr.com/5da89a909db964293ad13301/live_3d61f47076c511f089458d738ae60887/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TNORadio.ve@SD" tvg-name="(SPA) TNO Radio (720p)" tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" group-title="General",(SPA) TNO Radio (720p)
@@ -5161,6 +5159,8 @@ https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="I24 News English (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",I24 News English (720p) (ENGLISH)
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishUSA.il@SD" tvg-name="i24NEWS English USA (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="News",i24NEWS English USA (ENGLISH)
+https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-name="India Today (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png" group-title="News",India Today (720p) [Not 24/7] (ENGLISH)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="InfoWars.us@SD" tvg-name="InfoWars Network (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/a7h9epj.png" group-title="News",InfoWars Network (1080p) (ENGLISH)
@@ -5819,8 +5819,8 @@ https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
 #EXTINF:-1 tvg-id="LuchaLibreAAA.us@SD" tvg-name="(SPA) Pluto TV Lucha Libre AAA (720p)" tvg-logo="https://i.imgur.com/Nc7K060.png" group-title="Sports",(SPA) Pluto TV Lucha Libre AAA (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
-#EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr@SD" tvg-name="(SPA) Radio Turrialba TV Sports (576p) [Geo-blocked]" tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="Sports",(SPA) Radio Turrialba TV Sports (576p) [Geo-blocked]
-https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr@SD" tvg-name="(SPA) Radio Turrialba TV Sports (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="Sports",(SPA) Radio Turrialba TV Sports (576p) [Not 24/7]
+https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-name="(SPA) Real Madrid TV (1080p)" tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png" group-title="Sports",(SPA) Real Madrid TV (1080p)
 http://176.65.146.237:8401/play/a0ak/index.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-name="(SPA) Teledeporte (1080p)" tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="Sports",(SPA) Teledeporte (1080p)
