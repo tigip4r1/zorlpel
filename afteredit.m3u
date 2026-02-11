@@ -3699,8 +3699,6 @@ https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NVKSakha.ru@SD" tvg-name="НВК Саха (1080p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="General",НВК Саха (1080p) [Not 24/7] (ENGLISH)
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-id="RTRPlanetaUSA.us@SD" tvg-name="РТР Планета США (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General",РТР Планета США (ENGLISH)
-https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr@SD" tvg-name="(SPA) Costa Rica Channel (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Culture;Travel",(SPA) Costa Rica Channel (576p) [Not 24/7]
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="Bobleponge.us@France" tvg-name="(CA) Bob l'éponge" tvg-logo="https://i.imgur.com/ITwU1yZ.png" group-title="Kids",(CA) Bob l'éponge
@@ -4657,6 +4655,8 @@ https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
 https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="VantageMusic.ee@HD" tvg-name="Vantage Music (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="Music",Vantage Music (720p) [Geo-blocked] (ENGLISH)
 https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageRock.ee@HD" tvg-name="Vantage Rock (720p) [Geo-blocked] (ENGLISH)" tvg-logo="https://vantagetv.ee/vantage_dance.png" group-title="Music",Vantage Rock (720p) [Geo-blocked] (ENGLISH)
+https://hls.vantagetv.ee/vrock_stream/index.m3u8
 #EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-name="Vevo 2K (1080p) (ENGLISH)" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K (1080p) (ENGLISH)
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Vevo70s.us@SD" tvg-name="Vevo 70s (1080p) (ENGLISH)" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Vevo 70s (1080p) (ENGLISH)
@@ -4802,7 +4802,7 @@ https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NorteInformativoTV.cr@SD" tvg-name="(SPA) Norte Informativo TV (240p)" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="News",(SPA) Norte Informativo TV (240p)
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="Noticias16.do@SD" tvg-name="(SPA) Noticias 16 (720p) [Not 24/7]" tvg-logo="https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png" group-title="News",(SPA) Noticias 16 (720p) [Not 24/7]
-https://mlb.essastream.com:8081/noticiasn16/playlist.m3u8
+https://mlb.essastream.com:8081/noticias16/playlist.m3u8
 #EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD" tvg-name="(SPA) Noticiero 90 Minutos (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="News",(SPA) Noticiero 90 Minutos (720p) [Not 24/7]
 https://cdns.livewave.co:8081/90minutoslive/index.m3u8
 #EXTINF:-1 tvg-id="NotiUnoTV.pr@SD" tvg-name="(SPA) NotiUno TV (854p) [Not 24/7]" tvg-logo="https://i.imgur.com/qNdywBT.png" group-title="News",(SPA) NotiUno TV (854p) [Not 24/7]
@@ -5769,16 +5769,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-id="CampusLore.us@SD" tvg-name="CampusLore (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/dCXl0rq.png" group-title="Sports",CampusLore (720p) (ENGLISH)
 https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CosmoteSport4.gr@HD" tvg-name="Cosmote Sport 4 (ENGLISH)" tvg-logo="https://i.imgur.com/zEdJUZU.png" group-title="Sports",Cosmote Sport 4 (ENGLISH)
-http://138.2.160.168:8080/fetch?COSMOTESPORT4
-#EXTINF:-1 tvg-id="CosmoteSport5.gr@HD" tvg-name="Cosmote Sport 5 (ENGLISH)" tvg-logo="https://i.imgur.com/0GKXahH.png" group-title="Sports",Cosmote Sport 5 (ENGLISH)
-http://138.2.160.168:8080/fetch?COSMOTESPORT5
-#EXTINF:-1 tvg-id="CosmoteSport6.gr@HD" tvg-name="Cosmote Sport 6 (ENGLISH)" tvg-logo="https://i.imgur.com/KG6VWN1.png" group-title="Sports",Cosmote Sport 6 (ENGLISH)
-http://138.2.160.168:8080/fetch?COSMOTESPORT6
-#EXTINF:-1 tvg-id="CosmoteSport7.gr@HD" tvg-name="Cosmote Sport 7 (ENGLISH)" tvg-logo="https://i.imgur.com/p0DKcn2.png" group-title="Sports",Cosmote Sport 7 (ENGLISH)
-http://138.2.160.168:8080/fetch?COSMOTESPORT7
-#EXTINF:-1 tvg-id="CosmoteSport8.gr@HD" tvg-name="Cosmote Sport 8 (ENGLISH)" tvg-logo="https://i.imgur.com/DKlW5ka.png" group-title="Sports",Cosmote Sport 8 (ENGLISH)
-http://138.2.160.168:8080/fetch?COSMOTESPORT8
 #EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-name="DAZN Combat (ENGLISH)" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports",DAZN Combat (ENGLISH)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" tvg-name="DD SPORTS HD (1080p) (ENGLISH)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png" group-title="Sports",DD SPORTS HD (1080p) (ENGLISH)
