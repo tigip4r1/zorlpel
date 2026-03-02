@@ -127,8 +127,6 @@ https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playl
 https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WMAQDT1.us@SD" tvg-name="NBC 5 Chicago Live News (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="~Misc",NBC 5 Chicago Live News (1080p) (ENGLISH)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
-#EXTINF:-1 tvg-id="WTVJDT1.us@SD" tvg-name="NBC 6 Miami FL (WTVJ) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/p3HXpSv.png" group-title="~Misc",NBC 6 Miami FL (WTVJ) [Geo-blocked] (ENGLISH)
-https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WLIODT1.us@SD" tvg-name="NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="~Misc",NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7] (ENGLISH)
 https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-id="WBTSCD1.us@SD" tvg-name="NBC 10 Boston NH (WBTS) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png" group-title="~Misc",NBC 10 Boston NH (WBTS) [Geo-blocked] (ENGLISH)
@@ -453,6 +451,8 @@ http://68.251.105.81:5004/auto/v11.1
 http://68.251.105.81:5004/auto/v11.2
 #EXTINF:-1 tvg-id="WTTWDT3.us@SD" tvg-name="WTTW-DT3 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" group-title="~Misc",WTTW-DT3 (ENGLISH)
 http://68.251.105.81:5004/auto/v11.3
+#EXTINF:-1 tvg-id="WTVJDT1.us@SD" tvg-name="WTVJ-DT1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/p3HXpSv.png" group-title="~Misc",WTVJ-DT1 (1080p) (ENGLISH)
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WTVQDT1.us@SD" tvg-name="WTVQ ABC 36 News (Lexington KY) (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/XIoBeja.png" group-title="~Misc",WTVQ ABC 36 News (Lexington KY) (720p) (ENGLISH)
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
 #EXTINF:-1 tvg-id="WTVTDT1.us@SD" tvg-name="WTVT-DT1 (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="~Misc",WTVT-DT1 (1080p) (ENGLISH)
@@ -1241,8 +1241,8 @@ https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="BTV.ug@SD" tvg-name="BTV (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/rcHZ1al.png" group-title="Entertainment",BTV (480p) (ENGLISH)
 https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Buzzr.us@SD" tvg-name="BUZZR (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="Entertainment",BUZZR (720p) (ENGLISH)
-https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
+#EXTINF:-1 tvg-id="Buzzr (ENGLISH).us@SD" tvg-name="Buzzr (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr (ENGLISH)_logo.svg/512px-Buzzr (ENGLISH)_logo.svg.png" group-title="Entertainment",Buzzr (ENGLISH)
+https://buzzrota-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelU.sg@SD" tvg-name="Channel U (ENGLISH)" tvg-logo="https://i.imgur.com/9MzEjoY.png" group-title="Entertainment",Channel U (ENGLISH)
 https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8
 #EXTINF:-1 tvg-id="Circle.us@SD" tvg-name="Circle [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png" group-title="Entertainment",Circle [Geo-blocked] (ENGLISH)
@@ -4413,8 +4413,8 @@ https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="UsWeeklyTV.us@SD" tvg-name="Us Weekly TV (ENGLISH)" tvg-logo="https://i.imgur.com/IMsk88B.png" group-title="News",Us Weekly TV (ENGLISH)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/us-weekly-tv/master.m3u8?ads.vf=IeWXlf9QgFK
-#EXTINF:-1 tvg-id="USATODAY.us@SD" tvg-name="USA Today News [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA Today News [Geo-blocked] (ENGLISH)
-https://usatodaynews-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USATODAY.us@SD" tvg-name="USA Today (ENGLISH)" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA Today (ENGLISH)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="UzReportTV.uz@SD" tvg-name="UzReport TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/Bch2RHc.jpg" group-title="News",UzReport TV (1080p) (ENGLISH)
 https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="VoATV.us@SD" tvg-name="VOA TV Africa (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="News",VOA TV Africa (1080p) (ENGLISH)
@@ -4484,7 +4484,7 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="(SPA) HCH.hn@SD" tvg-name="(SPA) HCH" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="News",(SPA) HCH
 https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
 #EXTINF:-1 tvg-id="HermanasMirabalTV.do@SD" tvg-name="(SPA) Hermanas Mirabal TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="News",(SPA) Hermanas Mirabal TV (720p) [Not 24/7]
-https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 #EXTINF:-1 tvg-id="HispanTV.ir@SD" tvg-name="(SPA) Hispan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg" group-title="News",(SPA) Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn@SD" tvg-name="(SPA) Lenca Television Canal 40 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="News",(SPA) Lenca Television Canal 40 (720p) [Not 24/7]
@@ -4863,15 +4863,15 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" tvg-name="DD Sports HD (1080p) (ENGLISH)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png" group-title="Sports",DD Sports HD (1080p) (ENGLISH)
 http://103.78.149.54:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD" tvg-name="DraftKings Network (ENGLISH)" tvg-logo="" group-title="Sports",DraftKings Network (ENGLISH)
+#EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD" tvg-name="DraftKings Network (ENGLISH)" tvg-logo="https://i.imgur.com/SFYhgrt.png" group-title="Sports",DraftKings Network (ENGLISH)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-name="ESPN 8: The Ocho (ENGLISH)" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN 8: The Ocho (ENGLISH)
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-id="F1Channel.ie@US" tvg-name="F1 Channel (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (1080p) [Geo-blocked] (ENGLISH)
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FanDuelRacing.us@SD" tvg-name="FanDuel Racing (ENGLISH)" tvg-logo="" group-title="Sports",FanDuel Racing (ENGLISH)
+#EXTINF:-1 tvg-id="FanDuelRacing.us@SD" tvg-name="FanDuel Racing (ENGLISH)" tvg-logo="https://i.imgur.com/84lMjSj.png" group-title="Sports",FanDuel Racing (ENGLISH)
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
-#EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-name="FanDuel TV (720p) (ENGLISH)" tvg-logo="" group-title="Sports",FanDuel TV (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-name="FanDuel TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/YPHrFU0.png" group-title="Sports",FanDuel TV (720p) (ENGLISH)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr@SD" tvg-name="FB TV (ENGLISH)" tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="Sports",FB TV (ENGLISH)
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
