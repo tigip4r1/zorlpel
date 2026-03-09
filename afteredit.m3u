@@ -829,7 +829,7 @@ https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US" tvg-name="Bloomberg TV US (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US (720p) (ENGLISH)
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="CNBC.us@SD" tvg-name="CNBC (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png" group-title="Business",CNBC (720p) (ENGLISH)
+#EXTINF:-1 tvg-id="CNBC.us@SD" tvg-name="CNBC (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business",CNBC (720p) (ENGLISH)
 https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg@SD" tvg-name="CNBC Asia (720p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png" group-title="Business",CNBC Asia (720p) (ENGLISH)
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
@@ -2129,8 +2129,8 @@ https://ch8.littletongov.org/live-2/live/live.m3u8
 https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TAPTVChannel25.us@SD" tvg-name="Lompoc TAP TV Channel 25 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/5mhYHtD.png" group-title="General",Lompoc TAP TV Channel 25 (720p) (ENGLISH)
 https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-name="Lotus Macau HD (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="General",Lotus Macau HD (1080p) (ENGLISH)
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-name="Lotus Macau HD 720p (ENGLISH)" tvg-logo="https://i.imgur.com/7j8Lnog.png" group-title="General",Lotus Macau HD 720p (ENGLISH)
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="CityofLovelandTV.us@SD" tvg-name="Loveland TV (Loveland CO) (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/K9eCdXD.png" group-title="General",Loveland TV (Loveland CO) (1080p) (ENGLISH)
 https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="LPTV.us@SD" tvg-name="LPTV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/d5w2pT4.png" group-title="General",LPTV (1080p) (ENGLISH)
@@ -2445,6 +2445,8 @@ https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
 #EXTINF:-1 tvg-id="Canal5TVCozumel.mx@SD" tvg-name="(SPA) Canal 5 TV Cozumel (1080p)" tvg-logo="https://i.imgur.com/0nzNMuP.jpeg" group-title="General",(SPA) Canal 5 TV Cozumel (1080p)
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+#EXTINF:-1 tvg-id="Canal5TVMax.py@SD" tvg-name="(SPA) Canal 5 TV Max (720p)" tvg-logo="https://i.imgur.com/6oihaDM.png" group-title="General",(SPA) Canal 5 TV Max (720p)
+https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
 #EXTINF:-1 tvg-id="Canal7Boaco.ni@SD" tvg-name="(SPA) Canal 7 Boaco (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/chXNX9k.jpeg" group-title="General",(SPA) Canal 7 Boaco (1080p) [Not 24/7]
 https://cdn.amixtv.com/c7boaco/index.m3u8
 #EXTINF:-1 tvg-id="Canal7Neuquen.ar@SD" tvg-name="(SPA) Canal 7 Neuquén (1080p)" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="General",(SPA) Canal 7 Neuquén (1080p)
