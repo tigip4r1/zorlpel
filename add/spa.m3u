@@ -1737,6 +1737,10 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="NaranjaTV.do@SD" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="General",Naranja TV (720p)
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+#EXTINF:-1 tvg-id="Narutoenespanol.us" tvg-logo="https://i.imgur.com/hG8F0RY.png" group-title="Animation",Naruto
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+#EXTINF:-1 tvg-id="NarutoShippuden.us@LatAm" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Animation",Naruto Shippuden
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NativaTV.cl@SD" tvg-logo="https://i.imgur.com/0SFE2Fr.png" group-title="General",Nativa TV
@@ -1848,6 +1852,10 @@ https://cloudvideo.servers10.com:8081/8116/index.m3u8
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-id="OndasQuevedenasTV.ec@SD" tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="General",Ondas Quevedeñas TV (720p) [Not 24/7]
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@LatAm" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Animation",One Piece
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@Spain" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Animation",One Piece
+https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 #EXTINF:-1 tvg-id="OnzaTV.ve@SD" tvg-logo="https://i.imgur.com/usrP6T2.png" group-title="General",Onza TV (720p)
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do@SD" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="General",ORBIT TV (1080p) [Not 24/7]
@@ -1920,6 +1928,8 @@ https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="PlusTV.pa@SD" tvg-logo="https://i.imgur.com/MmpwhAG.png" group-title="News",Plus TV (720p) [Not 24/7]
 https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@Spain" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="Movies",Pluto TV Horror
+https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNovelas.us@SD" tvg-logo="https://i.imgur.com/R44LypS.png" group-title="Series",Pluto TV Novelas
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 #EXTINF:-1 tvg-id="PopularTVMelilla.es@SD" tvg-logo="https://i.imgur.com/TbevWX4.png" group-title="Undefined",Popular TV Melilla (1080p) [Not 24/7]
@@ -2066,7 +2076,7 @@ https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Top Movies Spain (1080p)
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 tvg-id="RakutenViki.es@Spain" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Undefined",Rakuten Viki (1080p)
+#EXTINF:-1 tvg-id="RakutenViki.us@Spain" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Entertainment;Series",Rakuten Viki (1080p)
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RalyTV.mx@SD" tvg-logo="https://i.imgur.com/W8a1dIa.png" group-title="General",Raly TV (720p)
 https://cloudvideo.servers10.com:8081/8072/index.m3u8

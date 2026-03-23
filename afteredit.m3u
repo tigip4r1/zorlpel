@@ -389,8 +389,6 @@ https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 http://69.64.57.208/voxafrica/playlist.m3u8
 #EXTINF:-1 tvg-id="VSiN.us@SD" tvg-name="VSiN (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/C4wIRxg.png" group-title="~Misc",VSiN (720p) (ENGLISH)
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-name="VTV1 HD (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="~Misc",VTV1 HD (1080p) (ENGLISH)
-https://liveh12.vtvprime.vn/hls/VTV1_HD/index.m3u8
 #EXTINF:-1 tvg-id="WABCDT1.us@SD" tvg-name="WABC-DT1 (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/960px-WABC_TV_New_2021.svg.png" group-title="~Misc",WABC-DT1 (720p) [Not 24/7] (ENGLISH)
 https://tvpass.org/live/WABCDT1/hd
 #EXTINF:-1 tvg-id="WapTV.ng@SD" tvg-name="Wap TV (720p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/Djng8pI.png" group-title="~Misc",Wap TV (720p) [Not 24/7] (ENGLISH)
@@ -1193,6 +1191,8 @@ https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 tvg-id="Backstage.us@SD" tvg-name="Backstage (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/qcTNvNU.png" group-title="Documentary",Backstage (1080p) (ENGLISH)
 https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Poland" tvg-name="BBC Earth (ENGLISH)" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth (ENGLISH)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc126/bbcearthhdraw/bbcearthhdraw.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-name="BBC Earth (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth (1080p) (ENGLISH)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Asia" tvg-name="BBC Earth Asia (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth Asia (720p) (ENGLISH)
@@ -1229,10 +1229,8 @@ https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc004/historyhdraw/historyhdraw.m3u8
 #EXTINF:-1 tvg-id="History2.pl@SD" tvg-name="History 2 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 (ENGLISH)
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc008/history2hdraw/history2hdraw.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@SD" tvg-name="History TV18 (576p) (ENGLISH)" tvg-logo="https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540" group-title="Documentary",History TV18 (576p) (ENGLISH)
-http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-name="History TV18 HD (1080p) (ENGLISH)" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Documentary",History TV18 HD (1080p) (ENGLISH)
-http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-name="History TV18 HD (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Documentary",History TV18 HD (1080p) [Geo-blocked] (ENGLISH)
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="InkMaster.us@SD" tvg-name="Ink Master (ENGLISH)" tvg-logo="https://i.imgur.com/DiBojYh.png" group-title="Documentary",Ink Master (ENGLISH)
 https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl" tvg-name="INWILD (1080p) (ENGLISH)" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Documentary",INWILD (1080p) (ENGLISH)
@@ -1435,6 +1433,8 @@ https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-name="BBC America (ENGLISH)" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America (ENGLISH)
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCBrit.uk@Poland" tvg-name="BBC Brit (ENGLISH)" tvg-logo="https://i.imgur.com/i4remZo.png" group-title="Entertainment",BBC Brit (ENGLISH)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc116/bbcbrithdraw/bbcbrithdraw.m3u8
 #EXTINF:-1 tvg-id="BETPlutoTV.us@UK" tvg-name="BET Pluto TV (ENGLISH)" tvg-logo="https://i.imgur.com/Kq9WKZg.png" group-title="Entertainment",BET Pluto TV (ENGLISH)
 https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8
 #EXTINF:-1 tvg-id="BETPlutoTV.us@US" tvg-name="BET Pluto TV (ENGLISH)" tvg-logo="https://i.imgur.com/Kq9WKZg.png" group-title="Entertainment",BET Pluto TV (ENGLISH)
@@ -3755,6 +3755,8 @@ https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCHomeGarden.us@SD" tvg-name="BBC Home & Garden (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/rC0pi1D.png" group-title="Lifestyle",BBC Home & Garden (1080p) (ENGLISH)
 https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Singapore" tvg-name="BBC Lifestyle (ENGLISH)" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="Lifestyle",BBC Lifestyle (ENGLISH)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8
 #EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" tvg-name="BBC Lifestyle Asia (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="Lifestyle",BBC Lifestyle Asia (720p) (ENGLISH)
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-id="BetterHealthTV.us@SD" tvg-name="Better Health TV (480p) (ENGLISH)" tvg-logo="https://i.imgur.com/qnwJiji.png" group-title="Lifestyle",Better Health TV (480p) (ENGLISH)
