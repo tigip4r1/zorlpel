@@ -202,7 +202,7 @@ https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe@SD" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Culture",AsiriTV (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="Asomavision.ec@SD" tvg-logo="https://i.imgur.com/a5avk5R.png" group-title="Undefined",Asomavisión (614p)
+#EXTINF:-1 tvg-id="Asomavision.ec@SD" tvg-logo="https://i.imgur.com/VqwyCV1.png" group-title="Religious",Asomavisión (614p)
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="AtabalTV.do@HD" tvg-logo="https://imgur.com/QWR9SOH.png" group-title="General",Atabal TV (1080p) [Not 24/7]
 https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
@@ -1363,8 +1363,8 @@ https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us@SD" tvg-logo="https://i.imgur.com/lTdwfd8.png" group-title="Religious",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
 https://telered.live:1936/jrestv/jrestv/playlist.m3u8
-#EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="General",Kalu TV (720p)
-https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8
+#EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="General",Kalu TV (1080p)
+https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-id="Kanade.cl@SD" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Animation;Entertainment",Kanade (1080p)
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="KandelaTV.ve@SD" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="Music",KandelaTV (480p)
@@ -2414,7 +2414,7 @@ https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/codificador7/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="General",Teleamazonas Quito (1080p) [Geo-blocked]
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Teleantioquia (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Teleantioquia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve@SD" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="General",TeleAragua (480p)
@@ -2435,8 +2435,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecadena7y4.hn@SD" tvg-logo="https://i.imgur.com/PTN7fCa.png" group-title="General",Telecadena 7 y 4
 https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/z18LRqM.png" http-referrer="https://player.instantvideocloud.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telecafe (1080p)
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTINF:-1 tvg-id="Telecafe.co@SD" tvg-logo="https://i.imgur.com/z18LRqM.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telecafe (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecanal.cl@SD" tvg-logo="https://i.imgur.com/3g6SbSt.png" group-title="News",Telecanal (720p)
@@ -2514,8 +2513,8 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://mlb.essastream.com:8081/telemax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="XEWHTDT.mx@SD" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Undefined",Telemax (XEWH-TDT) (1080p)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemedellin.co@SD" tvg-logo="https://i.imgur.com/GnxzRTC.png" http-referrer="https://player.instantvideocloud.net/" group-title="General",Telemedellin (720p)
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTINF:-1 tvg-id="Telemedellin.co@SD" tvg-logo="https://i.imgur.com/GnxzRTC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telemedellin (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemetroTV.do@SD" tvg-logo="https://imgur.com/Ck2NL0t.png" group-title="General",Telemetro TV [Not 24/7]
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
@@ -2703,8 +2702,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
 http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRCTV.mx@SD" tvg-logo="https://i.imgur.com/W4xwCdl.png" group-title="Undefined",TRC Televisión (720p)
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
-#EXTINF:-1 tvg-id="Trece.co@SD" tvg-logo="https://i.imgur.com/jsuXXIg.png" http-referrer="https://player.instantvideocloud.net/" group-title="General",Trece (720p)
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTINF:-1 tvg-id="Trece.co@SD" tvg-logo="https://i.imgur.com/jsuXXIg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Trece (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/960px-Logotrececanal.png" group-title="General",Trece Paraguay (1080p) [Not 24/7]
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
@@ -3220,8 +3219,7 @@ https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
 https://acceso.radiosportstv.online:3022/stream/play.m3u8
 #EXTINF:-1 tvg-id="ZonavisionTV.do@SD" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="General",Zonavision TV [Not 24/7]
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" http-referrer="https://canalzoom.org/senal-en-vivo" group-title="Education",Zoom (1080p)
-#EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
+#EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Education",Zoom (1080p)
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="ZoyTVSports1.bo@SD" tvg-logo="https://i.imgur.com/0YHztGq.png" group-title="Sports",Zoy TV Sports 1 (1080p) [Not 24/7]
 https://mio.zoymilton.com/ZoyEventos/index.m3u8
