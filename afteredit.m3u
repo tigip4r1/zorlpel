@@ -553,8 +553,6 @@ https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg0
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
 #EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec@SD" tvg-name="(SPA) Antena Uno RadioVideo (360p)" tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="~Misc",(SPA) Antena Uno RadioVideo (360p)
 https://tvdatta.com:3578/live/antenaunolive.m3u8
-#EXTINF:-1 tvg-id="Asomavision.ec@SD" tvg-name="(SPA) Asomavisión (614p)" tvg-logo="https://i.imgur.com/a5avk5R.png" group-title="~Misc",(SPA) Asomavisión (614p)
-https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="AtacamaTV.cl@SD" tvg-name="(SPA) Atacama TV (Copiapó) (720p) [Not 24/7]" tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="~Misc",(SPA) Atacama TV (Copiapó) (720p) [Not 24/7]
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 tvg-id="BestClasicosTV.cr@SD" tvg-name="(SPA) BestClasicosTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/a/BRb8AVL.png" group-title="~Misc",(SPA) BestClasicosTV (720p) [Not 24/7]
@@ -913,9 +911,9 @@ https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope.uk@HD" tvg-name="CNBC Europe HD (1080p) [Geo-Blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Business",CNBC Europe HD (1080p) [Geo-Blocked] (ENGLISH)
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18.in@SD" tvg-name="CNBC TV18 (1080p) (ENGLISH)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_TV18/images/LOGO_HD/image.png" group-title="Business",CNBC TV18 (1080p) (ENGLISH)
+#EXTINF:-1 tvg-id="CNBCTV18.in@SD" tvg-name="CNBC TV18 (1080p) (ENGLISH)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png" group-title="Business",CNBC TV18 (1080p) (ENGLISH)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD" tvg-name="CNBC TV18 Prime HD (1080p) (ENGLISH)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_PRIME_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Business",CNBC TV18 Prime HD (1080p) (ENGLISH)
+#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD" tvg-name="CNBC TV18 Prime HD (1080p) (ENGLISH)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="Business",CNBC TV18 Prime HD (1080p) (ENGLISH)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="DeFianceMedia.pr@SD" tvg-name="DeFiance Media (1080p) (ENGLISH)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698943bac4421ebc533695/images/logo_20231219_193005_68.png" group-title="Business",DeFiance Media (1080p) (ENGLISH)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8?ads.vf=vUI6YpdKlAm
@@ -2319,6 +2317,8 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-name="Kantipur TV (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/HEVo2Gc.png" group-title="General",Kantipur TV (1080p) (ENGLISH)
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-name="KBS World (ENGLISH)" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World (ENGLISH)
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 tvg-id="KCBSDT1.us@SD" tvg-name="KCBS-DT1 (1080p) [Not 24/7] (ENGLISH)" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="General",KCBS-DT1 (1080p) [Not 24/7] (ENGLISH)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="KCTVDT1.us@SD" tvg-name="KCTV-DT1 (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/7bfi9oA.png" group-title="General",KCTV-DT1 (720p) (ENGLISH)
@@ -3011,8 +3011,8 @@ https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
 https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
 #EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-name="(SPA) Junior Technologia TV (1080p) [Not 24/7]" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="General",(SPA) Junior Technologia TV (1080p) [Not 24/7]
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
-#EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-name="(SPA) Kalu TV (720p)" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="General",(SPA) Kalu TV (720p)
-https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8
+#EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-name="(SPA) Kalu TV (1080p)" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="General",(SPA) Kalu TV (1080p)
+https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 #EXTINF:-1 tvg-id="KMEXDT1.us@SD" tvg-name="(SPA) KMEX-DT1 [Geo-blocked]" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="General",(SPA) KMEX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:-1 tvg-id="KUVNDT1.us@SD" tvg-name="(SPA) KUVN-DT1" tvg-logo="https://i.imgur.com/PGJOFD4.png" group-title="General",(SPA) KUVN-DT1
@@ -3323,7 +3323,7 @@ https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/codificador7/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-name="(SPA) Teleamazonas Quito (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="General",(SPA) Teleamazonas Quito (1080p) [Geo-blocked]
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-name="(SPA) Teleantioquia (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="General",(SPA) Teleantioquia (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-name="(SPA) Teleantioquia (720p)" tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="General",(SPA) Teleantioquia (720p)
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve@SD" tvg-name="(SPA) TeleAragua (480p)" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="General",(SPA) TeleAragua (480p)
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
@@ -3853,8 +3853,6 @@ https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD" tvg-name="&flix HD (1080p) (ENGLISH)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&flix HD (1080p) (ENGLISH)
 http://116.90.120.151:8000/play/a0il/index.m3u8
-#EXTINF:-1 tvg-id="AndpriveHD.in@SD" tvg-name="&prive HD (1080p) (ENGLISH)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540" group-title="Movies",&prive HD (1080p) (ENGLISH)
-http://103.161.153.165:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="AfriwoodBlockbuster.za@SD" tvg-name="Afriwood Blockbuster (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/aESdqiB.png" group-title="Movies",Afriwood Blockbuster (720p) (ENGLISH)
 https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
 #EXTINF:-1 tvg-id="DUST.us@SD" tvg-name="Alien Nation by DUST (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Alien Nation by DUST (1080p) (ENGLISH)
@@ -4029,8 +4027,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://116.90.120.151:8000/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-name="Sony Pix HD (1080p) (ENGLISH)" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony Pix HD (1080p) (ENGLISH)
 http://103.229.254.25:7001/play/a0ed/index.m3u8
-#EXTINF:-1 tvg-id="SpookyNights.sa@SD" tvg-name="Spooky Nights (1080p) (ENGLISH)" tvg-logo="https://shahid.mbc.net/mediaObject/b0016b19-b35b-4ea6-afb9-5b74a0aac825?height=auto&width=512&croppingPoint=&version=1&type=png" group-title="Movies",Spooky Nights (1080p) (ENGLISH)
-https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="Star Movies HD (1080p) (ENGLISH)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies HD (1080p) (ENGLISH)
 http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-name="Star Movies Select HD (1080p) (ENGLISH)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p) (ENGLISH)
