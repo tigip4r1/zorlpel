@@ -2012,9 +2012,8 @@ https://panel.host-live.com:19360/20004/20004.m3u8
 https://panel.host-live.com:19360/20000/20000.m3u8
 #EXTINF:-1 tvg-id="PantallaClasicaEC.ec@SD" tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Movies;Series",Pantalla Clásica EC (512p) [Not 24/7]
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" http-referrer="https://www.paraguaytv.gov.py/" group-title="General",Paraguay TV (720p)
-#EXTVLCOPT:http-referrer=https://www.paraguaytv.gov.py/
-https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="General",Paraguay TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
 #EXTINF:-1 tvg-id="ParaisoTV.pr@SD" tvg-logo="https://i.imgur.com/wE31GIP.jpg" group-title="Religious",Paraíso TV (720p)
 https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Paravision.py@SD" tvg-logo="https://i.imgur.com/yd9Dw2G.png" http-referrer="https://www.paravision.com.py/" group-title="General",Paravision
@@ -3072,6 +3071,10 @@ https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional Asia-Oceania (1080p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional Europe (576p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@HD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional Europe HD (1080p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es@SD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Series",TVE Star (576p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es@HD" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" group-title="Series",TVE Star HD (1080p)
