@@ -195,6 +195,8 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="XEWHTDT.mx@SD" tvg-name="(SPA) Telemax (XEWH-TDT) (1080p)" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="~Misc",(SPA) Telemax (XEWH-TDT) (1080p)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemicroInternacional.do@SD" tvg-name="(SPA) Telemicro Internacional (480p)" tvg-logo="https://i.imgur.com/507tvMY.png" group-title="~Misc",(SPA) Telemicro Internacional (480p)
+http://200.115.120.1:8000/play/ca085/index.m3u8
 #EXTINF:-1 tvg-id="TeleOnce.pr@SD" tvg-name="(SPA) TeleOnce (1080p)" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="~Misc",(SPA) TeleOnce (1080p)
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleonuba.es@SD" tvg-name="(SPA) Teleonuba (1080p)" tvg-logo="https://i.imgur.com/cHMfmO7.png" group-title="~Misc",(SPA) Teleonuba (1080p)
@@ -784,7 +786,7 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="WorldHarvestTV.us@SD" tvg-name="World Harvest TV (360p) (ENGLISH)" tvg-logo="https://i.imgur.com/xtbkDDN.png" group-title="~Misc",World Harvest TV (360p) (ENGLISH)
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WPIX71.us@HD" tvg-name="WPIX-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png" group-title="~Misc",WPIX-DT1 (ENGLISH)
-https://dvrfl04.tulix.tv/teleup-wpix/mpegts
+https://e1.thetvapp.to/hls/WPIX/index.m3u8
 #EXTINF:-1 tvg-id="WPXI111.us@HD" tvg-name="WPXI-DT1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/MNSBpDW.png" group-title="~Misc",WPXI-DT1 (1080p) (ENGLISH)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXXTV501.us@HD" tvg-name="WPXX-DT1 (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png" group-title="~Misc",WPXX-DT1 (ENGLISH)
@@ -2629,6 +2631,8 @@ https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OromarTV.ec@SD" tvg-name="(SPA) Oromar TV (720p)" tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="General",(SPA) Oromar TV (720p)
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-id="OviedoTV.py@SD" tvg-name="(SPA) Oviedo TV" tvg-logo="https://i.imgur.com/6OlfgSQ.png" group-title="General",(SPA) Oviedo TV
+https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
 #EXTINF:-1 tvg-id="OxiTV.do@HD" tvg-name="(SPA) OxiTV (720p) [Not 24/7]" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" group-title="General",(SPA) OxiTV (720p) [Not 24/7]
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-id="P3TV.us@SD" tvg-name="(SPA) P3TV [Not 24/7]" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3449-294x165-FFFFFF.jpg" group-title="General",(SPA) P3TV [Not 24/7]
@@ -2805,6 +2809,8 @@ https://live.amelbatv.co:81/telemocoalive/index.m3u8
 https://teleola.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TelePoderTV.do@HD" tvg-name="(SPA) Tele Poder TV (720p) [Not 24/7]" tvg-logo="https://www.telepoder.online/wp-content/uploads/2024/02/cropped-cropped-Logo-PoderTV2.png" group-title="General",(SPA) Tele Poder TV (720p) [Not 24/7]
 https://cdn.telepoder.online:3229/dash/stream.m3u8
+#EXTINF:-1 tvg-id="TelePosadas.ar@HD" tvg-name="(SPA) Tele Posadas (720p)" tvg-logo="https://i.imgur.com/88MVgwX.png" group-title="General",(SPA) Tele Posadas (720p)
+https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleProyectoTV.do@HD" tvg-name="(SPA) Tele Proyecto TV [Not 24/7]" tvg-logo="https://imgur.com/LmBxN5x.png" group-title="General",(SPA) Tele Proyecto TV [Not 24/7]
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 #EXTINF:-1 tvg-id="Telealtura.do@SD" tvg-name="(SPA) Telealtura (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/Ql2eaP0.png" group-title="General",(SPA) Telealtura (1080p) [Not 24/7]
@@ -3839,6 +3845,8 @@ http://103.72.101.252:8080/live/544.m3u8
 http://195.64.140.147:10121/121
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-name="Nickelodeon (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (1080p) (ENGLISH)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@Indonesia" tvg-name="Nickelodeon Asia Indonesia (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Asia Indonesia (1080p) (ENGLISH)
+https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 #EXTINF:-1 tvg-id="NickPlutoTV.us@US" tvg-name="Nickelodeon Pluto TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/N7rQyzN.png" group-title="Kids",Nickelodeon Pluto TV (720p) (ENGLISH)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us@SD" tvg-name="Ninja Kidz (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Kids",Ninja Kidz (720p) (ENGLISH)
@@ -4405,6 +4413,8 @@ https://video.compuwebecuador.com:3880/stream/play.m3u8
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
 #EXTINF:-1 tvg-id="RadioCarnavalTV.es@SD" tvg-name="(SPA) Radio Carnaval TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="Music",(SPA) Radio Carnaval TV (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-id="RadioCiudad989FMTV.py@SD" tvg-name="(SPA) Radio Ciudad 98.9 FM TV" tvg-logo="https://i.imgur.com/LaSLZwR.jpg" group-title="Music",(SPA) Radio Ciudad 98.9 FM TV
+https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8
 #EXTINF:-1 tvg-id="RadioConexionWebTV.ar@SD" tvg-name="(SPA) Radio Conexion Web TV (720p)" tvg-logo="https://i.imgur.com/pXS38zo.png" group-title="Music",(SPA) Radio Conexion Web TV (720p)
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 #EXTINF:-1 tvg-id="RadioCuencaEstereo.ec@SD" tvg-name="(SPA) Radio Cuenca Estéreo (720p)" tvg-logo="https://i.imgur.com/qZzSOeU.png" group-title="Music",(SPA) Radio Cuenca Estéreo (720p)
