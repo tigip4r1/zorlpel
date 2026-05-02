@@ -211,6 +211,8 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 https://telesurnew.b-cdn.net/hls/moquegua.m3u8
 #EXTINF:-1 tvg-id="TeleVigo.es@SD" tvg-name="(SPA) TeleVigo (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/4iVmlFa.png" group-title="~Misc",(SPA) TeleVigo (1080p) [Not 24/7]
 https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+#EXTINF:-1 tvg-id="TelevisionCanaria.es@SD" tvg-name="(SPA) Television Canaria (576p)" tvg-logo="https://rtvc.es/archivos/2020/03/logo-mobilretina.png" group-title="~Misc",(SPA) Television Canaria (576p)
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
 #EXTINF:-1 tvg-id="TelevisionComayaguaCanal40.hn@SD" tvg-name="(SPA) Televisión Comayagua Canal 40 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/uDLhsDM.png" group-title="~Misc",(SPA) Televisión Comayagua Canal 40 (720p) [Not 24/7]
 https://mediacp.us:8081/8034/index.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadenEspanol.us@SD" tvg-name="(SPA) The Walking Dead en español (720p)" tvg-logo="https://i.imgur.com/h17lAxc.png" group-title="~Misc",(SPA) The Walking Dead en español (720p)
@@ -423,6 +425,8 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8
 #EXTINF:-1 tvg-id="DMTV.us@SD" tvg-name="Del Mar TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/M1eQ1eZ.png" group-title="~Misc",Del Mar TV (720p) (ENGLISH)
 https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DungeonTV.us@SD" tvg-name="Dungeon TV (480i) (ENGLISH)" tvg-logo="https://i.imgur.com/cwazXHb.png" group-title="~Misc",Dungeon TV (480i) (ENGLISH)
+https://stream-us-east-1.getpublica.com/cl/260429d7p1k35skjef7n2hpgog/1280x720_2750882_1_f.m3u8?i=513_2251
 #EXTINF:-1 tvg-id="WLUKTV141.us@HD" tvg-name="FOX 11 Green Bay WI (WLUK) (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="~Misc",FOX 11 Green Bay WI (WLUK) (1080p) (ENGLISH)
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WFXT251.us@HD" tvg-name="Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked] (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png" group-title="~Misc",Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked] (ENGLISH)
@@ -3299,8 +3303,6 @@ https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playl
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
 #EXTINF:-1 tvg-id="KEYETV421.us@HD" tvg-name="CBS 42 Austin TX (KEYE) (1080p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="General",CBS 42 Austin TX (KEYE) (1080p) (ENGLISH)
 https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-name="CCTV-4 (2160p) [Geo-blocked] (ENGLISH)" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 (2160p) [Geo-blocked] (ENGLISH)
-http://123.175.209.52:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-name="CCTV-4 Europe (ENGLISH)" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="General",CCTV-4 Europe (ENGLISH)
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CCX1.us@SD" tvg-name="CCX1 (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/1hHW3IK.png" group-title="General",CCX1 (1080p) (ENGLISH)
@@ -3849,6 +3851,8 @@ http://195.64.140.147:10121/121
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg@Indonesia" tvg-name="Nickelodeon Asia Indonesia (1080p) (ENGLISH)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Asia Indonesia (1080p) (ENGLISH)
 https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+#EXTINF:-1 tvg-id="NickelodeonGlobal.uk@SD" tvg-name="Nickelodeon Global (576p) (ENGLISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon Global (576p) (ENGLISH)
+http://46.149.191.217:9011/play/a018
 #EXTINF:-1 tvg-id="NickPlutoTV.us@US" tvg-name="Nickelodeon Pluto TV (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/N7rQyzN.png" group-title="Kids",Nickelodeon Pluto TV (720p) (ENGLISH)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us@SD" tvg-name="Ninja Kidz (720p) (ENGLISH)" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Kids",Ninja Kidz (720p) (ENGLISH)
